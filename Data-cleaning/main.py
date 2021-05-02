@@ -10,11 +10,12 @@ import pandas as pd
 import warnings
 import re
 from tqdm import tqdm
+from geopy.geocoders import Nominatim
 import spacy
 nlp = spacy.load("en_core_web_sm")
 
 
-refineries_file = "refineries_list_merge.xlsx"
+refineries_file = r"C:\Users\brend\OneDrive - Brendan Kermorvan\LBS\London LAB\OilX\Own data\refineries_list_merge.xlsx"
 
 mongoDB_Host = "127.0.0.1"
 mongoDB_Db = "OilX"
@@ -46,6 +47,8 @@ def createNetworkMongo(mongoDB_Host = "localhost", mongoDB_Db = "admin", mongoDB
             warnings.warn("MongoDb connection failed - %s.%s @ %s" % (mongoDB_Db, mongoDB_Col, mongoDB_Host))
     return mycol
 
+
+# Include operators (without suffixes)
 
 # Get list of potential refineries names
 def get_geo_names_refineries(refineries_file):
@@ -175,6 +178,14 @@ def geotag_tweets_cities(mycol, cities_names):
 # Prepare MongoDb collection (add geo_tags key)
 def prep_col(mycol):
     mycol.update_many({}, {"$set": {"geo_tags": []}})
+    
+    
+# Add country information from coordinates to oilx data file
+def geomap_oilx_data(refineries_file_oilx):
+    geolocator = Nominatim(user_agent="nsfnsldskfnfjsadndfasldfnasldfsdf")
+    geotable = pd.read_csv(refineries_file_oilx)
+    location = geolocator.reverse("49.2934, -122.988")
+    location.raw
 
 
 def main():
