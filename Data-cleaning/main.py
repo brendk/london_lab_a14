@@ -7,15 +7,16 @@ Created on Thu Apr 29 19:40:09 2021
 
 import pymongo
 import pandas as pd
+import numpy as np
 import warnings
 import re
 from tqdm import tqdm
-from geopy.geocoders import Nominatim
 import spacy
 nlp = spacy.load("en_core_web_sm")
 
 
-refineries_file = r"C:\Users\brend\OneDrive - Brendan Kermorvan\LBS\London LAB\OilX\Own data\refineries_list_merge.xlsx"
+refineries_file = "data/GeoAssets_Table.csv"
+owners_file = "data/GeoAsset_Owner.csv"
 
 mongoDB_Host = "127.0.0.1"
 mongoDB_Db = "OilX"
@@ -48,19 +49,17 @@ def createNetworkMongo(mongoDB_Host = "localhost", mongoDB_Db = "admin", mongoDB
     return mycol
 
 
-# Include operators (without suffixes)
-
 # Get list of potential refineries names
 def get_geo_names_refineries(refineries_file):
-    names = pd.read_excel(refineries_file)[["ID", "Refinery"]].drop_duplicates(subset = ["Refinery"])
+    names = pd.read_csv(refineries_file)[["GeoAssetID", "GeoAssetName"]].drop_duplicates(subset = ["GeoAssetName"])
     geo_names_r_original = names.to_dict(orient = "records")
     geo_names_r = []
     for geo_name in tqdm(geo_names_r_original):
         # Store original name and id
-        geo_name_orig = geo_name["Refinery"]
-        name_id = geo_name["ID"]
+        geo_name_orig = geo_name["GeoAssetName"]
+        name_id = geo_name["GeoAssetID"]
         # Remove text between parentheses (and parentheses)
-        geo_name = re.sub("[\(].*?[\)]", "", geo_name["Refinery"]).strip()
+        geo_name = re.sub("[\(].*?[\)]", "", geo_name["GeoAssetName"]).strip()
         # Convert to list of words (lowercase)
         words = geo_name.lower().split(" ")
         # Remove "refin*" and "|" + "(" and ")"
@@ -81,15 +80,45 @@ def get_geo_names_refineries(refineries_file):
     return geo_names_r
 
 
+# Get list of potential owners names
+def get_owners_names(owners_file):
+    names = pd.read_csv(owners_file)[["CompanyName"]].drop_duplicates()
+    names = names.replace("Unknown", np.NaN).dropna()["CompanyName"].tolist()
+    owners_names = []
+    for owner_name in tqdm(names):
+        # Store original name
+        name_orig = owner_name
+        # Remove text between parentheses (and parentheses)
+        owner_name = re.sub("[\(].*?[\)]", "", owner_name).strip()
+        # Convert to list of words (lowercase)
+        words = owner_name.lower().split(" ")
+        # Remove "|" + "(" and ")"
+        words = [w.strip().replace("|", "").replace("(", "").replace(")", "") for w in words]
+        # Recreate sentence
+        owner_name = " ".join(words).strip()
+        owners_names.append({"id": None, "initial": name_orig, "match": owner_name, "type": "ownername"})
+        # If 3 words on less, also add 2 first words merged + all 3 merged (e.g. CarsonLA)
+        if len(words) <= 3:
+            owners_names.append({"id": None, "initial": name_orig, "match": "".join(words[:3]), "type": "ownername"})
+            owners_names.append({"id": None, "initial": name_orig, "match": "".join(words[:2]), "type": "ownername"})
+    # Convert geo_names_r to dataframe to drop duplicates
+    owners_names_df = pd.DataFrame(owners_names).drop_duplicates(subset = ["initial", "match"])
+    # Keep only not empty names
+    owners_names_df = owners_names_df[owners_names_df["match"] != ""]
+    # Return as list
+    owners_names = owners_names_df.to_dict(orient = "records")
+    return owners_names
+
+
 # Get list of potential refineries names
 def get_geo_names_cities(refineries_file):
-    cities = pd.read_excel(refineries_file)[["ID", "City"]].drop_duplicates(subset = ["City"]).dropna()
+    cities = pd.read_csv(refineries_file)[["GeoAssetID", "City"]].drop_duplicates(subset = ["City"]).dropna()
     cities_names_original = cities.to_dict(orient = "records")
     cities_names = []
     for city_name in tqdm(cities_names_original):
         # Store original name and id
         city_name_orig = city_name["City"]
-        name_id = city_name["ID"]
+        name_id = city_name["GeoAssetID"]
         # If name contains "-", create new one (keep existing) without "-"
         if "-" in city_name["City"]:
             city_name_2 = " ".join(city_name["City"].replace("-", " ").strip().split())
@@ -154,9 +183,11 @@ def geotag_tweets_refineries(mycol, geo_names_r):
     for geo_name in tqdm(geo_names_r):
         # Get ids of Tweets containing current geoname
         these_ids = [i["_id"] for i in mycol.find({"full_text": {"$regex": "\\b" + geo_name["match"] + "\\b", "$options": "i"}}, {"_id": 1})]
+        # Also perform text match using index (accents insensitive)
+        these_ids.extend([i["_id"] for i in mycol.find({"$text": {"$search": "\"" + geo_name["match"] + "\""}}, {"_id": 1})])
         # Add current geo_name to matching Tweet's geo_tags field
         if len(these_ids) > 0:
-            mycol.update_many({"_id": {"$in": these_ids}}, {"$push": {"geo_tags": geo_name}})
+            mycol.update_many({"_id": {"$in": list(set(these_ids))}}, {"$push": {"geo_tags": geo_name}})
     return
         
 
@@ -169,23 +200,41 @@ def geotag_tweets_cities(mycol, cities_names):
             these_ids = [i["_id"] for i in mycol.find({"full_text": {"$regex": "\\b" + geo_name["match"] + "\\b", "$options": "i"}}, {"_id": 1})]
         else:
             these_ids = [i["_id"] for i in mycol.find({"full_text": {"$regex": geo_name["match"], "$options": "i"}}, {"_id": 1})]
+        # Also perform text match using index (accents insensitive)
+        these_ids.extend([i["_id"] for i in mycol.find({"$text": {"$search": "\"" + geo_name["match"] + "\""}}, {"_id": 1})])
         # Add current geo_name to matching Tweet's geo_tags field
         if len(these_ids) > 0:
-            mycol.update_many({"_id": {"$in": these_ids}}, {"$push": {"geo_tags": geo_name}})
+            mycol.update_many({"_id": {"$in": list(set(these_ids))}}, {"$push": {"geo_tags": geo_name}})
+    return
+
+
+# Match Tweets with owners names
+def match_tweets_owners(mycol, owners_names):
+    for owner_name in tqdm(owners_names):
+        # Get ids of Tweets containing current owner_name
+        # Only look for whole word if len of owner_name is less than 8 (e.g. to get RichmondCA)
+        if len(owner_name) < 8:
+            these_ids = [i["_id"] for i in mycol.find({"full_text": {"$regex": "\\b" + owner_name["match"] + "\\b", "$options": "i"}}, {"_id": 1})]
+        else:
+            these_ids = [i["_id"] for i in mycol.find({"full_text": {"$regex": owner_name["match"], "$options": "i"}}, {"_id": 1})]
+        # Also perform text match using index (accents insensitive)
+        these_ids.extend([i["_id"] for i in mycol.find({"$text": {"$search": "\"" + owner_name["match"] + "\""}}, {"_id": 1})])
+        # Add current owner_name to matching Tweet's owner_tags field
+        if len(these_ids) > 0:
+            mycol.update_many({"_id": {"$in": list(set(these_ids))}}, {"$push": {"owner_tags": owner_name}})
     return
 
 
 # Prepare MongoDb collection (add geo_tags key)
 def prep_col(mycol):
+    # Create indexes if not already exist
+    existing_idx = mycol.index_information()
+    if "full_text" not in existing_idx.keys():
+        mycol.create_index([("full_text", pymongo.ASCENDING)], name = "full_text", unique = False)
+    if "full_text_text" not in existing_idx.keys():
+        mycol.create_index([("full_text", pymongo.TEXT)], name = "full_text_text", unique = False)
     mycol.update_many({}, {"$set": {"geo_tags": []}})
-    
-    
-# Add country information from coordinates to oilx data file
-def geomap_oilx_data(refineries_file_oilx):
-    geolocator = Nominatim(user_agent="nsfnsldskfnfjsadndfasldfnasldfsdf")
-    geotable = pd.read_csv(refineries_file_oilx)
-    location = geolocator.reverse("49.2934, -122.988")
-    location.raw
+    mycol.update_many({}, {"$set": {"owner_tags": []}})
 
 
 def main():
@@ -203,4 +252,8 @@ def main():
     geotag_tweets_cities(mycol, cities_names)
     # Use Spacy to extract other locations (GPEs)
     geotag_tweets(mycol)
+    # Get owners names
+    owners_names = get_owners_names(owners_file)
+    # Match Tweets with owners names
+    match_tweets_owners(mycol, owners_names)
     

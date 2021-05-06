@@ -1,0 +1,1441 @@
+GeoAssetID,GeoAssetName,Latitude,Longitude,CapacityMillionTonnesPerAnnum,CapacityKiloBarrelsPerDay,City,FromDate,ToDate
+4623,Kapolei Refinery (Chevron),21.30983,-158.11013,2.70,54.00,Honolulu,1960-01-01,2018-12-31
+4624,San Lorenzo Refinery,-32.726895,-60.742841,2.50,50.30,San Lorenzo,1938-01-01,
+4625,Kapolei Refinery (Par Pacific),21.30337,-158.09086,4.60,93.50,Ewa Beach,1972-01-01,
+4626,Kenai Refinery,60.683314,-151.366045,3.70,72.00,Kenai,1969-01-01,
+4627,Prudhoe Bay Refinery(BP),70.306822,-148.73131,0.75,13.00,Prudhoe Bay,1975-01-01,2015-12-31
+4627,Prudhoe Bay Refinery(BP),70.306822,-148.73131,0.40,8.00,Prudhoe Bay,2016-01-01,
+4628,North Pole Refinery (Flint Hills),64.73868,-147.349501,11.00,220.00,,1977-01-01,2011-12-31
+4628,North Pole Refinery (Flint Hills),64.73868,-147.349501,4.00,80.00,,2012-01-01,2014-05-31
+4629,North Pole Refinery (Petro Star),64.731402,-147.344564,1.10,22.50,North Pole,1985-01-01,
+4630,Valdez Refinery,61.08104,-146.392511,3.00,55.00,Valdez,1993-01-01,
+4631,Burnaby Refinery,49.29344,-122.988225,2.70,55.00,Burnaby,1935-01-01,
+4632,Cherry Point Refinery,48.883723,-122.735585,11.20,225.00,Ferndale,1971-01-01,2018-12-31
+4632,Cherry Point Refinery,48.883723,-122.735585,11.20,250.00,Ferndale,2019-01-01,
+4633,Prince George Refinery,53.928237,-122.699551,0.60,12.00,Prince George,1967-01-01,
+4634,Ferndale Refinery,48.82933,-122.69827,5.00,105.00,Ferndale,1954-01-01,2016-12-31
+4634,Ferndale Refinery,48.82933,-122.69827,6.00,115.00,Ferndale,2017-01-01,
+4635,Anacortes Refinery (Tesoro),48.489385,-122.561562,5.90,120.00,Anacortes,1955-01-01,
+4636,Anacortes Refinery (Shell),48.47423,-122.55867,7.00,137.00,Anacortes,1958-01-01,
+4637,Chevron Richmond Refinery,37.93941,-122.395938,12.10,245.00,Richmond,1902-01-01,
+4638,Tacoma Refinery,47.256843,-122.395425,2.00,38.00,Tacoma,1957-01-01,2011-12-31
+4638,Tacoma Refinery,47.256843,-122.395425,2.00,40.00,Tacoma,2012-01-01,2017-12-31
+4638,Tacoma Refinery,47.256843,-122.395425,2.00,42.00,Tacoma,2018-01-01,
+4639,Rodeo San Francisco Refinery,38.041008,-122.252796,5.90,120.00,Rodeo,1896-01-01,
+4640,Benicia Refinery,38.06969,-122.139589,7.00,132.00,Benicia,1968-01-01,2014-12-31
+4640,Benicia Refinery,38.06969,-122.139589,7.50,145.00,Benicia,2015-01-01,
+4641,Martinez Refinery (Shell),38.019978,-122.114807,8.15,156.00,Martinez,1915-01-01,2018-12-31
+4641,Martinez Refinery (Shell),38.019978,-122.114807,8.15,161.00,Martinez,2019-01-01,2020-09-01
+4642,Golden Eagle Refinery,38.028325,-122.066668,8.20,166.00,Martinez,1913-01-01,2018-12-31
+4642,Golden Eagle Refinery,38.028325,-122.066668,8.20,180.00,Martinez,2019-01-01,
+4643,Santa Maria Refinery (Phillips 66),35.037687,-120.591158,2.20,45.00,Santa Maria,1932-01-01,
+4644,Bakersfield (Alon Usa Energy Inc),35.418616,-119.011906,3.50,68.00,Bakersfield,1932-01-01,2016-12-31
+4645,Bakersfield Refinery (Kern Oil & Refining Co),35.294951,-118.915994,1.30,27.00,Bakersfield,1934-01-01,
+4646,El Segundo Refinery,33.909711,-118.411583,13.30,269.00,El Segundo,1911-01-01,
+4647,Exxonmobil Torrance Refinery,33.851958,-118.334643,7.40,140.00,Torrance,1929-01-01,2017-12-31
+4647,Exxonmobil Torrance Refinery,33.851958,-118.334643,8.00,145.00,Torrance,2018-01-01,
+4648,Phillips 66 Los Angeles (Wilmington) Refinery,33.77244,-118.28671,6.90,139.00,Wilmington,1919-01-01,
+4649,Tesoro Los Angeles (Carson) Refinery,33.81335,-118.24358,13.30,269.00,Carson,1922-01-01,2018-12-31
+4649,Tesoro Los Angeles (Carson) Refinery,33.81335,-118.24358,18.30,363.00,Carson,2019-01-01,
+4650,Phillips 66 Los Angeles (Carson) Refinery,33.80386,-118.24345,,,,,
+4651,Tesoro Los Angeles (Wilmington) Refinery,33.79851,-118.23345,4.80,97.00,Wilmington,1969-01-01,2014-12-31
+4651,Tesoro Los Angeles (Wilmington) Refinery,33.79851,-118.23345,5.70,114.00,Wilmington,2015-01-01,
+4652,South Gate Refinery,33.946272,-118.166731,0.50,8.50,South Gate,1937-01-01,
+4653,Paramount Refinery,33.899144,-118.148478,2.10,54.00,Paramount,1930-01-01,2011-12-31
+4653,Paramount Refinery,33.899144,-118.148478,4.50,84.00,Paramount,2012-01-01,2017-12-31
+4654,Ely Refinery,38.622486,-115.61888,0.10,2.00,Ely,1984-01-01,
+4655,Strathcona Refinery (Imperial),53.545811,-113.391788,9.40,198.00,Edmonton,1976-01-01,
+4656,Edmonton Strathcona Refinery (Suncor),53.548031,-113.360953,6.60,145.00,Edmonton,1971-01-01,2012-12-31
+4656,Edmonton Strathcona Refinery (Suncor),53.548031,-113.360953,7.00,152.00,Edmonton,2013-01-01,
+4657,Scotford Refinery,53.796416,-113.092338,5.60,114.00,Scotford,1984-01-01,
+4658,Salt Lake City Refinery (Chevron),40.82756,-111.924061,2.20,45.00,Salt Lake City,1948-01-01,2013-12-31
+4658,Salt Lake City Refinery (Chevron),40.82756,-111.924061,3.10,63.00,Salt Lake City,2014-01-01,
+4659,North Salt Lake Refinery,40.83793,-111.922204,1.50,30.50,North Salt Lake,1949-01-01,
+4660,Woods Cross Refinery (Silver Eagle),40.86725,-111.911831,0.70,15.00,Woods Cross,1954-01-01,
+4661,Salt Lake City Refinery (Tesoro),40.794023,-111.909293,3.00,58.00,Salt Lake City,1908-01-01,2014-12-31
+4661,Salt Lake City Refinery (Tesoro),40.794023,-111.909293,3.20,63.00,Salt Lake City,2015-01-01,
+4662,Woods Cross Refinery (Hollyfrontier),40.886915,-111.901157,1.50,31.00,Woods Cross,1932-01-01,2015-12-31
+4662,Woods Cross Refinery (Hollyfrontier),40.886915,-111.901157,2.20,45.00,Woods Cross,2016-01-01,
+4663,Montana Refining Co Refinery ( Great Falls),47.523678,-111.292782,0.50,10.00,Great Falls,1922-01-01,2015-12-31
+4663,Montana Refining Co Refinery ( Great Falls),47.523678,-111.292782,1.20,33.60,Great Falls,2016-01-01,
+4664,Evanston Refinery,41.261308,-110.805969,0.20,3.40,Evanston,1989-01-01,
+4665,Lloydminster Refinery,53.263962,-109.945689,1.40,29.00,Lloydminster,1947-01-01,
+4666,Laurel Refinery,45.65936,-108.763062,2.90,59.60,Laurel,1930-01-01,
+4667,Billings Refinery (Phillips 66),45.782685,-108.488497,3.00,58.00,Billings,1949-01-01,2012-12-31
+4667,Billings Refinery (Phillips 66),45.782685,-108.488497,3.00,61.50,Billings,2013-01-01,
+4668,Billings Refinery (Exxon),45.815402,-108.435977,3.00,58.00,Billings,1949-01-01,2012-12-31
+4668,Billings Refinery (Exxon),45.815402,-108.435977,3.00,61.50,Billings,2013-01-01,
+4669,Gallup Refinery,35.489989,-108.427537,1.00,21.00,Gallup,1957-01-01,2013-12-31
+4669,Gallup Refinery,35.489989,-108.427537,1.30,25.50,Gallup,2014-01-01,2015-12-31
+4669,Gallup Refinery,35.489989,-108.427537,1.40,26.60,Gallup,2016-01-01,2020-09-01
+4670,Sinclair Wyoming Refinery,41.781856,-107.109025,4.20,75.00,Evansville,1924-01-01,2014-12-31
+4670,Sinclair Wyoming Refinery,41.781856,-107.109025,4.20,85.00,Evansville,2015-01-01,
+4671,El Paso Refinery,31.770413,-106.404805,6.20,128.00,El Paso,1928-01-01,2013-12-31
+4671,El Paso Refinery,31.770413,-106.404805,6.60,135.00,El Paso,2014-01-01,
+4672,El Paso (South) Refinery,31.764772,-106.389405,,,,,
+4673,Sinclair Casper Refinery,42.858902,-106.244515,1.25,24.50,Evansville,1923-01-01,2013-12-31
+4674,Douglas Refinery,43.01988,-105.260849,0.40,4.00,Douglas,2008-01-01,2016-11-30
+4675,Suncor Commerce City Refinery,39.804717,-104.948884,5.00,103.00,Denver,1931-01-01,
+4677,Cheyenne Refinery,41.127723,-104.789984,2.40,48.00,Cheyenne,1934-01-01,2020-09-01
+4678,Regina Ccrl Refinery Complex,50.487439,-104.571983,5.50,100.00,Regina,1935-01-01,2012-12-31
+4678,Regina Ccrl Refinery Complex,50.487439,-104.571983,6.70,135.00,Regina,2013-01-01,
+4679,Navajo- Artesia Refinery,32.847565,-104.391668,4.80,98.00,Artesia,1969-01-01,2018-12-31
+4679,Navajo- Artesia Refinery,32.847565,-104.391668,5.50,115.00,Artesia,2019-01-01,
+4680,Newcastle Refinery,43.850688,-104.213968,0.70,14.00,New Castle,1927-01-01,2015-12-31
+4680,Newcastle Refinery,43.850688,-104.213968,0.90,18.00,New Castle,2016-01-01,
+4681,Dakota Prairie Refinery,46.859983,-102.890116,1.00,19.50,Dickinson,2015-01-01,
+4682,Mckee Refinery,35.954815,-101.879591,8.40,170.00,Sunray,1933-01-01,2015-09-30
+4682,Mckee Refinery,35.954815,-101.879591,9.60,195.00,Sunray,2015-10-01,
+4683,Big Spring Refinery,32.269193,-101.413377,3.30,67.00,Big Spring,1929-01-01,2014-12-31
+4683,Big Spring Refinery,32.269193,-101.413377,3.60,73.00,Big Spring,2015-01-01,
+4684,Borger Refinery(Phillips 66),35.693794,-101.367801,7.25,146.00,Borger,1927-01-01,
+4685,Salamanca Refinery,20.576969,-101.182395,12.20,245.00,Salamanca,1950-01-01,2013-12-31
+4685,Salamanca Refinery,20.576969,-101.182395,11.00,220.00,Salamanca,2014-01-01,
+4686,Mandan Refinery,46.846878,-100.888448,3.00,58.00,Mandan,1954-01-01,2011-12-31
+4686,Mandan Refinery,46.846878,-100.888448,3.50,68.00,Mandan,2012-01-01,2012-12-31
+4686,Mandan Refinery,46.846878,-100.888448,3.20,74.00,Mandan,2013-01-01,
+4687,Refineria Cadereyta,25.591868,-99.946272,13.60,275.00,Cadereyta,1979-01-01,
+4688,Refineria Miguel Hidalgo,20.048615,-99.282775,15.50,315.00,Tula Hidalgo,1977-01-01,
+4689,San Antonio Refinery,29.347946,-98.460628,1.00,15.00,San Antonio,1955-01-01,2015-12-31
+4689,San Antonio Refinery,29.347946,-98.460628,1.00,20.00,San Antonio,2016-01-01,
+4690,Three Rivers Refinery,28.457372,-98.185536,4.65,93.00,Three Rivers,1974-01-01,2014-12-31
+4690,Three Rivers Refinery,28.457372,-98.185536,4.40,89.00,Three Rivers,2015-01-01,
+4691,Nixon Refinery,29.261665,-97.786596,0.70,13.80,Nixon,1981-01-01,
+4692,Ncra Mcpherson Refinery,38.34397,-97.674899,4.20,85.00,Mcpherson,1933-01-01,2016-12-31
+4692,Ncra Mcpherson Refinery,38.34397,-97.674899,5.00,100.00,Mcpherson,2017-01-01,
+4693,Corpus Christi Refinery Plant (Flint Hills),27.83775,-97.52581,14.60,296.00,Corpus Christi,1952-01-01,2016-12-31
+4693,Corpus Christi Refinery Plant (Flint Hills),27.83775,-97.52581,14.60,330.00,Corpus Christi,2017-01-01,2019-12-31
+4693,Corpus Christi Refinery Plant (Flint Hills),27.83775,-97.52581,11.60,265.00,Corpus Christi,2020-01-01,
+4694,Corpus Christi Bill Greehey Refinery West (Valero),27.81761,-97.48615,5.80,102.50,Corpus Christi,1983-01-01,2017-12-31
+4694,Corpus Christi Bill Greehey Refinery West (Valero),27.81761,-97.48615,12.00,125.00,Corpus Christi,2018-01-01,
+4695,Corpus Christi Bill Greehey Refinery East (Valero),27.81145,-97.43886,5.80,102.50,Corpus Christi,2001-01-01,2017-12-31
+4695,Corpus Christi Bill Greehey Refinery East (Valero),27.81145,-97.43886,4.80,125.00,Corpus Christi,2018-01-01,
+4696,Thomas Refinery,35.478259,-97.431694,0.60,12.00,,1900-01-01,2014-10-31
+4697,Corpus Christi Refinery (Citgo),27.80964,-97.42695,7.80,157.00,Corpus Christi,1935-01-01,2016-12-31
+4697,Corpus Christi Refinery (Citgo),27.80964,-97.42695,9.00,183.50,Corpus Christi,2017-01-01,
+4698,Corpus Christi Refinery East Plant (Flint Hills),27.80704,-97.42242,,73.50,,2020-01-01,
+4699,Wynnewood Ok Refinery,34.629527,-97.166186,3.50,70.00,Wynnewood,1923-01-01,2017-12-31
+4699,Wynnewood Ok Refinery,34.629527,-97.166186,3.50,75.00,Wynnewood,2018-01-01,
+4700,Ardmore Refinery,34.204669,-97.105656,4.20,86.00,Ardmore,1913-01-01,
+4701,Ponca City Refinery,36.689713,-97.095421,9.50,187.00,Ponca City,1914-01-01,2013-12-31
+4701,Ponca City Refinery,36.689713,-97.095421,10.00,200.00,Ponca City,2014-01-01,2017-12-31
+4701,Ponca City Refinery,36.689713,-97.095421,10.50,202.00,Ponca City,2018-01-01,
+4702,El Dorado Refinery (Hollyfrontier),37.79728,-96.874854,6.80,125.00,El Dorado,1917-01-01,2017-12-31
+4702,El Dorado Refinery (Hollyfrontier),37.79728,-96.874854,8.00,135.00,El Dorado,2018-01-01,
+4703,Alcoa Point Comfort Alumina Refinery,28.65026,-96.5548,,0.00,,1900-01-01,
+4704,Tulsa Refinery (HollyFrontier Corp),36.116296,-96.006914,11.10,125.00,Tulsa,2011-01-01,
+4705,Sweeny Refinery,29.074588,-95.749809,12.20,247.00,Sweeny,1942-01-01,2016-12-31
+4705,Sweeny Refinery,29.074588,-95.749809,12.70,250.00,Sweeny,2017-01-01,2018-12-31
+4705,Sweeny Refinery,29.074588,-95.749809,13.00,260.00,Sweeny,2019-01-01,
+4706,Coffeyville Resources Refinery ( Coop Refinery),37.04797,-95.602743,5.70,115.00,Coffeyville,1906-01-01,2016-12-31
+4706,Coffeyville Resources Refinery ( Coop Refinery),37.04797,-95.602743,6.50,132.00,Coffeyville,2017-01-01,
+4707,Tyler Refinery,32.362803,-95.280583,3.00,60.00,Tyler,1955-01-01,2014-12-31
+4707,Tyler Refinery,32.362803,-95.280583,3.75,75.00,Tyler,2015-01-01,
+4708,Houston Refinery (Valero),29.72246,-95.2549,5.00,100.00,Houston,1942-01-01,2017-12-31
+4708,Houston Refinery (Valero),29.72246,-95.2549,8.00,160.00,Houston,2018-01-01,
+4709,Houston Refinery (Lyondell),29.71403,-95.23546,14.50,292.00,Houston,1918-01-01,
+4710,Pasadena Refinery,29.72592,-95.20625,5.00,100.00,Pasadena,1920-01-01,2014-12-31
+4710,Pasadena Refinery,29.72592,-95.20625,5.50,110.00,Pasadena,2015-01-01,2016-12-31
+4710,Pasadena Refinery,29.72592,-95.20625,6.00,120.00,Pasadena,2017-01-01,
+4711,Chocolate Bayou Refinery,29.232486,-95.194272,,,,,
+4712,Shell Deer Park Refinery,29.720136,-95.127564,14.00,280.00,Deer Park,1929-01-01,2016-12-31
+4712,Shell Deer Park Refinery,29.720136,-95.127564,17.00,340.00,Deer Park,2017-01-01,
+4713,Lyondell-Citgo Refining (Lcr) - Houston Refinery,29.832984,-95.118386,,,,,
+4714,Baytown Refinery,29.74023,-95.01122,27.60,561.00,Baytown,1920-01-01,
+4715,Marathon Galveston Bay Refinery,29.37047,-94.9293,12.60,475.00,Galveston Bay,1934-01-01,2012-12-31
+4715,Marathon Galveston Bay Refinery,29.37047,-94.9293,12.00,459.00,Galveston Bay,2013-01-01,2015-12-31
+4715,Marathon Galveston Bay Refinery,29.37047,-94.9293,17.60,570.00,Galveston Bay,2016-01-01,2018-12-31
+4715,Marathon Galveston Bay Refinery,29.37047,-94.9293,18.20,585.00,Galveston Bay,2019-01-01,
+4716,Marathon Texas City Refinery,29.37597,-94.90917,4.20,86.00,Texas City,1931-01-01,2017-12-31
+4717,Valero Texas City Refinery,29.36976,-94.90342,11.10,225.00,Texas City,1908-01-01,
+4718,Beaumont Refinery,30.067485,-94.069724,18.80,345.00,Beaumont,1903-01-01,2015-12-31
+4718,Beaumont Refinery,30.067485,-94.069724,20.00,369.00,Beaumont,2016-01-01,
+4719,Port Arthur Refinery (Valero),29.865694,-93.963315,14.50,290.00,Port Arthur,1901-01-01,2013-12-31
+4719,Port Arthur Refinery (Valero),29.865694,-93.963315,16.00,335.00,Port Arthur,2014-01-01,
+4720,Port Arthur Refinery (Motiva),29.8862,-93.96315,13.50,275.00,Port Arthur,1903-01-01,2012-04-30
+4720,Port Arthur Refinery (Motiva),29.8862,-93.96315,29.70,603.00,Port Arthur,2012-05-01,2016-12-31
+4720,Port Arthur Refinery (Motiva),29.8862,-93.96315,15.00,635.00,Port Arthur,2017-01-01,
+4721,Isla Refinery,12.130643,-68.925942,16.30,335.00,Willemstad,1918-01-01,
+4722,Port Arthur Refinery (Total),29.96051,-93.88959,11.10,230.00,Port Arthur,1936-01-01,
+4723,Shreveport Refinery,32.467872,-93.792522,3.00,57.00,Shreveport,1900-01-01,
+4724,Princeton Refinery,32.589593,-93.513466,0.50,8.30,Princeton,1953-01-01,
+4725,Cotton Valley Refinery,32.798898,-93.411312,0.60,13.50,Cotton Valley,1900-01-01,
+4726,Lake Charles Refinery (Citgo),30.18067,-93.33014,21.00,425.00,Lake Charles,1944-01-01,2016-12-31
+4726,Lake Charles Refinery (Citgo),30.18067,-93.33014,21.80,440.00,Lake Charles,2017-01-01,
+4727,Calcasieu Lake Charles Refinery,30.13567,-93.319759,3.00,80.00,Lake Charles,1978-01-01,2013-12-31
+4727,Calcasieu Lake Charles Refinery,30.13567,-93.319759,3.50,90.00,Lake Charles,2014-01-01,2017-12-31
+4727,Calcasieu Lake Charles Refinery,30.13567,-93.319759,6.25,110.00,Lake Charles,2018-01-01,
+4728,Lake Charles Refinery (Phillips 66),30.24187,-93.27388,11.80,239.00,Westlake,1941-01-01,2014-12-31
+4728,Lake Charles Refinery (Phillips 66),30.24187,-93.27388,12.30,249.00,Westlake,2015-01-01,
+4729,Pine Bend Refinery,44.769079,-93.04159,15.50,320.00,Pine Blend,1955-01-01,2013-12-31
+4729,Pine Bend Refinery,44.769079,-93.04159,16.50,320.00,Pine Blend,2014-01-01,
+4730,Fort De France Refinery,14.608439,-61.030953,0.80,17.00,Fort de France,1971-01-01,
+4731,Saint Paul Park Refinery,44.850264,-93.000338,3.80,74.00,Saint Paul,1939-01-01,2011-12-31
+4731,Saint Paul Park Refinery,44.850264,-93.000338,5.00,100.00,Saint Paul,2012-01-01,2018-12-31
+4731,Saint Paul Park Refinery,44.850264,-93.000338,3.80,103.00,Saint Paul,2019-01-01,
+4732,Smackover Refinery,33.363998,-92.714274,0.40,7.50,Smackover,1923-01-01,
+4733,El Dorado Refinery (Delek),33.200552,-92.675203,4.10,83.00,El Dorado,1922-01-01,
+4734,Calumet Superior Oil Refinery,46.691556,-92.069881,1.90,38.00,Superior,1951-01-01,2010-12-31
+4735,Krotz Springs Refinery,30.526565,-91.748735,4.00,80.00,Krotz Springs,1980-01-01,
+4736,Port Allen Refinery,30.476259,-91.20661,2.70,57.00,Port Allen,1975-01-01,2014-12-31
+4736,Port Allen Refinery,30.476259,-91.20661,3.70,70.00,Port Allen,2015-01-01,2018-12-31
+4736,Port Allen Refinery,30.476259,-91.20661,4.20,80.00,Port Allen,2019-01-01,
+4737,Baton Rouge Refinery,30.48311,-91.17777,24.80,503.00,Baton Rouge,1909-01-01,
+4738,Vicksburg Refinery,32.386262,-90.908069,1.30,23.00,Vicksburg,1978-01-01,2016-12-31
+4738,Vicksburg Refinery,32.386262,-90.908069,1.30,30.00,Vicksburg,2017-01-01,
+4739,Convent Refinery,30.11246,-90.89393,11.20,227.00,Convent,1967-01-01,
+4740,Garyville Refinery,30.06241,-90.59927,21.50,436.00,Garyville,1976-01-01,2010-12-31
+4740,Garyville Refinery,30.06241,-90.59927,23.00,464.00,Garyville,2011-01-01,2011-12-31
+4740,Garyville Refinery,30.06241,-90.59927,25.50,490.00,Garyville,2012-01-01,2012-12-31
+4740,Garyville Refinery,30.06241,-90.59927,26.00,522.00,Garyville,2013-01-01,2017-12-31
+4740,Garyville Refinery,30.06241,-90.59927,28.00,545.00,Garyville,2018-01-01,2018-12-31
+4740,Garyville Refinery,30.06241,-90.59927,29.50,578.00,Garyville,2019-01-01,
+4741,Norco Refinery,30.002651,-90.401941,11.10,229.00,Norco,1920-01-01,
+4742,Saint Charles Refinery,29.99207,-90.39671,9.50,190.00,Norco,1930-01-01,2014-12-31
+4742,Saint Charles Refinery,29.99207,-90.39671,10.75,215.00,Norco,2015-01-01,
+4743,Wood River Refinery,38.838042,-90.08503,15.60,362.00,Wood River,1918-01-01,2011-12-31
+4743,Wood River Refinery,38.838042,-90.08503,16.60,333.00,Wood River,2012-01-01,2015-12-31
+4743,Wood River Refinery,38.838042,-90.08503,15.60,370.00,Wood River,2016-01-01,
+4744,Memphis Refinery (Premcor),35.08476,-90.083071,9.00,180.00,Memphis,1941-01-01,
+4745,Alliance Refinery (Or Belle Chasse),29.684407,-89.976426,12.20,247.00,Belle Chasse,1971-01-01,2017-12-31
+4745,Alliance Refinery (Or Belle Chasse),29.684407,-89.976426,12.20,240.00,Belle Chasse,2018-01-01,2018-12-31
+4745,Alliance Refinery (Or Belle Chasse),29.684407,-89.976426,12.20,245.00,Belle Chasse,2019-01-01,
+4746,Chalmette Refinery,29.93417,-89.97273,9.40,190.00,Chalmette,1915-01-01,
+4747,Meraux Refinery,29.935334,-89.940257,6.00,120.00,Meraux,1961-01-01,2010-12-31
+4747,Meraux Refinery,29.935334,-89.940257,6.20,125.00,Meraux,2011-01-01,
+4748,Refineria Petrolera Acajutla R.a.s.a,13.568353,-89.828648,1.25,25.00,Acajutla,1963-01-01,2012-08-31
+4749,Sandersville - Hunt Southland Refinery,31.817344,-89.008469,0.65,11.00,Sandersville,1900-01-01,
+4750,Pascagoula Refinery,30.34499,-88.48689,16.80,330.00,Pascagoula,1963-01-01,2017-12-31
+4750,Pascagoula Refinery,30.34499,-88.48689,17.30,350.00,Pascagoula,2018-01-01,
+4751,Joliet Refinery,41.418581,-88.186812,11.80,238.00,Joliet,1972-01-01,
+4752,Saraland Refinery,30.790468,-88.058567,4.20,80.00,Saraland,1975-01-01,2015-12-31
+4752,Saraland Refinery,30.790468,-88.058567,4.70,92.00,Saraland,2016-01-01,
+4753,Lemont Refinery,41.650836,-88.044533,8.30,167.00,Lemont,1925-01-01,2012-12-31
+4753,Lemont Refinery,41.650836,-88.044533,9.00,170.00,Lemont,2013-01-01,
+4754,Puerto Cortes Texaco Refinery,15.85012,-87.95905,,,,,
+4755,Countrymark Refinery (Mount Vernon),37.905746,-87.928899,1.40,26.50,Mount Vernon,1940-01-01,2016-12-31
+4755,Countrymark Refinery (Mount Vernon),37.905746,-87.928899,1.45,30.80,Mount Vernon,2017-01-01,
+4756,Robinson Refinery,38.995414,-87.720094,10.20,206.00,Robinson,1906-01-01,2013-12-31
+4756,Robinson Refinery,38.995414,-87.720094,10.70,212.00,Robinson,2014-01-01,2016-12-31
+4756,Robinson Refinery,38.995414,-87.720094,11.50,215.00,Robinson,2017-01-01,2017-12-31
+4756,Robinson Refinery,38.995414,-87.720094,12.00,220.00,Robinson,2018-01-01,2018-12-31
+4756,Robinson Refinery,38.995414,-87.720094,13.50,253.00,Robinson,2019-01-01,
+4757,Tuscaloosa Refinery,33.199676,-87.608906,3.50,68.00,Tuscaloosa,1946-01-01,
+4758,Whiting Refinery,41.667096,-87.473865,20.50,405.00,Whiting,1890-01-01,2011-12-31
+4758,Whiting Refinery,41.667096,-87.473865,21.50,337.00,Whiting,2012-01-01,2012-12-31
+4758,Whiting Refinery,41.667096,-87.473865,20.50,399.00,Whiting,2013-01-01,2013-12-31
+4758,Whiting Refinery,41.667096,-87.473865,20.50,413.50,Whiting,2014-01-01,2018-12-31
+4758,Whiting Refinery,41.667096,-87.473865,20.50,435.00,Whiting,2019-01-01,
+4759,Cuesta Del Plomo Managua Refinery,12.145933,-86.318525,1.00,20.00,Managua,1962-01-01,
+4760,Somerset Oil Refinery,37.070639,-84.610794,0.35,5.50,Somerset,1932-01-01,2018-12-31
+4761,Premcor Lima Refinery,40.717787,-84.125123,8.00,150.00,Lima,1886-01-01,2016-12-31
+4761,Premcor Lima Refinery,40.717787,-84.125123,8.75,167.00,Lima,2017-01-01,2018-12-31
+4761,Premcor Lima Refinery,40.717787,-84.125123,10.00,200.00,Lima,2019-01-01,
+4762,Pbf Toledo Refinery,41.632725,-83.50214,8.40,170.00,Toledo,1894-01-01,
+4763,Toledo Refinery,41.68,-83.454065,8.00,160.00,Toledo,1919-01-01,
+4764,Detroit Refinery,42.283554,-83.157686,5.00,106.00,Detroit,1930-01-01,2011-12-31
+4764,Detroit Refinery,42.283554,-83.157686,6.00,123.00,Detroit,2012-01-01,2014-12-31
+4764,Detroit Refinery,42.283554,-83.157686,7.00,132.00,Detroit,2015-01-01,2016-12-31
+4764,Detroit Refinery,42.283554,-83.157686,8.00,145.00,Detroit,2017-01-01,
+4765,Catlettsburg Refinery,38.376359,-82.59645,10.50,212.00,Catlettsburg,1922-01-01,2011-12-31
+4765,Catlettsburg Refinery,38.376359,-82.59645,11.50,233.00,Catlettsburg,2012-01-01,2012-12-31
+4765,Catlettsburg Refinery,38.376359,-82.59645,12.00,240.00,Catlettsburg,2013-01-01,2017-12-31
+4765,Catlettsburg Refinery,38.376359,-82.59645,14.00,260.00,Catlettsburg,2018-01-01,2018-12-31
+4765,Catlettsburg Refinery,38.376359,-82.59645,15.50,277.00,Catlettsburg,2019-01-01,
+4766,Sarnia (Shell) - Shell's Corunna Refinery,42.902477,-82.45052,3.70,75.00,St. Clair,1952-01-01,
+4767,Sarnia (Suncor),42.929606,-82.440096,4.00,85.00,Sarnia,1953-01-01,
+4768,Sarnia (Imperial Oil),42.943097,-82.414736,6.00,121.00,Sarnia,1897-01-01,
+4769,Refineria Nico Lopez,23.13507,-82.31708,6.10,120.80,Havana,1900-01-01,2014-12-31
+4769,Refineria Nico Lopez,23.13507,-82.31708,1.80,36.40,Havana,2015-01-01,
+4770,Canton Refinery,40.774926,-81.413925,5.00,78.00,Canton,1931-01-01,2011-12-31
+4770,Canton Refinery,40.774926,-81.413925,5.50,90.00,Canton,2012-01-01,2015-12-31
+4770,Canton Refinery,40.774926,-81.413925,6.00,93.00,Canton,2016-01-01,2018-12-31
+4770,Canton Refinery,40.774926,-81.413925,5.00,95.00,Canton,2019-01-01,
+4771,La Refineria De Talara,-4.583268,-81.283359,3.20,65.00,Talara,1917-01-01,
+4772,Savannah Citgo Asphalt Refinery,32.11701,-81.13536,,,,,
+4773,Nustar Savannah Refinery,32.104737,-81.123528,1.50,28.00,Savannah,1930-01-01,2014-11-30
+4774,Phillips 66 Savannah North Refinery,32.09509,-81.11077,,,,,
+4775,Phillips 66 Savannah South Refinery,32.07616,-81.04848,,,,,
+4776,Refineria La Libertad,-2.225793,-80.898752,2.30,44.00,Santa Elena,1990-01-01,
+4777,Newell Refinery,40.610383,-80.629126,1.10,22.30,Newell,1972-01-01,
+4778,Nanticoke Refinery,42.830491,-80.047723,5.50,115.00,Nanticoke,1978-01-01,
+4779,Petroecuador - Esmeraldas,0.933581,-79.691616,5.54,110.00,Esmeraldas,1977-01-01,
+4780,Clarkson Refinery,43.505096,-79.616609,0.80,15.60,Mississauga,1985-01-01,
+4781,Warren Refinery,41.829246,-79.124153,6.50,65.00,Warren,1902-01-01,
+4782,Refineria El Milagro (Petroperu),-5.673234,-78.636838,0.12,2.00,El Milagro,1996-01-01,
+4783,Bradford Oil Refinery,41.979044,-78.623448,0.50,11.00,Bradford,1881-01-01,
+4784,Refineria La Pampilla,-11.918157,-77.130503,5.00,102.00,Lima,1967-01-01,2016-03-31
+4784,Refineria La Pampilla,-11.918157,-77.130503,5.90,117.00,Lima,2016-04-01,
+4785,Refineria Conchan,-12.25288,-76.922771,0.78,15.50,Lima,1954-01-01,
+4786,Orito Oil Refinery,0.675861,-76.877695,,,"",1900-01-01,
+4787,Kinsgton Refinery,17.97535,-76.81504,1.80,36.00,Kingston,1964-01-01,
+4788,Amazonas Shushufindi Refinery,-0.200841,-76.656369,1.00,20.00,Shushufindi,1987-01-01,
+4789,Yorktown Oil Refinery,37.21167,-76.44909,3.50,66.00,Yorktown,1956-01-01,2011-11-30
+4790,Delaware Refinery (Pbf Energy),39.58773,-75.6307,9.50,190.00,Delaware City,1957-01-01,2016-12-31
+4790,Delaware Refinery (Pbf Energy),39.58773,-75.6307,11.00,200.00,Delaware City,2017-01-01,
+4791,Marcus Hook Refinery,39.81315,-75.42213,7.85,178.00,Marcus Hook,1902-01-01,2011-11-30
+4792,Trainer Refinery,39.819395,-75.403293,9.40,185.00,Trainer,1925-01-01,2015-12-31
+4792,Trainer Refinery,39.819395,-75.403293,10.00,200.00,Trainer,2016-01-01,
+4793,Paulsboro Refinery (Pbf),39.843445,-75.264238,9.00,180.00,Paulsboro,1917-01-01,2012-12-31
+4793,Paulsboro Refinery (Pbf),39.843445,-75.264238,8.00,160.00,Paulsboro,2013-01-01,
+4794,Paulsboro Refinery (Nustar),39.8464,-75.22566,3.70,74.00,Paulsboro,1978-01-01,2016-12-31
+4795,Minatitlan(Refineria General Lazaro Cardenas Del Rio),17.979421,-94.530787,14.10,285.00,Minatitlan,1956-01-01,
+4796,Philadelphia Refinery (Pes),39.90638,-75.20442,17.30,335.00,Philadelphia,1870-01-01,
+4797,Philadelphia Eagle Point Refinery,39.87019,-75.14996,7.25,145.00,Eagle Point,1900-01-01,2010-01-31
+4798,Refinery Of Pucallpa,-8.392282,-74.532935,0.22,3.50,Pucallpa,1966-01-01,
+4799,New York Perth Amboy Refinery Terminal,40.53952,-74.25923,4.00,80.00,Perth Amboy,1920-01-01,2012-06-30
+4800,Bayway Refinery,40.629687,-74.222843,11.90,241.00,Linden,1909-01-01,2017-12-31
+4800,Bayway Refinery,40.629687,-74.222843,12.90,260.00,Linden,2018-01-01,
+4801,Barrancabaermeja Santander Refinery,7.069727,-73.881795,13.00,250.00,Santander,1961-01-01,
+4802,Montreal Refinery,45.6434,-73.5245,6.80,142.00,Montreal,1955-01-01,
+4803,Apiay Oil Refinery,4.077867,-73.377312,0.10,2.20,Apiay,1981-01-01,
+4804,Refineria Iquitos-Loreto,-3.632826,-73.206207,0.56,10.00,Iquito,1982-01-01,2012-12-31
+4804,Refineria Iquitos-Loreto,-3.632826,-73.206207,0.60,12.00,Iquito,2013-01-01,
+4805,Biobio Refinery,-36.780903,-73.12042,0.90,112.00,Concepcion,1966-01-01,
+4806,Tibu Refinery (Ecopetrol),8.670145,-72.715373,0.10,1.80,N. de Santander,1900-01-01,
+4807,Centro De Refinacion De Paraguana (Bajo Grande Refinery),10.509123,-71.640389,1.30,16.00,Bajo Grande,1956-01-01,2015-10-31
+4809,Aconcagua Concon Refinery,-32.927639,-71.499591,5.39,107.00,Concon,1955-01-01,
+4810,Jean Gaulin Refinery (Or Quebec City Refinery),46.758084,-71.199661,11.60,240.00,Levis,1971-01-01,
+4811,Cartagena Refinery,10.31363,-75.49818,4.00,80.00,Cartagena,1957-01-01,2016-05-31
+4811,Cartagena Refinery,10.31363,-75.49818,10.50,165.00,Cartagena,2016-06-01,
+4812,Gregorio Refinery,-52.938396,-70.809731,0.55,11.00,Punta Arenas,1980-01-01,2011-12-31
+4812,Gregorio Refinery,-52.938396,-70.809731,0.70,15.00,Punta Arenas,2012-01-01,2014-12-31
+4812,Gregorio Refinery,-52.938396,-70.809731,1.25,25.00,Punta Arenas,2015-01-01,
+4813,Citgo Aruba Refinery,12.43088,-69.90438,11.60,235.00,San Nicolas,1929-01-01,2012-04-30
+4814,Plaza Huincul Refinery,-38.92811,-69.18197,1.20,25.00,Neuquen,1919-01-01,
+4815,Lujan De Cuyo Refinery,-33.065248,-68.97367,5.20,105.00,Mendoza,1943-01-01,
+4816,Gualberto Villarroel Cochabamba Refinery,-17.452744,-66.123342,1.40,27.70,Cochabamba,1948-01-01,2014-11-30
+4816,Gualberto Villarroel Cochabamba Refinery,-17.452744,-66.123342,2.25,45.00,Cochabamba,2014-12-01,
+4817,Saint John Refinery,45.284336,-66.006189,14.80,300.00,Saint John,1960-01-01,
+4819,Carlos Montenegro Sucre Refinery,-19.007142,-65.239039,0.20,3.00,Santa Cruz de la Sierra,1900-01-01,
+4820,Petrocedeno,10.068221,-64.885893,,,Orinoco belt,2002-01-01,
+4821,Puerto La Cruz Refinery,10.213254,-64.617862,9.50,187.00,Puerto de la Cruz,1950-01-01,2016-02-29
+4821,Puerto La Cruz Refinery,10.213254,-64.617862,9.50,192.00,Puerto de la Cruz,2016-03-01,
+4822,Jose Antonio Anzotegui Complex,10.07154,-64.87367,,,Barcelona,2001-01-01,
+4823,Hovensa Refinery (St.Croix),17.71165,-64.75277,24.70,650.00,St. Croix,1900-01-01,2011-02-28
+4823,Hovensa Refinery (St.Croix),17.71165,-64.75277,13.30,350.00,St. Croix,2011-03-01,2012-02-29
+4823,Hovensa Refinery (St.Croix),17.71165,-64.75277,10.00,220.00,St. Croix,2020-01-01,
+4824,Campo Duran Refinor Refinery,-22.206498,-63.661973,1.31,26.10,Campo Duran,1992-01-01,
+4825,Dartmouth Refinery,44.643653,-63.532391,4.00,85.00,Dartmouth,1918-01-01,2013-12-31
+4826,Guillermo Elder Bell Santa Cruz Refinery,-17.876017,-63.203058,1.25,25.00,Santa Cruz de la Sierra,1979-01-01,2012-12-31
+4826,Guillermo Elder Bell Santa Cruz Refinery,-17.876017,-63.203058,1.50,35.00,Santa Cruz de la Sierra,2013-01-01,
+4827,Cangrejales Floating Refinery,-38.781,-62.3031,,,,,
+4828,Bahia Blanca Refinery,-38.74643,-62.299279,1.60,31.00,Bahia Blanca,1900-01-01,
+4829,Duperial Refinery,-32.76692,-60.72757,,,,,
+4830,Reman (Isaac Sabbá) Refinery,-3.14064,-59.95424,2.30,46.00,Manaus,1957-01-01,
+4831,Muelle Sol Petroleo,-34.15398,-58.93735,,,,,
+4832,Villa Elisa refinery,-25.387634,-57.605965,0.38,7.50,Villa Elisa,1966-01-01,
+4833,La Teja Montevideo Refinery,-34.873817,-56.226998,2.50,50.00,Montevideo,1937-01-01,
+4834,Staatsolie Refinery,5.763755,-55.148601,0.51,11.00,Tout Lui Faut,1997-01-01,2015-11-30
+4834,Staatsolie Refinery,5.763755,-55.148601,0.70,15.00,Tout Lui Faut,2015-12-01,
+4835,Come By Chance Refinery (Or North Atlantic Refinery),47.798402,-53.99624,5.70,130.00,Come By Chance,1973-01-01,2016-06-30
+4835,Come By Chance Refinery (Or North Atlantic Refinery),47.798402,-53.99624,6.40,145.00,Come By Chance,2016-07-01,2021-01-01
+4836,Ipiranga Refinery,-32.070263,-52.090223,0.80,17.00,Pelotas,1937-01-01,
+4837,Alberto Pasqualini Refap Refinery,-29.872596,-51.167106,9.40,190.00,Canoas,1968-01-01,2010-12-31
+4837,Alberto Pasqualini Refap Refinery,-29.872596,-51.167106,9.60,195.00,Canoas,2011-01-01,2012-12-31
+4837,Alberto Pasqualini Refap Refinery,-29.872596,-51.167106,10.30,208.00,Canoas,2013-01-01,
+4838,Refineria De Petroleo Hermanos Diaz,20.003516,-75.869716,1.40,22.00,Santiago,1990-01-01,2018-04-30
+4838,Refineria De Petroleo Hermanos Diaz,20.003516,-75.869716,1.50,30.00,Santiago,2018-05-01,
+4839,Presidente Getulio Vargas Refinery (Repar),-25.568196,-49.366563,11.20,189.00,Araucaria,1977-01-01,2010-12-31
+4839,Presidente Getulio Vargas Refinery (Repar),-25.568196,-49.366563,11.70,195.00,Araucaria,2011-01-01,2012-12-31
+4839,Presidente Getulio Vargas Refinery (Repar),-25.568196,-49.366563,12.20,208.00,Araucaria,2013-01-01,
+4840,Paulinia Refinery (Replan),-22.731265,-47.136012,20.00,396.00,Paulinia,1972-01-01,2012-12-31
+4840,Paulinia Refinery (Replan),-22.731265,-47.136012,20.90,415.00,Paulinia,2013-01-01,
+4841,Capuava Recap Refinery,-23.639542,-46.484333,3.10,63.00,Maua,1954-01-01,
+4842,Presidente Bernardes Refinery (RPBC),-23.86833,-46.430634,8.70,178.00,Cubatao,1955-01-01,
+4843,Henrique Lage Refinery,-23.194091,-45.828131,12.40,252.00,Sao Jose dos Campos,1980-01-01,
+4844,Gabriel Passos Refinery (Regap),-19.97201,-44.096352,8.20,166.00,Betim,1968-01-01,
+4845,Duque De Caxias Refinery (Reduc),-22.721437,-43.264278,12.00,242.00,Duque de Caxias,1961-01-01,2010-12-31
+4845,Duque De Caxias Refinery (Reduc),-22.721437,-43.264278,11.90,239.00,Duque de Caxias,2011-01-01,
+4846,Manguinhos Refinery,-22.886273,-43.236532,0.70,15.00,Rio de Janeiro,1954-01-01,
+4847,Landulpho Alves Refinery (Rlam),-12.712121,-38.571142,14.10,280.00,Sao Francisco do Conde,1950-01-01,2012-12-31
+4847,Landulpho Alves Refinery (Rlam),-12.712121,-38.571142,15.15,306.00,Sao Francisco do Conde,2013-01-01,2013-12-31
+4847,Landulpho Alves Refinery (Rlam),-12.712121,-38.571142,15.65,315.00,Sao Francisco do Conde,2014-01-01,2019-02-28
+4847,Landulpho Alves Refinery (Rlam),-12.712121,-38.571142,16.60,333.00,Sao Francisco do Conde,2019-03-01,
+4848,Petrobras Lubnor,-3.71817,-38.46989,0.50,9.00,Fortaleza,1966-01-01,
+4849,Abreu E Lima Refinery (Rnest),-8.405168,-34.966792,11.30,230.00,Ipojuca,2014-12-01,
+4850,Mbao Oil Refinery,14.741061,-17.348166,1.30,28.00,Dakar,1963-01-01,
+4851,Somir Refinery,20.83088,-17.04632,,,,,
+4852,Tenerife Refinery,28.453987,-16.264687,4.50,90.00,Tenerife,1930-01-01,2013-12-31
+4852,Tenerife Refinery,28.453987,-16.264687,0.00,0.00,Tenerife,2014-01-01,
+4853,Freetown Refinery,8.48078,-13.18686,,,,,
+4854,Sines Refinery,37.960489,-8.811123,10.90,220.00,Sines,1978-01-01,
+4855,Matosinhos Refinery,41.209031,-8.707003,5.40,110.00,Porto,1969-01-01,
+4857,La Coruna Refinery,43.355531,-8.449347,5.90,120.00,La Coruna,1964-01-01,
+4859,Whitegate Refinery,51.820466,-8.248062,3.60,71.00,Cork,1959-01-01,2014-12-31
+4859,Whitegate Refinery,51.820466,-8.248062,3.70,75.00,Cork,2015-01-01,
+4860,San Cibrao Alumina Refinery,43.70064,-7.46534,,,,,
+4861,Samir Mohammedia Refinery,33.682209,-7.43015,10.00,200.00,Mohammedia,1959-01-01,2015-07-31
+4861,Samir Mohammedia Refinery,33.682209,-7.43015,0.00,0.00,Mohammedia,2015-08-01,
+4862,Huelva Refinery (La Rabida),37.188713,-6.90604,8.00,150.00,Huelva,1967-01-01,
+4863,La Rabida Refinery,37.185806,-6.900084,7.56,150.45,"Palos de
+  la Frontera",1967-01-01,2010-12-31
+4863,La Rabida Refinery,37.185806,-6.900084,9.63,191.00,"Palos de
+  la Frontera",2011-01-01,2017-02-28
+4863,La Rabida Refinery,37.185806,-6.900084,10.13,200.86,"Palos de
+  la Frontera",2017-03-01,
+4864,Cepsa Refinery (Algeciras),36.183724,-5.397904,12.00,240.00,Gibraltar San Roque,1969-01-01,
+4865,Pembroke Refinery,51.686202,-5.028326,12.50,220.00,Pembroke,1964-01-01,2014-12-31
+4865,Pembroke Refinery,51.686202,-5.028326,12.00,210.00,Pembroke,2015-01-01,
+4866,Puertollano Refinery,38.674692,-4.051788,7.50,150.00,Puertollano,1965-01-01,
+4867,Abidjan Refinery,5.261767,-3.993252,4.10,84.00,Abidjan,1965-01-01,2020-04-30
+4867,Abidjan Refinery,5.261767,-3.993252,4.20,93.00,Abidjan,2020-05-01,
+4868,Grangemouth Refinery,56.018632,-3.683518,11.50,210.00,Grangemouth,1924-01-01,2020-12-31
+4868,Grangemouth Refinery,56.018632,-3.683518,7.50,150.00,Grangemouth,2021-01-01,
+4869,Bilbao (Muskiz) Refinery,43.327961,-3.112114,11.00,220.00,Muskiz,1970-01-01,2012-12-31
+4869,Bilbao (Muskiz) Refinery,43.327961,-3.112114,11.00,220.00,Muskiz,2013-01-01,
+4870,Nynas Dundee Refinery,56.464503,-2.952229,1.00,9.00,Dundee,1931-01-01,2013-12-31
+4871,Stanlow Refinery (Essar Oil Ltd),53.268185,-2.847855,13.00,296.00,Stanlow,1924-01-01,2014-09-30
+4871,Stanlow Refinery (Essar Oil Ltd),53.268185,-2.847855,9.50,195.00,Stanlow,2014-10-01,2018-02-28
+4871,Stanlow Refinery (Essar Oil Ltd),53.268185,-2.847855,9.00,180.77,Stanlow,2018-03-01,
+4872,Donges Refinery,47.314404,-2.063529,11.60,230.00,Donges,1935-01-01,2011-12-31
+4872,Donges Refinery,47.314404,-2.063529,10.95,219.00,Donges,2012-01-01,
+4873,Fawley Refinery,50.828349,-1.366523,19.00,330.00,Fawley,1921-01-01,2011-12-31
+4873,Fawley Refinery,50.828349,-1.366523,17.00,262.00,Fawley,2012-01-01,
+4874,Repsol Ypf Cartagena Refinery,37.575706,-0.933973,5.50,110.00,Murcia,1950-01-01,2012-12-31
+4874,Repsol Ypf Cartagena Refinery,37.575706,-0.933973,10.90,220.00,Murcia,2013-01-01,
+4875,Arzew Refinery (RA1.Z),35.814577,-0.261575,2.58,65.00,Arzew,1973-01-01,2012-12-31
+4875,Arzew Refinery (RA1.Z),35.814577,-0.261575,3.80,80.00,Arzew,2013-01-01,2018-01-31
+4875,Arzew Refinery (RA1.Z),35.814577,-0.261575,4.03,85.00,Arzew,2018-02-01,
+4876,Lindsey Oil Refinery,53.644495,-0.250437,9.80,220.00,Lindsey,1968-01-01,2011-12-31
+4876,Lindsey Oil Refinery,53.644495,-0.250437,9.30,207.00,Lindsey,2012-01-01,2015-12-31
+4876,Lindsey Oil Refinery,53.644495,-0.250437,4.50,109.00,Lindsey,2016-01-01,
+4877,Humber Refinery,53.629551,-0.243988,13.00,221.00,Humber,1969-01-01,
+4878,Castellon Refinery,39.94792,-0.003107,6.00,110.00,Castellon,1967-01-01,
+4879,Mont Belvieu Gas Processing Plants,29.83988,-94.900319,,,,,
+4880,Tema Oil Refinery,5.668132,0.005641,2.20,45.00,Tema,1963-01-01,2016-12-31
+4880,Tema Oil Refinery,5.668132,0.005641,3.20,65.00,Tema,2017-01-01,2018-12-31
+4880,Tema Oil Refinery,5.668132,0.005641,2.20,45.00,Tema,2019-01-01,
+4881,Gonfreville L'orcher Refinery (Or Normandy Refinery),49.487039,0.235331,10.00,199.00,Gonfreville l’Orcher,1933-01-01,2011-12-31
+4881,Gonfreville L'orcher Refinery (Or Normandy Refinery),49.487039,0.235331,12.35,247.00,Gonfreville l’Orcher,2012-01-01,2012-12-31
+4881,Gonfreville L'orcher Refinery (Or Normandy Refinery),49.487039,0.235331,12.35,247.00,Gonfreville l’Orcher,2013-01-01,2016-05-31
+4881,Gonfreville L'orcher Refinery (Or Normandy Refinery),49.487039,0.235331,12.65,253.00,Gonfreville l’Orcher,2016-06-01,
+4882,Port-Jerome-Gravenchon Refinery,49.47036,0.546726,11.70,235.00,Port Jerome,1933-01-01,2014-12-31
+4882,Port-Jerome-Gravenchon Refinery,49.47036,0.546726,12.05,239.00,Port Jerome,2015-01-01,
+4883,Repsol Ypf Tarragona Refinery,41.172299,1.218347,9.10,180.00,Tarragona,1975-01-01,2010-12-31
+4883,Repsol Ypf Tarragona Refinery,41.172299,1.218347,9.00,172.00,Tarragona,2011-01-01,
+4884,Flandres Refinery,51.0322,2.2636,,,,1974-01-01,2008-12-31
+4885,Dunkirk Refinery,51.042248,2.329466,0.30,6.60,Dunkirk,1900-01-01,2015-12-31
+4886,Grandpuits Refinery,48.588912,2.939331,5.00,101.00,Grandpuits,1965-01-01,
+4887,Alger Refinery  (RA1.G),36.673933,3.122195,2.73,54.20,Alger,1964-01-01,2015-12-31
+4887,Alger Refinery  (RA1.G),36.673933,3.122195,6.50,80.00,Alger,2016-01-01,
+4888,El Harrach Refinery,36.737046,3.126075,,,,,
+4889,Zeeland Refinery,51.444982,3.728222,7.40,149.00,Vlissingen,1974-01-01,
+4890,Bp Rotterdam Refinery,51.949327,4.103656,18.80,377.00,Rotterdam,1967-01-01,
+4891,(Europoort) Rozenburg Refinery,51.934923,4.173878,4.40,90.40,Rotterdam,1983-01-01,2012-12-31
+4891,(Europoort) Rozenburg Refinery,51.934923,4.173878,4.00,80.00,Rotterdam,2013-01-01,2014-12-31
+4891,(Europoort) Rozenburg Refinery,51.934923,4.173878,4.40,88.00,Rotterdam,2015-01-01,2020-12-31
+4892,VPR Energy BV Refinery,51.9124,4.21721,4.20,80.00,Rotterdam,1993-01-01,
+4893,Antwerp Refinery (Gunvor),51.33144,4.285876,5.30,107.50,Scheldelaan,1968-01-01,2020-05-31
+4894,Independent Belgian Refinery Ibr - Gunvor,51.312804,4.295824,,,,,
+4895,Rotterdam Refinery (Esso),51.876143,4.300659,9.40,192.00,Rotterdam,1960-01-01,
+4896,Antwerp Refinery (Total),51.268252,4.320556,17.30,350.00,Antwerp,1951-01-01,2011-12-31
+4896,Antwerp Refinery (Total),51.268252,4.320556,16.70,338.00,Antwerp,2012-01-01,
+4897,Antwerp Refinery (Exxon),51.256108,4.33666,14.00,307.00,Antwerp,1953-01-01,
+4898,Shell Pernis Refinery,51.882923,4.363359,19.70,404.00,Rotterdam,1902-01-01,
+4899,Feyzin Refinery,45.675093,4.841341,5.90,117.00,Feyzin,1964-01-01,2011-12-31
+4899,Feyzin Refinery,45.675093,4.841341,5.50,109.00,Feyzin,2012-01-01,
+4900,Fos-sur-Mer Refinery,43.444798,4.923934,6.00,119.00,Fos sur Mer,1965-01-01,2010-12-31
+4900,Fos-sur-Mer Refinery,43.444798,4.923934,6.70,133.00,Fos sur Mer,2011-01-01,
+4901,Lavera Marseilles Refinery,43.38662,5.005543,10.50,210.00,Lavera,1933-01-01,
+4902,Salina Cruz Refinery,16.212564,-95.17321,16.30,330.00,Salina Cruz,1979-01-01,
+4903,La Mede Refinery (Provence),43.394096,5.096733,7.80,158.00,La Mede,1935-01-01,2015-12-31
+4904,Warri (WRPC),5.567117,5.716755,6.20,125.00,Warri    ,1978-01-01,
+4905,Hassi Messaoud Refinery (RHM),31.791813,6.056501,1.25,30.00,Hassi,1962-01-01,
+4906,Collombey Refinery,46.285933,6.952313,2.50,50.20,Collombey,1962-01-01,2010-12-31
+4906,Collombey Refinery,46.285933,6.952313,3.63,72.00,Collombey,2011-01-01,2015-04-30
+4907,Skikda Refinery (RA1.K),36.871512,6.974083,15.00,323.00,Skikda,1900-01-01,2013-05-31
+4907,Skikda Refinery (RA1.K),36.871512,6.974083,16.50,360.00,Skikda,2013-06-01,
+4908,Godorf - Rheinland Refinery,50.85928,6.9825,9.30,189.00,Cologne,1960-01-01,2002-12-31
+4908,Godorf - Rheinland Refinery,50.85928,6.9825,16.50,327.00,Cologne,2002-01-01,
+4909,Cressier Refinery,47.039378,7.03645,3.40,68.00,Cressier,1966-01-01,
+4910,La Plata Refinery,-34.882779,-57.910391,9.30,189.00,Buenos Aires,1925-01-01,
+4911,Raffinerie Gelsenkirchen,51.534978,7.048833,12.80,265.00,Gelsenkirchen,1935-01-01,
+4912,Port Harcourt (Phrc) Refinery,4.758884,7.106259,10.40,210.00,Port Hartcourt,1965-01-01,
+4913,Emsland Lingen Refinery,52.559558,7.306951,4.70,95.00,Lingen,1953-01-01,
+4914,Kaduna (KRPC) Refinery,10.413687,7.490631,5.40,110.00,Kaduna,1980-01-01,2019-12-31
+4914,Kaduna (KRPC) Refinery,10.413687,7.490631,5.40,115.00,Kaduna,2020-01-01,
+4915,Miro Karlsruhe Refinery,49.056044,8.327879,15.40,310.00,Karlsruhe,1962-01-01,2016-12-31
+4915,Miro Karlsruhe Refinery,49.056044,8.327879,14.20,287.00,Karlsruhe,2017-01-01,2019-03-31
+4915,Miro Karlsruhe Refinery,49.056044,8.327879,16.00,318.50,Karlsruhe,2019-04-01,
+4916,Sogara Refinery,-0.681298,8.77591,1.10,24.00,Port Gentil,1967-01-01,
+4917,Soraz Refinery,14.186696,8.78421,1.00,20.00,Zinder,2011-01-01,
+4918,Sarpom Trecate Novara Refinery,45.439883,8.784857,8.77,174.00,Trecate,1952-01-01,2011-12-31
+4918,Sarpom Trecate Novara Refinery,45.439883,8.784857,6.40,127.00,Trecate,2012-01-01,2014-12-31
+4918,Sarpom Trecate Novara Refinery,45.439883,8.784857,6.55,132.00,Trecate,2015-01-01,
+4919,Sannazzaro Refinery,45.099833,8.877948,11.10,223.00,Sannazzaro,1963-01-01,2011-12-31
+4919,Sannazzaro Refinery,45.099833,8.877948,11.10,223.00,Sannazzaro,2012-01-01,2013-12-31
+4919,Sannazzaro Refinery,45.099833,8.877948,10.00,200.00,Sannazzaro,2014-01-01,2019-12-31
+4919,Sannazzaro Refinery,45.099833,8.877948,11.10,247.00,Sannazzaro,2020-01-01,
+4920,Iplom Busalla Refinery,44.574413,8.947999,1.89,38.00,Busalla,1943-01-01,
+4921,Sarroch Refinery,39.087725,9.015483,15.60,316.00,Sarroch,1965-01-01,
+4922,Heide Refinery,54.159563,9.070304,4.30,90.00,Heide,1940-01-01,2014-12-31
+4922,Heide Refinery,54.159563,9.070304,4.15,84.36,Heide,2015-01-01,
+4923,Sonara Limbe Refinery,4.011893,9.126632,2.10,43.00,Limbe,1981-01-01,2016-06-30
+4923,Sonara Limbe Refinery,4.011893,9.126632,3.60,70.30,Limbe,2016-07-01,
+4924,Total - Brunsbuttel Oil Refinery,53.911859,9.189004,,,,,
+4925,Fredericia Refinery,55.593903,9.745913,3.40,64.00,Fredericia,1966-01-01,2014-12-31
+4925,Fredericia Refinery,55.593903,9.745913,3.52,67.00,Fredericia,2015-01-01,
+4926,Bizerte Refinery (Stir),37.254769,9.888837,2.00,40.00,Bizerte,1962-01-01,
+4927,Hamburg Holburn Refinery,53.480317,9.947077,5.20,105.00,Hamburg,1972-01-01,
+4928,Hamburg Refinery,53.512787,9.959474,,,,,
+4929,Harburg Refinery,53.487719,9.967468,5.50,108.00,Hamburg,1929-01-01,2012-12-31
+4929,Harburg Refinery,53.487719,9.967468,2.92,58.00,Hamburg,2013-01-01,
+4930,Eni Livorno Oil Refinery,43.582519,10.337304,5.20,106.00,Livorno,1936-01-01,
+4931,Slagen Refinery,59.320533,10.512258,6.00,120.00,Slagen,1961-01-01,
+4932,Kalundborg Refinery,55.653879,11.101099,5.50,110.00,Kalundborg,1960-01-01,
+4933,Preemraff Lysekil Refinery,58.348628,11.428247,11.00,220.00,Brofjorden Lysekil,1975-01-01,
+4934,Centro De Refinacion De Paraguana (Cardon Refinery),11.629422,-70.223246,15.30,310.00,Cardon,1949-01-01,
+4935,Gunvor Refinery Ingolstadt,48.749927,11.481968,5.40,110.00,Kösching,1963-01-01,
+4937,Preemraff Goeteborg Refinery,57.71128,11.829137,6.20,125.00,Gothenburg,1967-01-01,
+4938,Pointe Noire Refinery,-4.78921,11.83433,1.00,21.00,Pointe Noire,1974-01-01,
+4939,Nynas Gothenburg Refinery,57.6565725162907,11.8542085451128,,,,,
+4940,Gothenburg Refinery (St1 Energy),57.70279,11.884639,4.00,78.00,Gothenburg,1953-01-01,2013-12-31
+4940,Gothenburg Refinery (St1 Energy),57.70279,11.884639,4.15,82.70,Gothenburg,2014-01-01,
+4941,Leuna Refinery,51.288645,11.994062,,,,,
+4942,Leuna (Mitteldeutschland Spergau) Refinery,51.293489,11.999497,11.50,230.00,Spergau,1997-01-01,2011-12-31
+4942,Leuna (Mitteldeutschland Spergau) Refinery,51.293489,11.999497,11.40,227.00,Spergau,2012-01-01,
+4943,Alma Petroli Ravenna Terminal,44.47921,12.259,0.50,10.00,Ravenna,1960-10-01,
+4944,Porto Marghera Venice Refinery,45.462037,12.266758,5.30,107.00,Porto Marghera,1950-01-01,2012-12-31
+4945,Rome Refinery,41.856064,12.323779,4.30,86.00,Rome,1965-01-01,2012-08-31
+4946,Zawia Refinery,32.782693,12.699099,5.90,120.00,Zawiya             ,1974-01-01,
+4947,Burghausen Refinery,48.193468,12.838943,3.60,72.30,Burghausen,1967-01-01,2014-12-31
+4947,Burghausen Refinery,48.193468,12.838943,3.72,76.30,Burghausen,2015-01-01,
+4948,Luanda Refinery,-8.779973,13.29836,2.20,46.00,Luanda,1958-01-01,2010-12-31
+4948,Luanda Refinery,-8.779973,13.29836,3.10,57.00,Luanda,2011-01-01,2014-12-31
+4948,Luanda Refinery,-8.779973,13.29836,3.50,70.00,Luanda,2015-01-01,2015-12-31
+4948,Luanda Refinery,-8.779973,13.29836,3.70,75.00,Luanda,2016-01-01,
+4949,Falconara Marittima Ancona Refinery,43.638603,13.379696,3.95,78.30,Falconara,1950-01-01,
+4950,Lobito Refinery - Sonangol,-12.350122,13.573983,,,,,
+4951,Litvinov Refinery,50.565836,13.601403,5.50,110.00,Zaluzi,1967-01-01,
+4952,Schwedt Refinery,53.094373,14.2324,11.00,220.00,Schwedt,1964-01-01,2016-01-31
+4952,Schwedt Refinery,53.094373,14.2324,11.70,232.90,Schwedt,2016-02-01,
+4953,Gela Refinery,37.053492,14.287538,6.45,129.00,Gela,1960-01-01,2014-10-31
+4954,Kralupy Refinery,50.260939,14.325255,3.33,66.30,"Kralupy
+  nad Vltavou",1975-01-01,2010-12-31
+4954,Kralupy Refinery,50.260939,14.325255,3.10,60.25,"Kralupy
+  nad Vltavou",2011-01-01,2015-12-31
+4954,Kralupy Refinery,50.260939,14.325255,3.60,68.20,"Kralupy
+  nad Vltavou",2016-01-01,
+4955,Rijeka Oil Refinery,45.281223,14.542426,4.50,91.00,Rijeka,1883-01-01,
+4956,Esso Augusta Refinery,37.213711,15.178795,9.50,198.00,Augusta,1950-01-01,
+4957,Impianti Sud Oil Refinery,37.182153,15.185595,,,,1975-01-01,2004-12-31
+4958,Impianti Nord Oil Refinery,37.166521,15.196213,,,,1960-01-01,2004-12-31
+4959,Priolo Gargallo Isab Refinery,37.156033,15.201463,16.00,325.00,Priolo,2006-01-01,2019-12-31
+4959,Priolo Gargallo Isab Refinery,37.156033,15.201463,16.00,300.00,Priolo,2020-01-01,2020-10-31
+4959,Priolo Gargallo Isab Refinery,37.156033,15.201463,16.00,325.00,Priolo,2020-11-01,
+4960,Melilli ISAB Refinery,37.12234,15.21546,16.20,321.40,Sicily,2009-10-01,
+4961,Raffineria Di Milazzo,38.204684,15.277431,12.40,248.00,Milazzo,1961-01-01,
+4962,Pardubice Paramo Refinery,50.026752,15.744117,0.70,16.00,Pardubice,1962-01-01,2012-04-30
+4963,Sisak Oil Refinery,45.451504,16.406728,2.20,44.00,Sisak,1923-01-01,2018-03-31
+4963,Sisak Oil Refinery,45.451504,16.406728,2.20,44.00,Sisak,2018-04-01,
+4964,Schwechat Refinery,48.144818,16.504681,9.45,193.00,Schwechat,1960-01-01,
+4965,Slovnaft Bratislava Refinery,48.12278,17.181814,6.17,130.00,Bratislava,1957-01-01,
+4966,Taranto Refinery,40.485765,17.194085,6.00,120.00,Taranto,1967-01-01,2012-12-31
+4966,Taranto Refinery,40.485765,17.194085,6.00,120.00,Taranto,2013-01-01,2013-12-31
+4966,Taranto Refinery,40.485765,17.194085,5.00,100.00,Taranto,2014-01-01,
+4967,Nynashamn Refinery,58.921943,17.967631,4.50,90.00,Nynashamn,1928-01-01,
+4968,Srpski Brod Oil Refinery,45.127744,17.984976,,,,,
+4969,Caltex Capetown Refinery (Minerton CHEVREF),-33.843356,18.529718,5.00,100.00,Cape Town,1966-01-01,
+4970,Ras Lanuf Refinery,30.486717,18.579,10.90,220.00,Ras Lanuf         ,1984-01-01,
+4971,Gdansk Refinery,54.344463,18.741633,9.50,190.00,Gdansk,1975-01-01,2010-12-31
+4971,Gdansk Refinery,54.344463,18.741633,10.00,201.00,Gdansk,2011-01-01,2011-12-31
+4971,Gdansk Refinery,54.344463,18.741633,10.50,210.90,Gdansk,2012-01-01,
+4972,Danube Duna Refinery,47.285118,18.892633,8.00,162.70,Szazhalombatta,1965-01-01,
+4973,Dubova Oil Refinery,48.811683,19.4378,,,,,
+4974,Trzebinia Refinery,50.159529,19.446705,0.36,7.40,Trzebinia,1895-01-01,
+4975,El-Brega Refinery,30.412447,19.577502,0.50,10.00,Marsa El-Brega    ,1962-01-01,
+4976,Plock Refinery,52.591906,19.675364,17.00,377.00,Plock,1964-01-01,
+4977,Novi Sad Refinery,45.277251,19.863616,2.50,50.00,Novi Sad,1968-01-01,
+4978,Pancevo Refinery,44.831245,20.686432,4.80,98.00,Pancevo,1968-01-01,2014-12-31
+4978,Pancevo Refinery,44.831245,20.686432,4.70,96.40,Pancevo,2015-01-01,
+4979,Mazeikiai Refinery,56.06244,21.108111,12.00,240.00,Mazeikiai,1980-01-01,
+4980,Sarir Refinery,27.590078,21.600969,0.50,10.00,Sarir             ,1988-01-01,
+4981,Okta Refinery,42.001343,21.654085,2.50,50.00,Skopje,1982-01-01,2013-01-31
+4982,Rafineria Jedlicze,49.712192,21.661617,1.50,28.00,Jedlicze,1899-01-01,
+4983,Naantali Refinery,60.451233,22.093211,2.89,58.25,Naantali,1957-01-01,2011-12-31
+4983,Naantali Refinery,60.451233,22.093211,2.98,60.25,Naantali,2012-01-01,2013-12-31
+4983,Naantali Refinery,60.451233,22.093211,2.45,55.40,Naantali,2014-01-01,2014-12-31
+4983,Naantali Refinery,60.451233,22.093211,3.00,63.30,Naantali,2015-01-01,2016-12-31
+4983,Naantali Refinery,60.451233,22.093211,2.90,58.75,Naantali,2017-01-01,2021-03-31
+4984,Petrolsub Suplacu De Barcau Refinery,47.254651,22.550742,,,,,
+4985,Hellenic Petroleum Thessaloniki Refinery,40.644666,22.882538,3.63,72.00,Thessaloniki,1966-01-01,2011-09-30
+4985,Hellenic Petroleum Thessaloniki Refinery,40.644666,22.882538,4.50,93.00,Thessaloniki,2011-10-01,2012-12-31
+4985,Hellenic Petroleum Thessaloniki Refinery,40.644666,22.882538,4.50,93.00,Thessaloniki,2013-01-01,2016-12-31
+4985,Hellenic Petroleum Thessaloniki Refinery,40.644666,22.882538,4.50,93.00,Thessaloniki,2017-01-01,
+4986,Corinth Refinery,37.922751,23.074264,8.90,172.00,Corinth,1972-01-01,2016-03-31
+4986,Corinth Refinery,37.922751,23.074264,9.60,185.00,Corinth,2016-04-01,
+4987,Drogobych Refinery,49.341195,23.483153,3.00,58.00,Drogobych,1951-01-01,2011-12-31
+4988,Elefsina Refinery,38.040951,23.50637,5.00,100.00,Elefsis,1972-01-01,2010-12-31
+4988,Elefsina Refinery,38.040951,23.50637,5.00,100.00,Elefsis,2011-01-01,2011-12-31
+4988,Elefsina Refinery,38.040951,23.50637,5.00,100.00,Elefsis,2012-01-01,2012-12-31
+4988,Elefsina Refinery,38.040951,23.50637,5.00,100.00,Elefsis,2013-01-01,2016-12-31
+4988,Elefsina Refinery,38.040951,23.50637,5.00,100.00,Elefsis,2017-01-01,
+4989,Aspropyrgos Refinery,38.029963,23.612067,7.50,145.00,Aspropyrgos,1958-01-01,2010-12-31
+4989,Aspropyrgos Refinery,38.029963,23.612067,7.50,148.00,Aspropyrgos,2011-01-01,2012-12-31
+4989,Aspropyrgos Refinery,38.029963,23.612067,7.50,148.00,Aspropyrgos,2013-01-01,
+4990,Marsa El Hariga (Tobruk) Refinery,32.045337,23.975739,1.00,20.00,Tobruk            ,1986-01-01,
+4991,Ukrtransneft Neftekhimik Prikarpatya Nadvirna Refinery,48.630829,24.601132,3.54,60.30,Nadvornaja,1902-01-01,2011-12-31
+4992,Petrotel-Lukoil Pitesti Refinery,44.807556,24.935326,2.50,54.20,Ploiesti,1965-01-01,
+4993,Porvoo Refinery,60.310383,25.5363,10.10,206.00,Porvoo,1965-01-01,
+4994,Rafinaria Petrobrazi,44.882214,26.01442,4.40,90.00,Ploiesti,1934-01-01,2011-12-31
+4994,Rafinaria Petrobrazi,44.882214,26.01442,4.20,84.35,Ploiesti,2012-01-01,2014-12-31
+4994,Rafinaria Petrobrazi,44.882214,26.01442,4.40,90.30,Ploiesti,2015-01-01,
+4995,Refinery Vega Ploiesti,44.961122,26.027174,0.35,7.00,Ploiesti,1905-01-01,
+4996,Astra Ploiesti Refinery,44.945787,26.071357,,,,,
+4997,Haina Refinery,18.403057,-70.031165,1.70,34.00,Haina,1973-01-01,
+4998,Rafo Onesti Refinery,46.257695,26.815439,3.50,70.30,Onesti,1956-01-01,
+4999,Izmir Refinery,38.805205,26.946252,12.00,241.00,Izmir,1972-01-01,
+5000,Neftochim Burgas Refinery,42.540833,27.324432,9.60,196.85,Burgas,1964-01-01,
+5001,Refineria Francisco I Madero,22.265575,-97.809988,9.40,190.00,Ciudad Madero,1960-01-01,2018-03-31
+5001,Refineria Francisco I Madero,22.265575,-97.809988,8.80,177.00,Ciudad Madero,2018-04-01,
+5002,Novopolotsk Refinery,55.499397,28.538248,11.00,217.00,Novopolotsk,1963-01-01,2013-12-31
+5002,Novopolotsk Refinery,55.499397,28.538248,12.00,240.00,Novopolotsk,2014-01-01,2019-04-30
+5002,Novopolotsk Refinery,55.499397,28.538248,13.00,285.00,Novopolotsk,2019-05-01,
+5003,Petromidia Refinery,44.340727,28.653938,3.70,76.30,Navodari,1979-01-01,2011-12-31
+5003,Petromidia Refinery,44.340727,28.653938,4.90,100.00,Navodari,2012-01-01,2017-04-30
+5003,Petromidia Refinery,44.340727,28.653938,5.90,120.00,Navodari,2017-05-01,
+5004,Indeni Petroleum Ndola Refinery,-13.039066,28.680042,1.20,23.80,Ndola,1973-01-01,
+5005,Sc Mozyr Oil Refinery,51.888026,29.314718,11.00,221.00,Mozyr,1975-01-01,2012-12-31
+5005,Sc Mozyr Oil Refinery,51.888026,29.314718,13.00,260.00,Mozyr,2013-01-01,
+5007,Tupras Izmit Refinery,40.751101,29.771047,9.50,190.00,Izmit,1961-01-01,2015-04-30
+5007,Tupras Izmit Refinery,40.751101,29.771047,11.00,225.00,Izmit,2015-05-01,
+5008,Asyut Refinery,27.174728,30.99893,5.04,100.00,Asyut,1987-01-01,2014-12-31
+5008,Asyut Refinery,27.174728,30.99893,4.55,90.30,Asyut,2015-01-01,
+5009,Amerya Refinery,31.09815,29.858764,3.80,78.00,Alexandria,1921-01-01,2014-12-31
+5009,Amerya Refinery,31.09815,29.858764,3.70,75.00,Alexandria,2015-01-01,
+5010,El Obeid Refinery,13.27194,30.236805,0.75,15.00,El Obeid,1996-01-01,2013-12-31
+5010,El Obeid Refinery,13.27194,30.236805,0.50,10.00,El Obeid,2014-01-01,
+5011,Odessa Refinery,46.516598,30.679584,2.65,56.24,Odessa,1937-01-01,2013-12-31
+5012,Tanta Refinery,30.793103,30.963092,2.00,35.00,Tanta,1973-01-01,2012-12-31
+5012,Tanta Refinery,30.793103,30.963092,2.72,54.00,Tanta,2013-01-01,
+5013,Sapref Durban Refinery,-29.975549,30.965079,8.90,180.00,Durban,1900-01-01,
+5014,Engen Refinery,-29.947066,30.984953,6.70,135.00,Durban,1954-01-01,
+5015,Mostorod Refinery,30.142926,31.298799,8.06,160.00,Mostorod,1969-01-01,
+5016,Kirishi Refinery,59.481561,32.076698,22.10,442.00,Kirishi,1966-01-01,2012-12-31
+5016,Kirishi Refinery,59.481561,32.076698,20.50,411.76,Kirishi,2013-01-01,2013-12-31
+5016,Kirishi Refinery,59.481561,32.076698,20.00,403.70,Kirishi,2014-01-01,2019-12-31
+5016,Kirishi Refinery,59.481561,32.076698,21.50,433.00,Kirishi,2020-01-01,
+5017,Khartoum Refinery,16.128767,32.688407,5.00,100.00,Khartoum,2000-01-01,
+5018,El Suez Refinery,29.958879,32.520204,3.30,64.40,El Suez,1921-01-01,2013-12-31
+5018,El Suez Refinery,29.958879,32.520204,3.43,68.00,El Suez,2014-01-01,
+5019,El-Nasr Refinery,29.957545,32.532766,6.50,146.30,El Suez,1913-01-01,2013-12-31
+5019,El-Nasr Refinery,29.957545,32.532766,6.50,146.30,El Suez,2014-01-01,
+5020,El Gily Refinery,15.500542,32.508095,2.50,50.00,El Gily,1900-01-01,
+5021,Wadi Feiran Refinery,28.73327,33.22442,0.40,8.50,Wadi Feran,1900-01-01,
+5022,Kremenchuk Refinery,49.163694,33.460463,18.75,352.00,Kremenchug,1966-01-01,2017-03-31
+5022,Kremenchuk Refinery,49.163694,33.460463,18.20,341.00,Kremenchug,2017-04-01,
+5023,Kirikkale Refinery,39.747248,33.464246,5.00,110.00,Kirikkale,1986-01-01,
+5024,Atas Refinery,36.8029780046296,34.6579773842593,,,,,
+5025,Ashdod Refinery,31.845183,34.681118,4.50,90.00,Ashdod,1973-01-01,2012-12-31
+5025,Ashdod Refinery,31.845183,34.681118,5.50,110.00,Ashdod,2013-01-01,
+5026,Haifa Refinery,32.796737,35.057178,9.80,197.00,Haifa,1938-01-01,
+5027,Banias Refinery,35.219847,35.963735,6.07,120.50,Banias,1982-01-01,2011-12-31
+5027,Banias Refinery,35.219847,35.963735,6.50,133.00,Banias,2012-01-01,
+5028,Jordan Refinery,32.122749,36.113174,5.00,102.00,Zarqa,1961-01-01,2015-12-31
+5028,Jordan Refinery,32.122749,36.113174,3.75,80.00,Zarqa,2016-01-01,
+5029,Homs Refinery,34.717977,36.641027,5.30,107.00,Homs,1959-01-01,
+5030,Point A Pierre Refinery,10.314952,-61.445963,8.10,165.00,Pointe-a-Pierre,1917-01-01,
+5031,Port Sudan Refinery,19.555968,37.234616,1.10,21.70,Port Sudan,1964-10-01,2017-12-31
+5032,Moscow Refinery,55.655591,37.806006,12.20,244.00,Moscow,1938-01-01,2014-12-31
+5032,Moscow Refinery,55.655591,37.806006,11.60,220.90,Moscow,2015-01-01,2016-03-31
+5032,Moscow Refinery,55.655591,37.806006,12.90,256.30,Moscow,2016-04-01,2019-02-28
+5032,Moscow Refinery,55.655591,37.806006,17.70,363.15,Moscow,2019-03-01,
+5033,Yanbu Oil Refinery (Samref),23.97741,38.235587,20.00,400.00,"Yanbu
+  Al-Sinaiyah",1984-01-01,
+5034,Yanbu Refinery (Yasref),23.961792,38.279539,10.00,200.00,"Yanbu
+  Al-Sinaiyah",2014-10-01,2015-12-31
+5034,Yanbu Refinery (Yasref),23.961792,38.279539,19.70,400.00,"Yanbu
+  Al-Sinaiyah",2016-01-01,
+5035,Linos Refinery (Lisichansk),48.853038,38.304444,6.20,124.00,Lisichansk,1976-01-01,2012-02-29
+5036,Yanbu Refinery (Exxon/saudi Aramco),23.943478,38.31399,,,,,
+5037,Afipsky Refinery,44.889702,38.802093,6.50,130.00,Krasnodar,1964-01-01,2019-12-31
+5037,Afipsky Refinery,44.889702,38.802093,8.00,160.00,Krasnodar,2020-01-01,
+5038,Krasnodar Refinery,44.999057,38.964868,3.00,60.25,Krasnodar,1911-01-01,
+5039,Rabigh Refinery,22.715355,39.019957,20.00,400.00,Rabigh,1989-01-01,
+5040,Tuapse Refinery,44.1072,39.1019,5.00,100.00,Tuapse,1929-01-01,2013-05-31
+5040,Tuapse Refinery,44.1072,39.1019,12.50,240.00,Tuapse,2013-06-01,
+5041,Jeddah Refinery,21.448964,39.18503,3.30,90.00,Jeddah,1967-01-01,2014-12-31
+5041,Jeddah Refinery,21.448964,39.18503,2.70,77.00,Jeddah,2015-01-01,2017-11-30
+5042,Mombasa Refinery,-4.016177,39.621034,1.70,32.00,Mombasa,1963-01-01,2012-12-31
+5043,Kamensky Petroleum Refinery,47.16586,39.641737,,,,,
+5044,Ryazan Refinery,54.566562,39.748198,16.90,323.00,Ryazan,1960-01-01,2011-12-31
+5044,Ryazan Refinery,54.566562,39.748198,17.80,340.00,Ryazan,2012-01-01,2012-12-31
+5044,Ryazan Refinery,54.566562,39.748198,18.50,370.50,Ryazan,2013-01-01,2017-05-31
+5044,Ryazan Refinery,54.566562,39.748198,21.00,416.00,Ryazan,2017-06-01,
+5045,Yanos Yaroslavl Refinery,57.551157,39.790419,15.20,305.00,Yaroslavl,1879-01-01,
+5046,Tupras Batman Refinery,37.881518,41.136328,1.10,25.00,Batman,1955-01-01,2018-12-31
+5046,Tupras Batman Refinery,37.881518,41.136328,1.10,40.00,Batman,2019-01-01,
+5047,Haditha Refinery,34.070334,42.3573,0.80,16.00,Anbar,1949-01-01,
+5049,Muftiah Refinery,33.653657,44.117782,0.50,4.50,Muftiah,1973-01-01,
+5050,Norsi-Oil (Or Nizhni Novgorod) Refinery,56.156215,44.232988,17.10,341.50,Nizhni Novgorod,1958-01-01,
+5051,Kirkuk Refinery,35.530783,44.336632,2.00,40.00,Kirkuk,1973-01-01,2017-11-30
+5051,Kirkuk Refinery,35.530783,44.336632,2.40,56.00,Kirkuk,2017-12-01,
+5052,Daurah Refinery,33.274733,44.436687,6.90,140.00,Dora,1955-01-01,2018-04-30
+5052,Daurah Refinery,33.274733,44.436687,8.00,165.00,Dora,2018-05-01,
+5053,Volgograd Refinery,48.505069,44.653834,11.44,227.00,Volgograd,1957-01-01,2015-05-31
+5053,Volgograd Refinery,48.505069,44.653834,14.50,291.25,Volgograd,2015-06-01,2016-09-30
+5053,Volgograd Refinery,48.505069,44.653834,11.44,334.00,Volgograd,2016-10-01,
+5054,Little Aden Refinery,12.751046,44.88217,7.40,150.00,Little Aden,1954-01-01,
+5055,Samawah Refinery,31.300618,45.299562,1.50,30.00,Samawah,1978-01-01,
+5056,Saratov Refinery,51.452132,45.942036,7.10,140.60,Saratov,1934-01-01,
+5057,Tabriz Refinery,38.057419,46.161624,5.40,110.00,Tabriz            ,1977-01-01,
+5058,Riyadh Refinery,24.518847,46.868507,6.00,122.00,Riyadh,1975-01-01,2013-12-31
+5058,Riyadh Refinery,24.518847,46.868507,6.20,126.00,Riyadh,2014-01-01,2018-05-31
+5058,Riyadh Refinery,24.518847,46.868507,6.40,130.00,Riyadh,2018-06-01,
+5059,Kermanshah Refinery,34.351324,47.10227,1.20,25.00,Kermanshah,1971-01-01,
+5060,Trans Asia Refinery,43.012783,47.460266,,,,,
+5061,Basrah Refinery,30.538643,47.822254,7.00,140.00,Basrah,1974-01-01,2013-12-31
+5061,Basrah Refinery,30.538643,47.822254,10.50,210.00,Basrah,2014-01-01,2019-12-31
+5061,Basrah Refinery,30.538643,47.822254,12.50,250.00,Basrah,2020-01-01,
+5062,Astrakhan Refinery,46.32938,48.083278,2.60,52.00,Astrakhan,1900-01-01,
+5063,Mina Al-Ahmadi Refinery,29.060243,48.131034,23.00,466.00,Mina Al Ahmadi,1949-01-01,
+5064,Mina Abdullah Refinery,29.015253,48.147581,13.30,270.00,Mina Abdulla,1958-01-01,2020-11-30
+5064,Mina Abdullah Refinery,29.015253,48.147581,22.00,454.00,Mina Abdulla,2020-12-01,
+5065,Shuaiba Refinery,29.032553,48.148164,9.90,200.00,Shuaiba,1968-01-01,2017-03-31
+5066,Abadan Refinery,30.351017,48.274882,17.50,350.00,Abadan,1912-01-01,2010-12-31
+5066,Abadan Refinery,30.351017,48.274882,19.00,385.00,Abadan,2011-01-01,2013-12-31
+5066,Abadan Refinery,30.351017,48.274882,20.00,400.00,Abadan,2014-01-01,
+5067,Syzran Refinery,53.08073,48.390988,8.80,177.00,Samara,1942-01-01,2012-12-31
+5067,Syzran Refinery,53.08073,48.390988,8.50,170.70,Samara,2013-01-01,
+5068,Tomasina Refinery,-18.170726,49.39282,,,,,
+5069,Shazand Arak Refinery,34.002902,49.477355,8.50,170.00,Arak              ,1993-01-01,2012-12-31
+5069,Shazand Arak Refinery,34.002902,49.477355,12.50,250.00,Arak              ,2013-01-01,
+5070,Jubail Refinery (Sasref),27.04701,49.6084,15.00,305.00,"Madinat
+  Al-Jubail Al- Sinaiyah ",1984-01-01,
+5071,Novokuibyshevsk Refinery,53.099932,49.896376,7.90,160.70,Samara,1951-01-01,2011-12-31
+5071,Novokuibyshevsk Refinery,53.099932,49.896376,8.80,176.75,Samara,2012-01-01,2017-06-30
+5071,Novokuibyshevsk Refinery,53.099932,49.896376,7.80,158.68,Samara,2017-07-01,
+5072,Heydar Aliyev Baku Oil Refinery,40.403835,49.912781,13.20,153.00,Baku,1900-01-01,
+5073,Socar Azerineftyag Refinery,40.374834,49.91594,0.25,5.00,Baku,1879-01-01,2018-12-31
+5074,Kuibyshev Refinery,53.107789,50.051372,6.60,130.55,Samara,1945-01-01,2011-12-31
+5074,Kuibyshev Refinery,53.107789,50.051372,6.75,136.60,Samara,2012-01-01,2017-02-28
+5074,Kuibyshev Refinery,53.107789,50.051372,6.90,140.60,Samara,2017-03-01,
+5075,Ras Tanura Refinery,26.701658,50.096625,27.10,550.00,Ras Tanura,1945-01-01,
+5076,Bapco Sitrah Refinery,26.115194,50.606592,15.00,300.00,Sitra,1936-01-01,
+5077,Tehran Refinery,35.539911,51.425269,10.50,230.00,Tehran            ,1969-01-01,2013-12-31
+5077,Tehran Refinery,35.539911,51.425269,12.20,245.00,Tehran            ,2014-01-01,
+5078,Isfahan Refinery,32.784681,51.508937,13.00,265.00,Isfahan,1979-01-01,2010-12-31
+5078,Isfahan Refinery,32.784681,51.508937,18.50,375.00,Isfahan,2011-01-01,2019-01-31
+5078,Isfahan Refinery,32.784681,51.508937,19.00,495.00,Isfahan,2019-02-01,2020-04-30
+5078,Isfahan Refinery,32.784681,51.508937,19.00,420.00,Isfahan,2020-05-01,
+5079,Umm Said Refinery,24.92197,51.55759,6.80,157.00,Mesaieed,1958-01-01,
+5080,Qatar Petroleum Refinery ,24.96318,51.54588,3.00,70.00,"",1900-01-01,
+5081,Ras Laffan Condensate Refinery,25.899833,51.573525,8.20,166.00,Ras Laffan,2009-01-01,
+5082,Atyrau Refinery,47.073253,51.926745,4.00,86.00,Atyrau,1945-01-01,2010-12-31
+5082,Atyrau Refinery,47.073253,51.926745,4.75,100.00,Atyrau,2011-01-01,2016-12-31
+5082,Atyrau Refinery,47.073253,51.926745,5.10,110.00,Atyrau,2017-01-01,
+5083,Nizhnekamsk Refinery,55.600315,51.971551,,,"",1900-01-01,1900-01-01
+5084,Shiraz Refinery,29.73444,52.656527,2.00,40.00,Shiraz            ,1973-01-01,2013-12-31
+5084,Shiraz Refinery,29.73444,52.656527,2.80,56.00,Shiraz            ,2014-01-01,
+5085,Ruwais Refinery,24.121307,52.716854,20.16,400.00,Ruwais,1981-01-01,2013-12-31
+5085,Ruwais Refinery,24.121307,52.716854,21.00,415.00,Ruwais,2014-01-01,2014-12-31
+5085,Ruwais Refinery,24.121307,52.716854,41.50,830.00,Ruwais,2015-01-01,2017-09-30
+5085,Ruwais Refinery,24.121307,52.716854,42.00,837.00,Ruwais,2017-10-01,
+5086,Turkmenbashi Refinery,40.028703,52.962108,5.87,116.50,Turkmenbashi,1943-01-01,2014-12-31
+5086,Turkmenbashi Refinery,40.028703,52.962108,11.90,235.00,Turkmenbashi,2015-01-01,
+5087,Lavan Oil Refinery,26.79959,53.348894,1.60,30.00,"Lavan
+  Island",1977-01-01,2013-12-31
+5087,Lavan Oil Refinery,26.79959,53.348894,3.00,60.00,"Lavan
+  Island",2014-01-01,
+5088,Refineria Pdvsa El Palito,10.48125,-68.119813,6.90,140.00,Puerto Cabello,1954-01-01,
+5089,Ukhta Refinery,63.638176,53.825645,4.00,78.30,Ukhta,1934-01-01,2015-12-31
+5089,Ukhta Refinery,63.638176,53.825645,4.20,84.36,Ukhta,2016-01-01,
+5090,Umm Al Nar Refinery,24.438676,54.48278,4.20,85.00,"Abu
+  Dhabi",1976-01-01,
+5092,Hamriyah Sharjah Refinery,25.462788,55.491572,3.60,71.30,Sharjah,1999-01-01,
+5093,Salavatnefteorgsintez Refinery,53.426321,55.880799,12.00,241.00,Salavat,1955-01-01,2013-12-31
+5093,Salavatnefteorgsintez Refinery,53.426321,55.880799,10.00,200.80,Salavat,2014-01-01,2017-05-31
+5093,Salavatnefteorgsintez Refinery,53.426321,55.880799,12.50,250.00,Salavat,2017-06-01,
+5094,Bandar Abbas Refinery,27.159491,56.072845,16.00,322.00,Bandar Abbas,1997-01-01,2013-12-31
+5094,Bandar Abbas Refinery,27.159491,56.072845,14.00,284.00,Bandar Abbas,2014-01-01,
+5095,Ufaneftekhim Refinery,54.877829,56.085321,9.45,190.80,Ufa,1957-01-01,
+5096,Novo Ufa Refinery,54.864222,56.085927,7.20,142.00,Ufa,1951-01-01,2018-06-30
+5096,Novo Ufa Refinery,54.864222,56.085927,7.50,148.63,Ufa,2018-07-01,
+5097,Ufimsk Refinery,54.851211,56.104943,7.50,150.00,Ufa,1938-01-01,2018-02-28
+5097,Ufimsk Refinery,54.851211,56.104943,6.70,132.56,Ufa,2018-03-01,
+5098,Perm Refinery,57.917727,56.112514,13.26,263.10,Perm,1958-01-01,
+5099,Fujairah Refinery,25.192991,56.352671,4.00,80.00,Fujairah,1996-01-01,
+5100,Sohar (Oman Refinery Co Llc),24.482752,56.621382,3.60,116.00,Sohar,2006-01-01,2017-08-31
+5100,Sohar (Oman Refinery Co Llc),24.482752,56.621382,6.30,198.00,Sohar,2017-09-01,
+5101,Mina Al Fahal Refinery,23.625587,58.513222,5.30,106.00,Mina Al Fahal,1982-01-01,
+5102,Orsk Refinery,51.249223,58.517544,6.60,132.60,Orsk,1935-01-01,2017-12-31
+5102,Orsk Refinery,51.249223,58.517544,6.10,120.00,Orsk,2018-01-01,
+5103,Seidi Refinery,39.42449,62.846232,5.90,120.50,Seydi,1991-01-01,
+5104,Baluchistan Refinery,25.299584,63.36711,1.80,35.00,Mouza Kund,2004-01-01,
+5105,Esso Campana Refinery,-34.158069,-58.950995,4.50,90.00,Campana,1906-01-01,
+5106,Antipinsky Oil Refinery,57.100042,65.754028,3.50,70.00,Tyumen,2006-01-01,2011-12-31
+5106,Antipinsky Oil Refinery,57.100042,65.754028,4.25,84.35,Tyumen,2012-01-01,2013-12-31
+5106,Antipinsky Oil Refinery,57.100042,65.754028,9.07,180.00,Tyumen,2014-01-01,
+5107,Byco Refinery,24.91603,66.709466,3.00,60.00,Mouza Kund,1962-01-01,2017-12-31
+5107,Byco Refinery,24.91603,66.709466,3.00,95.00,Mouza Kund,2018-01-01,
+5108,Enar Petroleum Refining Facility,24.964623,67.025301,0.10,3.00,Karachi,1972-01-01,
+5109,Korangi Refinery,24.802527,67.11758,2.70,50.00,Karachi,1977-01-01,2016-12-31
+5109,Korangi Refinery,24.802527,67.11758,6.20,65.00,Karachi,2017-01-01,
+5110,MCR (Mid-Country),24.846627,67.12622,6.00,70.00,"",1990-01-01,
+5111,Shymkent Oil Refinery,42.261016,69.655714,7.00,145.00,Shymkent,1985-01-01,2018-07-31
+5111,Shymkent Oil Refinery,42.261016,69.655714,8.00,160.00,Shymkent,2018-08-01,
+5112,Essar Vadinar Refinery,22.396911,69.720711,15.00,300.00,Vadinar,2006-01-01,2011-12-31
+5112,Essar Vadinar Refinery,22.396911,69.720711,20.00,405.00,Vadinar,2012-01-01,
+5113,Jamnagar Refinery (Reliance),22.337317,69.85716,33.00,666.00,Jamnagar,1999-01-01,
+5114,Parco Refinery,30.171279,70.932827,4.50,100.00,Mahmoodkot,2000-01-01,
+5115,Mumbai Refinery (Hindustan),19.014865,72.903395,6.50,130.00,Mumbai,1954-01-01,2014-12-31
+5115,Mumbai Refinery (Hindustan),19.014865,72.903395,7.50,151.00,Mumbai,2015-01-01,
+5116,Centro De Refinacion De Paraguana (Amuay Refinery),11.739985,-70.19296,32.50,645.00,Amuay-Punto Fijo,1949-01-01,
+5117,Gazprom Refinery Surgut,61.28376,72.99746,4.40,88.00,Tyumen,1900-01-01,2019-12-31
+5117,Gazprom Refinery Surgut,61.28376,72.99746,5.00,100.00,Tyumen,2020-01-01,
+5118,Attock Refinery (Rawalpindi),33.553446,73.073258,2.30,46.00,Morgah,1922-01-01,2016-12-31
+5118,Attock Refinery (Rawalpindi),33.553446,73.073258,2.50,51.20,Morgah,2017-01-01,
+5119,Gujarat- Koyali Refinery,22.37373,73.120043,13.70,277.00,Vadodara,1965-01-01,
+5120,Omsk Refinery,55.067298,73.227134,19.80,392.00,Omsk,1955-01-01,2010-12-31
+5120,Omsk Refinery,55.067298,73.227134,21.80,429.80,Omsk,2011-01-01,2013-12-31
+5120,Omsk Refinery,55.067298,73.227134,22.00,433.16,Omsk,2014-01-01,2016-08-31
+5120,Omsk Refinery,55.067298,73.227134,22.80,446.50,Omsk,2016-09-01,
+5121,Refineria Camilo Cienfuegos,22.189562,-80.518098,3.20,65.00,Cienfuegos,1990-01-01,
+5122,Mangalore Refinery,12.976216,74.845743,12.00,237.40,Mangalore,1996-01-01,2011-12-31
+5122,Mangalore Refinery,12.976216,74.845743,15.00,303.00,Mangalore,2012-01-01,2019-05-31
+5122,Mangalore Refinery,12.976216,74.845743,18.00,361.50,Mangalore,2019-06-01,
+5123,Guru Gobind Singh Oil Refinery,29.922367,74.955337,9.00,182.00,Bathinda,2012-03-01,2017-06-30
+5123,Guru Gobind Singh Oil Refinery,29.922367,74.955337,11.50,232.00,Bathinda,2017-07-01,
+5124,Nizhnevartovsk Refinery,60.982003,76.43619,1.50,30.10,Nizhnevartovsk,1998-01-01,
+5125,Panipat Refinery,29.472874,76.882367,12.00,240.00,Panipat,1998-01-01,2010-05-31
+5125,Panipat Refinery,29.472874,76.882367,15.00,303.00,Panipat,2010-06-01,
+5126,Pavlodar Refinery,52.366574,76.918537,6.00,120.00,Pavlodar,1978-01-01,2014-12-31
+5126,Pavlodar Refinery,52.366574,76.918537,6.10,162.00,Pavlodar,2015-01-01,
+5127,Mathura Refinery,27.381837,77.68355,8.00,162.00,Mathura,1982-01-01,
+5128,Bina Oil Refinery,24.251092,78.158074,6.00,121.00,Bina,2011-05-01,2017-12-31
+5128,Bina Oil Refinery,24.251092,78.158074,7.70,156.00,Bina,2018-01-01,
+5129,Nagarjuna Oil Cuddalore Refinery,11.60001,79.749601,,,,,
+5130,Cauvery Basin Refinery (Nagapattnam Refinery),10.829149,79.810914,1.50,30.00,Cauvery Basin,1993-01-01,
+5131,Sapugaskanda Refinery,6.965605,79.958221,2.50,50.00,Sapugaskanda,1969-01-01,
+5132,Kochi Refinery,9.971111,76.379517,9.50,190.00,Kochi,1966-01-01,2017-04-30
+5132,Kochi Refinery,9.971111,76.379517,15.50,313.00,Kochi,2017-05-01,
+5134,Madras Refinery,13.158909,80.280151,10.50,212.00,Manali,1969-01-01,2019-04-30
+5134,Madras Refinery,13.158909,80.280151,12.00,242.00,Manali,2019-05-01,
+5135,Puerto Limon Refinery,9.991927,-83.092721,1.30,25.00,Puerto Limon,1967-01-01,2011-08-31
+5136,Tatipaka Refinery,16.500166,81.896392,0.10,2.00,Tatipaka,2001-01-01,
+5137,Visakhapatnam (Visakh) Refinery,17.694964,83.237727,8.30,168.00,Visakh,1957-01-01,
+5138,Dushanzi Refinery,44.326026,84.845707,10.00,202.40,Dushanzi,1942-01-01,
+5139,Karamay Refinery,45.570988,84.99037,6.00,120.00,Karamay,1959-01-01,
+5140,Komsomolsk Refinery,56.624598,85.009932,8.00,160.70,Komsomolsk-on-Amur,1942-01-01,2016-12-31
+5140,Komsomolsk Refinery,56.624598,85.009932,8.25,166.70,Komsomolsk-on-Amur,2017-01-01,
+5141,Chernigov Refinery,55.3725,86.037613,0.10,2.00,,2007-01-01,2012-12-31
+5141,Chernigov Refinery,55.3725,86.037613,0.23,5.00,,2013-01-01,
+5142,Barauni Refinery,25.434487,86.060263,6.00,121.00,Barauni,1964-01-01,
+5143,Paradip Refinery,20.249093,86.595321,15.00,303.00,Paradip,2015-11-01,
+5144,Urumqi Refinery,43.863043,87.361505,6.00,121.50,Urumqi,1975-01-01,2018-12-31
+5144,Urumqi Refinery,43.863043,87.361505,9.50,190.00,Urumqi,2019-01-01,
+5145,Haldia Refinery,22.04565,88.105006,7.50,151.00,Haldia,1975-01-01,2016-12-31
+5145,Haldia Refinery,22.04565,88.105006,8.00,161.00,Haldia,2017-01-01,
+5146,Achinsk Oil Refinery,56.227212,90.410294,7.06,140.00,Achinsk,1982-01-01,2012-12-31
+5146,Achinsk Oil Refinery,56.227212,90.410294,7.56,150.60,Achinsk,2013-01-01,2019-12-31
+5146,Achinsk Oil Refinery,56.227212,90.410294,9.00,180.00,Achinsk,2020-01-01,
+5147,Bongaigaon Refinery,26.518449,90.530271,2.35,47.40,Bongaigaon,1979-01-01,2018-12-31
+5147,Bongaigaon Refinery,26.518449,90.530271,2.46,54.00,Bongaigaon,2019-01-01,
+5148,Guwahati Refinery,26.186357,91.806813,1.00,20.00,Guwahati,1962-01-01,
+5149,Chittagong Refinery,22.266853,91.811121,1.50,30.00,Chittagong,1968-01-01,2018-12-31
+5149,Chittagong Refinery,22.266853,91.811121,4.50,90.30,Chittagong,2019-01-01,2019-12-31
+5149,Chittagong Refinery,22.266853,91.811121,4.60,100.30,Chittagong,2020-01-01,
+5150,Numaligarh Refinery,26.581163,93.786987,3.00,61.00,Numaligarh,1999-01-01,
+5151,Chauk Refinery,20.90572,94.824939,0.30,6.00,Chauk,1953-01-01,
+5152,Thanbayakan Oil Refinery,19.974817,95.000911,1.20,25.00,Thanpayarkan,1982-01-01,
+5153,Digboi Refinery,27.392227,95.618267,0.70,13.00,Digboi,1901-01-01,
+5155,Pangkalan Brandan Refinery,5.223252,97.083178,,,,,
+5156,Bangchak Refinery,13.686139,100.595643,5.90,120.00,Bangkok,1964-01-01,
+5157,Thai Oil Sriracha Refinery,13.102895,100.88901,13.60,275.00,Chon Buri,1964-01-01,
+5158,Rayong Refinery,12.674743,101.155392,,,,,
+5159,Sprc Map Ta Phut Refinery,12.701661,101.157161,7.90,158.00,"Map Ta
+  Phut",1996-01-01,2012-12-31
+5159,Sprc Map Ta Phut Refinery,12.701661,101.157161,8.10,165.00,"Map Ta
+  Phut",2013-01-01,
+5160,Alliance Map Ta Phut Refinery,12.696479,101.161352,13.80,280.00,Rayong,1996-01-01,
+5161,Rayong Purifier Refinery,12.753237,101.168563,1.00,17.00,,2009-01-01,2015-12-31
+5162,IRPC Rayong Refinery,12.65966,101.298149,10.60,230.00,Rayong,1997-01-01,2011-12-31
+5162,IRPC Rayong Refinery,12.65966,101.298149,9.80,215.00,Rayong,2012-01-01,
+5163,Dumai Refinery,1.681598,101.465377,8.40,170.00,Dumai,1971-01-01,
+5164,Hengyuan Port Dickinson Refinery,2.533061,101.811212,5.45,107.00,Port Dickson,1963-01-01,2015-12-31
+5164,Hengyuan Port Dickinson Refinery,2.533061,101.811212,6.00,110.00,Port Dickson,2016-01-01,
+5165,Petron Port Dickinson Refinery,2.531915,101.823032,4.30,88.00,Port Dickson,1963-01-01,
+5166,Melaka Refinery Psr-2,2.268083,102.133258,8.40,170.00,Melaka,1999-01-01,
+5167,Kertih Refinery,4.577483,103.456598,2.00,40.00,Kertih,1983-01-01,
+5168,Lanzhou Refinery,36.124081,103.60401,10.50,212.00,Lanzhou,1950-01-01,
+5169,Singapore Refinery (Jurong )(exxonmobil),1.268076,103.698639,29.20,592.00,Jurong,1995-01-01,
+5170,Pulau Merlimau Refinery,1.281308,103.711828,14.30,290.00,Pulau Merlimau,1973-01-01,
+5171,Pulau Bukom Refinery,1.235305,103.76632,24.70,500.00,Pulau Bukom,1961-01-01,2020-12-31
+5171,Pulau Bukom Refinery,1.235305,103.76632,12.00,250.00,Pulau Bukom,2021-01-01,
+5172,Angarsk Refinery,52.515508,103.927295,10.00,200.00,Angarsk,1955-01-01,2011-12-31
+5172,Angarsk Refinery,52.515508,103.927295,11.10,223.00,Angarsk,2012-01-01,2019-12-31
+5172,Angarsk Refinery,52.515508,103.927295,13.00,263.00,Angarsk,2020-01-01,
+5173,Pertamina Musi Refinery,-2.999782,104.837084,6.60,133.00,Plaju,1930-01-01,
+5174,Can Tho Oil Refinery,10.099282,105.718788,,,,,
+5175,Balongan Refinery,-6.381644,108.389732,6.20,125.00,Balongan,1994-01-01,
+5176,Guangxi Refinery,21.73048,108.60672,10.00,202.40,Qinzhou,2010-09-01,
+5177,Dung Quat Refinery,15.351946,108.826585,7.00,143.00,Quang Ngai,2010-01-01,
+5178,Cilacap Refinery,-7.698347,108.994311,17.20,348.00,Cilacap,1974-01-01,
+5179,Beihai Refinery,21.471426,109.064421,6.00,120.00,Beihai,2012-01-01,
+5180,Yangpu Refinery,19.763549,109.179414,8.00,160.00,Yangpu,2006-01-01,2011-12-31
+5180,Yangpu Refinery,19.763549,109.179414,9.20,184.00,Yangpu,2012-01-01,
+5182,Hainan Refinery,20.029419,110.281554,8.00,160.00,Hainan,2006-01-01,
+5183,Maoming Company Refinery,21.57125,110.95992,13.50,271.00,Maoming,1955-01-01,2011-12-31
+5183,Maoming Company Refinery,21.57125,110.95992,18.00,361.00,Maoming,2012-01-01,2013-12-31
+5183,Maoming Company Refinery,21.57125,110.95992,23.50,472.00,Maoming,2014-01-01,
+5184,Cepu Refinery,-7.141643,111.603287,0.20,4.00,,1890-01-01,
+5185,Tuban Refinery,-6.766998,111.956363,5.00,100.00,Tuban,1994-01-01,
+5186,Jingmen Refinery,31.010056,112.221758,6.00,120.50,Jingmen,1975-01-01,
+5187,Changling Company Refinery,29.375239,113.165315,8.10,160.00,Yueyang,1971-01-01,2012-12-31
+5187,Changling Company Refinery,29.375239,113.165315,11.50,231.00,Yueyang,2013-01-01,
+5188,Guangzhou Company Refinery,22.836599,113.550553,13.00,265.00,Guangzhou,1956-01-01,
+5189,Lutong Refinery,4.483163,114.001451,,,,,
+5190,Wuhan Company Refinery,30.653338,114.434108,8.60,170.00,Wuhan,1977-01-01,
+5191,Huizhou Refinery,22.755057,114.593512,12.00,220.00,Huizhou,2009-01-01,2017-06-30
+5191,Huizhou Refinery,22.755057,114.593512,22.00,440.00,Huizhou,2017-07-01,
+5192,Bp Kwinana Refinery,-32.222857,115.762177,7.36,146.00,Kwinana,1955-01-01,2016-12-31
+5192,Bp Kwinana Refinery,-32.222857,115.762177,7.66,152.00,Kwinana,2017-01-01,2021-02-01
+5193,Jiujiang Company Refinery,29.740229,116.064075,5.00,100.00,Jiujiang,1980-01-01,2014-12-31
+5193,Jiujiang Company Refinery,29.740229,116.064075,10.00,200.00,Jiujiang,2015-01-01,
+5194,Zhanjiang Dongxing Refinery,21.15792,110.39852,5.00,100.00,Zhanjiang Dongxing,1995-01-01,2019-12-31
+5194,Zhanjiang Dongxing Refinery,21.15792,110.39852,6.00,120.00,Zhanjiang Dongxing,2020-01-01,
+5195,Pertamina Balikpapan Refinery,-1.247042,116.819285,12.80,260.00,Balikpapan,1894-01-01,
+5196,Cangzhou Company Refinery,38.338765,116.875702,3.60,71.00,Cangzhou,1975-01-01,
+5197,Anqing Company Refinery,30.526678,117.023069,6.10,110.00,Anqing,1982-01-01,2012-12-31
+5197,Anqing Company Refinery,30.526678,117.023069,9.10,180.00,Anqing,2013-01-01,
+5198,Jinan Refinery,36.740552,117.177569,8.00,160.00,Jinan,1975-01-01,
+5199,Santan Terminal Refinery,-0.0848,117.44247,,,,,
+5200,Tianjin Refinery,38.971485,117.741921,12.50,251.00,Tianjin,1983-01-01,2012-12-31
+5200,Tianjin Refinery,38.971485,117.741921,14.00,277.00,Tianjin,2013-01-01,
+5201,Qilu Refinery,36.766179,118.063332,14.00,281.20,Zibo,1966-01-01,
+5202,Kunak Refinery,4.69179,118.25066,,,,,
+5203,Jinling Company Refinery,32.15992,118.91919,13.00,261.00,Nanjing Jinling,1965-01-01,2011-12-31
+5203,Jinling Company Refinery,32.15992,118.91919,18.00,361.50,Nanjing Jinling,2012-01-01,2012-12-31
+5203,Jinling Company Refinery,32.15992,118.91919,21.00,420.00,Nanjing Jinling,2013-01-01,
+5204,Talin Refinery,23.77146,120.177847,,,"",1900-01-01,1900-01-01
+5205,Mailiao Refinery,23.792972,120.194585,26.60,540.00,Mailiao,2000-01-01,2019-07-31
+5205,Mailiao Refinery,23.792972,120.194585,26.60,556.00,Mailiao,2019-08-01,
+5206,Liaoning Refinery (Zhenhua),36.05594,120.214034,,,,,
+5207,Kaohsiung Refinery (Cpc),22.709941,120.320354,10.90,220.00,Kaohsiung,1946-01-01,2015-11-30
+5208,Dalin Refinery,22.52848,120.358188,15.00,300.00,Dalin,1996-01-01,2016-12-31
+5208,Dalin Refinery,22.52848,120.358188,17.50,350.00,Dalin,2017-01-01,2017-09-30
+5208,Dalin Refinery,22.52848,120.358188,20.00,400.00,Dalin,2017-10-01,
+5209,Qingdao Refinery,36.21387,120.360719,12.00,241.00,Qingdao,2008-01-01,
+5210,Petron Bataan Refinery (Pbr),14.531381,120.599546,8.90,180.00,Bataan,1961-01-01,
+5211,Jinxi Refinery,40.830408,121.045363,6.50,130.00,Jinxi,1952-01-01,2011-12-31
+5211,Jinxi Refinery,40.830408,121.045363,7.00,140.00,Jinxi,2012-01-01,
+5212,Zhejiang Meifu Petrochemical Company,30.58665,121.05303,,,,,
+5213,Tabangao Refinery,13.7211,121.068905,5.40,110.00,Tabangao,1962-01-01,2020-09-01
+5214,Jinzhou Petrochemical Refinery,41.136458,121.08653,7.50,150.00,Jinzhou,1984-01-01,2019-12-31
+5214,Jinzhou Petrochemical Refinery,41.136458,121.08653,7.50,180.00,Jinzhou,2020-01-01,
+5215,Taoyuan Refinery,25.034838,121.309667,10.00,200.00,Taoyuan,1976-01-01,
+5216,Shanghai Gaoqiao Company Refinery,31.470988,121.397693,13.10,260.00,Shanghai Gaoqiao,1957-01-01,
+5217,Fujian Refinery,25.177213,118.931848,14.00,281.20,Fujian,1993-01-01,
+5218,Zhenhai Refinery,29.984415,121.681331,23.20,462.00,"Zhenhai, Ningbo",1975-01-01,
+5219,Dalian Petrochemical Refinery,38.987624,121.853812,20.50,415.00,Dalian,1933-01-01,
+5220,Wepec Dalian Refinery,38.971303,121.886539,11.00,213.00,Dalian,1997-01-01,
+5221,Liaoning Refinery (Sinopec),41.200416,123.215231,,,,,
+5222,Fushun Petrochemical Refinery,41.824474,123.821454,11.50,236.90,Fushun,1928-01-01,2012-12-31
+5222,Fushun Petrochemical Refinery,41.824474,123.821454,11.00,222.70,Fushun,2013-01-01,
+5223,Daqing Petrochemical Refinery,46.528515,125.092353,6.00,121.00,Daqing,1961-01-01,2011-12-31
+5223,Daqing Petrochemical Refinery,46.528515,125.092353,10.00,230.00,Daqing,2012-01-01,
+5224,Hyundai - Daesan Refinery,36.999708,126.348351,19.20,390.00,Daesan,1964-01-01,2015-12-31
+5224,Hyundai - Daesan Refinery,36.999708,126.348351,26.00,520.00,Daesan,2016-01-01,2016-12-31
+5224,Hyundai - Daesan Refinery,36.999708,126.348351,28.00,561.00,Daesan,2017-01-01,
+5225,Jilin Chemical Refinery,43.9733,126.481849,10.00,198.40,Jilin,1995-01-01,
+5226,Incheon (Sk Energy),37.509532,126.656034,11.00,220.00,Incheon,1971-01-01,
+5227,Yeosu Refinery,34.852438,127.718899,38.20,776.00,Yeosu,1969-01-01,2013-12-31
+5227,Yeosu Refinery,34.852438,127.718899,38.70,786.00,Yeosu,2014-01-01,2017-12-31
+5227,Yeosu Refinery,34.852438,127.718899,39.00,800.00,Yeosu,2018-01-01,
+5228,Nishihara Refinery,26.225209,127.779933,4.90,95.00,Nishihara,1968-01-01,2014-12-31
+5229,Sk Ulsan Refinery,35.49003,129.37895,41.40,840.00,Ulsan,1964-01-01,
+5230,S-Oil Ulsan Refinery,35.45123,129.34075,33.00,669.00,Onsan,1980-01-01,
+5232,Buenos Aires Refinery,-34.655345,-58.325711,6.00,120.00,Buenos Aires,1931-01-01,
+5233,Pertamina Kasim Refinery,-1.317905,131.022514,0.50,10.00,Kasim,1997-01-01,
+5234,Yamaguchi Refinery,33.940425,131.181624,5.90,120.00,Yamaguchi,1900-01-01,
+5235,Oita Refinery,33.272047,131.686605,6.70,136.00,Oita,1964-01-01,
+5236,Tokuyama Complex,34.041223,131.809323,5.90,120.00,Tokuyama,1900-01-01,2014-02-28
+5237,Marifu Refinery,34.205703,132.243557,5.90,120.00,Marifu,1943-01-01,
+5238,Shikoku Refinery,34.05115,132.858337,6.80,138.00,Shikoku,1938-01-01,
+5239,Mizushima Refinery,34.494186,133.756392,24.50,490.00,Mizushima,1900-01-01,2010-12-31
+5239,Mizushima Refinery,34.494186,133.756392,19.00,380.00,Mizushima,2011-01-01,2016-12-31
+5239,Mizushima Refinery,34.494186,133.756392,21.00,320.00,Mizushima,2017-01-01,
+5240,Sakaide Refinery,34.352208,133.829738,6.90,140.00,Sakaide,1972-01-01,2013-06-30
+5241,Khabarovsk Refinery,48.502329,135.055072,3.50,70.00,Khabarovsk,1935-01-01,2011-12-31
+5241,Khabarovsk Refinery,48.502329,135.055072,4.50,90.00,Khabarovsk,2012-01-01,2013-08-31
+5241,Khabarovsk Refinery,48.502329,135.055072,5.20,104.00,Khabarovsk,2013-09-01,2019-12-31
+5241,Khabarovsk Refinery,48.502329,135.055072,6.00,120.00,Khabarovsk,2020-01-01,
+5242,Wakayama Refinery,34.112148,135.114036,8.20,166.00,Wakayama,1941-01-01,2014-02-28
+5242,Wakayama Refinery,34.112148,135.114036,6.30,127.50,Wakayama,2014-03-01,
+5243,Osaka Refinery,34.532037,135.414561,5.70,115.00,Osaka,1971-01-01,2020-10-01
+5244,Sakai Refinery (Tonengeneral),34.547,135.431636,7.70,156.00,Sakai,1965-01-01,2016-12-31
+5244,Sakai Refinery (Tonengeneral),34.547,135.431636,6.70,135.00,Sakai,2017-01-01,
+5245,Sakai Refinery (Cosmo Oil),34.56872,135.43226,4.90,129.00,Sakai,1968-01-01,
+5246,Yokkaichi Refinery (Shell),34.938668,136.640331,10.30,210.00,Yokkaichi,1958-01-01,2014-08-31
+5246,Yokkaichi Refinery (Shell),34.938668,136.640331,12.60,255.00,Yokkaichi,2014-09-01,
+5247,Yokkaichi Refinery (Cosmo Oil),34.96645,136.644541,8.70,175.00,Yokkaichi,1943-01-01,2012-12-31
+5247,Yokkaichi Refinery (Cosmo Oil),34.96645,136.644541,7.70,155.00,Yokkaichi,2013-01-01,2013-12-31
+5247,Yokkaichi Refinery (Cosmo Oil),34.96645,136.644541,6.70,132.00,Yokkaichi,2014-01-01,2015-12-31
+5247,Yokkaichi Refinery (Cosmo Oil),34.96645,136.644541,6.20,86.00,Yokkaichi,2016-01-01,
+5248,Aichi Refinery,34.975115,136.836835,8.00,160.00,Aichi,1975-01-01,2013-12-31
+5248,Aichi Refinery,34.975115,136.836835,8.70,175.00,Aichi,2014-01-01,2016-12-31
+5248,Aichi Refinery,34.975115,136.836835,8.00,160.00,Aichi,2017-01-01,
+5249,Toyoma Refinery,36.753875,137.208354,,,,,
+5250,Negishi Refinery,35.414883,139.651284,13.30,270.00,Negishi,1964-01-01,
+5251,Keihin Refinery,35.500091,139.729056,9.45,185.00,Keihin,1955-01-01,2011-09-19
+5251,Keihin Refinery,35.500091,139.729056,3.50,70.00,Keihin,2011-09-20,
+5252,Kawasaki Refinery (Tonengeneral),35.521741,139.775881,16.50,335.00,Kawasaki,1962-01-01,2014-02-28
+5252,Kawasaki Refinery (Tonengeneral),35.521741,139.775881,13.20,268.00,Kawasaki,2014-03-01,2015-02-28
+5252,Kawasaki Refinery (Tonengeneral),35.521741,139.775881,12.70,258.00,Kawasaki,2015-03-01,2017-02-28
+5252,Kawasaki Refinery (Tonengeneral),35.521741,139.775881,11.60,235.00,Kawasaki,2017-03-01,
+5253,Sodegaura Refinery,35.470737,140.008895,7.10,143.00,Sodegaura,1968-01-01,
+5254,Chiba Refinery (Idemitsu),35.489457,140.028248,11.00,220.00,Chiba,1963-01-01,2014-12-31
+5254,Chiba Refinery (Idemitsu),35.489457,140.028248,10.00,200.00,Chiba,2015-01-01,2016-12-31
+5254,Chiba Refinery (Idemitsu),35.489457,140.028248,9.50,190.00,Chiba,2017-01-01,
+5255,Chiba Refinery (Tonengeneral),35.518204,140.043026,7.40,175.00,Chiba,1968-01-01,2014-02-28
+5255,Chiba Refinery (Tonengeneral),35.518204,140.043026,4.40,129.00,Chiba,2014-03-01,
+5256,Chiba Refinery (Cosmo Oil),35.535233,140.058365,10.70,220.00,Chiba,1963-01-01,2016-10-23
+5256,Chiba Refinery (Cosmo Oil),35.535233,140.058365,11.70,240.00,Chiba,2016-10-24,2017-03-31
+5256,Chiba Refinery (Cosmo Oil),35.535233,140.058365,9.00,202.00,Chiba,2017-04-01,
+5257,Kashima Refinery,35.910042,140.70281,12.50,252.00,Kashima,1970-01-01,2016-12-31
+5257,Kashima Refinery,35.910042,140.70281,11.80,197.10,Kashima,2017-01-01,
+5258,Sendai Refinery,38.280884,141.035661,7.20,145.00,Sendai,1971-01-01,
+5259,Hokkaido Refinery,42.633618,141.645316,7.00,140.00,Hokkaido,1973-01-01,2013-12-31
+5259,Hokkaido Refinery,42.633618,141.645316,8.00,160.00,Hokkaido,2014-01-01,2016-12-31
+5259,Hokkaido Refinery,42.633618,141.645316,7.50,150.00,Hokkaido,2017-01-01,
+5260,Viva Energy Geelong Refinery,-38.076846,144.383807,6.40,118.00,Geelong,1954-01-01,2013-12-31
+5260,Viva Energy Geelong Refinery,-38.076846,144.383807,6.50,130.00,Geelong,2014-01-01,
+5261,Altona Refinery,-37.84927,144.852451,3.93,78.00,Altona,1949-01-01,2015-12-31
+5261,Altona Refinery,-37.84927,144.852451,4.00,80.00,Altona,2016-01-01,2016-12-31
+5261,Altona Refinery,-37.84927,144.852451,4.30,86.00,Altona,2017-01-01,
+5262,Napa Napa Refinery,-9.453401,147.112203,1.84,36.50,Port Moresby,2004-01-01,2012-12-31
+5262,Napa Napa Refinery,-9.453401,147.112203,1.41,28.00,Port Moresby,2013-01-01,2016-12-31
+5262,Napa Napa Refinery,-9.453401,147.112203,1.70,34.00,Port Moresby,2017-01-01,2017-12-31
+5262,Napa Napa Refinery,-9.453401,147.112203,1.60,32.50,Port Moresby,2018-01-01,
+5263,Kurnell Refinery,-34.018016,151.217316,6.10,124.50,Kurnell,1956-01-01,2014-09-30
+5264,Bp Bulwer Island Refinery,-27.402559,153.138849,4.40,114.00,Bulwer Island,1965-01-01,2015-05-31
+5265,Caltex Oil Refinery,-27.415547,153.156693,5.44,114.00,Brisbane,1965-01-01,
+5266,Marsden Point Oil Refinery,-35.843154,174.494234,6.20,135.00,Marsden Point,1964-01-01,2014-12-31
+5266,Marsden Point Oil Refinery,-35.843154,174.494234,6.50,140.00,Marsden Point,2015-01-01,2016-06-30
+5266,Marsden Point Oil Refinery,-35.843154,174.494234,6.70,145.00,Marsden Point,2016-07-01,
+6958,Duqm Sez Refinery And Petrochemicals,19.62137,57.63367,,,,,
+7138,Tanzania Italian Petrolium Oil Refinery,-6.84337,39.31164,,,,,
+7222,Sinopec Yangzi Petrochemical Company,32.26025,118.79212,8.00,160.00,"Nanjing, Yangzi",1983-01-01,2011-12-31
+7222,Sinopec Yangzi Petrochemical Company,32.26025,118.79212,9.50,190.00,"Nanjing, Yangzi",2012-01-01,2013-12-31
+7222,Sinopec Yangzi Petrochemical Company,32.26025,118.79212,14.00,281.20,"Nanjing, Yangzi",2014-01-01,
+7246,Jebel Ali Refinery,25.01122,55.05764,5.90,120.00,Jebel Ali,1999-01-01,2015-12-31
+7246,Jebel Ali Refinery,25.01122,55.05764,6.90,140.00,Jebel Ali,2016-01-01,2019-12-31
+7246,Jebel Ali Refinery,25.01122,55.05764,9.90,210.00,Jebel Ali,2020-01-01,
+7403,Myanmar China Petro Transportation,19.36461,93.68621,,,,,
+9612,Kam Refinery,37.21569,67.415294,0.21,3.65,Heiratan,2013-08-01,
+9613,Ghazanfar Oil Refinery,37.220264,67.41553,0.20,3.00,Heiratan,2013-01-01,
+9614,Ballsh Refinery,40.605481,19.748726,1.00,20.00,Ballsh,1978-01-01,2017-12-31
+9616,Fier Refinery,40.70079,19.550249,0.50,10.00,Fier,1968-01-01,2017-12-31
+9617,Topping Condensat (RA2.K),36.871492,6.978547,5.00,102.00,Skikda,2009-01-01,2014-10-31
+9617,Topping Condensat (RA2.K),36.871492,6.978547,6.16,122.20,Skikda,2014-11-01,
+9622,Raffinerie d’Adrar Soralchin,28.207842,-0.157259,1.00,20.00,Adrar,2007-01-01,
+9623,Avellaneda Refinery,-34.653732,-58.341804,0.29,5.66,Avellaneda,1933-01-01,
+9625,Clyde Refinery,-33.828222,151.040061,4.93,100.00,Clyde,1928-01-01,2012-09-30
+9626,Eromanga Refinery,-26.66774,143.272356,0.06,1.25,Eromanga,1986-01-01,
+9627,VTTI ATPC,51.251486,4.367719,4.12,81.81,Antwerp,1955-01-01,2016-12-31
+9627,VTTI ATPC,51.251486,4.367719,2.20,24.20,Antwerp,2017-01-01,
+9628,Brod Refinery,45.127916,17.982779,1.20,25.00,Brod,1900-01-01,2011-07-31
+9628,Brod Refinery,45.127916,17.982779,3.00,60.80,Brod,2011-08-01,
+9629,Dax Oil Refinery,-12.657142,-38.310419,0.10,2.10,Camacari,1900-01-01,
+9630,RPCC (Potiguar Clara Camarão Refinery),-5.133808,-36.381514,1.86,37.70,Guamare,2009-01-01,
+9631,UNIVEN Refinery,-23.139711,-47.024352,0.45,9.16,Itupeva,1900-01-01,
+9632,Seria Refinery,4.619623,114.34553,0.54,12.00,Seria,1983-01-01,
+9633,Moose Jaw Refinery,50.388454,-105.519539,1.00,22.00,Moose Jaw,1934-01-01,
+9634,NRC N'Djamena Refinery Company,12.128465,14.995873,1.00,20.00,N Djamena,2010-01-01,2020-05-31
+9634,NRC N'Djamena Refinery Company,12.128465,14.995873,2.00,40.00,N Djamena,2020-06-01,
+9635,Daqing Refining & Chemical,46.556515,124.837075,8.00,160.00,Daqing,2000-01-01,2013-12-31
+9635,Daqing Refining & Chemical,46.556515,124.837075,6.00,120.50,Daqing,2014-01-01,2017-12-31
+9635,Daqing Refining & Chemical,46.556515,124.837075,6.50,130.00,Daqing,2018-01-01,
+9636,Harbin Refinery,45.802889,126.68509,5.00,100.00,Harbin,1976-01-01,
+9637,Panjin Liaohe Petrochemical Refinery,41.155939,122.094434,10.20,204.00,Panjin,1989-01-01,2014-12-31
+9637,Panjin Liaohe Petrochemical Refinery,41.155939,122.094434,12.20,244.00,Panjin,2015-01-01,
+9638,Liaoyang Refinery,41.209453,123.20942,10.00,200.00,Liaoyang,1995-01-01,
+9639,Changqing Xianyang Refinery,34.362449,108.760541,5.00,100.00,Xianyang,1900-01-01,
+9640,Xian Refinery,34.326288,108.832321,1.50,30.10,Xian,1900-01-01,
+9641,Yumen Refinery,40.05006,96.75546,4.00,80.00,Yumen,1939-01-01,2013-12-31
+9641,Yumen Refinery,40.05006,96.75546,2.50,50.00,Yumen,2014-01-01,
+9642,Beijing Yanshan Refinery,39.729614,115.968505,13.50,270.00,Beijing Yanshan,1970-01-01,2014-12-31
+9642,Beijing Yanshan Refinery,39.729614,115.968505,11.00,220.00,Beijing Yanshan,2015-01-01,
+9643,Dagang Refinery,23.123957,113.473516,5.00,100.00,Dagang,1965-01-01,2019-08-31
+9643,Dagang Refinery,23.123957,113.473516,13.00,260.00,Dagang,2019-09-01,
+9644,Huabei Renqiu Refinery,38.735228,116.130212,5.10,100.00,Renqiu,1975-01-01,2019-09-30
+9644,Huabei Renqiu Refinery,38.735228,116.130212,12.50,250.00,Renqiu,2019-10-01,
+9645,Shijiazhuang Refinery,37.979143,114.671423,5.00,100.00,Shijiazhuang,1978-01-01,2013-12-31
+9645,Shijiazhuang Refinery,37.979143,114.671423,10.00,200.00,Shijiazhuang,2014-01-01,
+9646,Qingdao Petrochemical  Refinery,36.052984,120.182067,,,Qingdao,1900-01-01,
+9647,Shanghai  Refinery,30.704354,121.297971,14.00,280.00,Shanghai Jinshan,1972-01-01,2016-10-31
+9647,Shanghai  Refinery,30.704354,121.297971,16.00,320.00,Shanghai Jinshan,2016-11-01,
+9648,Luoyang Refinery,34.911212,112.596934,10.00,190.60,Luoyang,1984-01-01,2020-08-31
+9648,Luoyang Refinery,34.911212,112.596934,10.00,230.00,Luoyang,2020-09-01,
+9649,Yueyang Refinery,29.4519,113.154517,6.00,120.00,Yueyang,1991-01-01,
+9650,Quanzhou Refinery,25.041705,118.885583,12.00,240.00,Quanzhou,2014-09-01,2020-06-30
+9650,Quanzhou Refinery,25.041705,118.885583,15.00,300.00,Quanzhou,2020-07-01,
+9651,Pengzhou Refinery,31.066016,103.902191,10.00,200.00,Pengzhou,2013-10-01,
+9652,Yingkou Refinery,40.754518,121.984573,1.00,20.00,Yingkou,2011-01-01,
+9653,Chenxi Refinery,35.118614,119.381069,3.50,70.30,Rizhao,2005-01-01,
+9654,Anbang Refinery,36.052984,120.182067,1.50,30.00,Qingdao,2007-01-01,
+9655,China Offshore Bitumen  Refinery,32.513281,119.878022,3.50,70.30,Binzhou,2002-10-01,
+9656,Kenli Refinery,37.518278,118.692937,3.00,60.00,Dongying,1970-01-01,
+9657,Sergio Soto Refinery,22.06988,-79.496847,0.14,2.80,Cabaiguan,1947-01-01,
+9658,Bonao Refinery,18.92965,-70.359027,0.69,14.00,Bonao,1971-01-01,
+9659,El Mex Refinery,31.14642,29.841513,5.00,115.00,Alexandria,1954-01-01,
+9660,MIDOR  Refinery,31.160042,29.860842,5.00,100.00,Alexandria,2002-01-01,2016-12-31
+9660,MIDOR  Refinery,31.160042,29.860842,5.60,115.00,Alexandria,2017-01-01,
+9663,Rheinland Refinery - Wesseling,50.81559,7.00155,7.30,148.00,Wesseling,1900-01-01,2002-12-31
+9664,Bayernoil Refinery,48.785848,11.754101,10.80,218.00,Vohburg,1965-01-01,
+9667,Jamnagar RPL (SEZ) Refinery,22.314766,69.878846,29.00,580.00,Jamnagar,2008-01-01,2016-12-31
+9667,Jamnagar RPL (SEZ) Refinery,22.314766,69.878846,35.00,711.00,Jamnagar,2017-01-01,
+9668,Baiji Salah al Din Complex Refinery,35.006137,43.498346,15.70,320.00,Baiji,1982-01-01,2013-12-31
+9668,Baiji Salah al Din Complex Refinery,35.006137,43.498346,15.20,310.00,Baiji,2014-01-01,
+9669,Najaf Refinery,32.244695,44.2749,1.48,30.00,Najaf,2006-01-01,
+9670,Nasiria Refinery,31.036806,46.192935,1.48,30.00,Nasiria,1900-01-01,
+9671,Diwaniyah Refinery,31.980341,44.888051,1.00,20.00,Diwaniyah,2008-01-01,
+9672,Qayarah Refinery,35.789303,43.28239,0.69,14.00,Qayarah,1955-01-01,
+9673,Kalak Erbil Refinery,36.314563,43.748232,3.00,60.00,Erbil,2009-01-01,2011-05-31
+9673,Kalak Erbil Refinery,36.314563,43.748232,4.93,160.00,Erbil,2011-06-01,
+9674,Bazian Sulaymaniyah Refinery,35.561127,45.376608,1.00,20.00,Bazian Sulaymaniyah,2009-01-01,2011-12-31
+9674,Bazian Sulaymaniyah Refinery,35.561127,45.376608,1.50,34.00,Bazian Sulaymaniyah,2012-01-01,2015-12-31
+9674,Bazian Sulaymaniyah Refinery,35.561127,45.376608,2.00,40.00,Bazian Sulaymaniyah,2016-01-01,
+9675,Aktobe Refinery,50.190804,57.257626,0.30,6.00,Aktobe,2003-01-01,
+9676,Jalalabad Refinery,40.960804,72.98235,0.54,10.00,Jalalabad,1996-01-01,
+9677,Kara-Balta Refinery,42.795451,73.887885,0.84,16.00,Kara-Balta,2013-01-01,
+9678,Kemaman Bitumen Refinery,4.257876,103.450318,1.48,30.00,Kemaman,2008-01-01,
+9679,Thanlyin Refinery,16.770008,96.239628,1.28,26.00,Thanlyin,1963-01-01,
+9681,Ponghwa Chemical Complex Refinery,40.009235,124.603673,1.50,30.00,Pihyon County,1978-01-01,
+9682,Mongstad Refinery,60.811173,5.033003,10.00,210.00,Mongstad,1975-01-01,2012-10-31
+9682,Mongstad Refinery,60.811173,5.033003,12.00,240.00,Mongstad,2012-11-01,2013-12-31
+9682,Mongstad Refinery,60.811173,5.033003,10.00,230.00,Mongstad,2014-01-01,
+9683,Campina Refinery,44.875036,26.009625,0.74,15.00,Campina,1895-01-01,2008-12-31
+9684,Ilsky Refinery,44.996764,38.965141,1.00,20.40,Krasnodar,2002-01-01,2012-12-31
+9684,Ilsky Refinery,44.996764,38.965141,2.25,44.50,Krasnodar,2013-01-01,2013-12-31
+9684,Ilsky Refinery,44.996764,38.965141,2.75,54.63,Krasnodar,2014-01-01,
+9685,Mariysky/Mari EI Refinery Refinery,56.981705,47.726238,1.30,25.10,Mari El,1998-01-01,2012-12-31
+9685,Mariysky/Mari EI Refinery Refinery,56.981705,47.726238,1.60,32.10,Mari El,2013-01-01,2018-12-31
+9685,Mariysky/Mari EI Refinery Refinery,56.981705,47.726238,2.70,50.20,Mari El,2019-01-01,
+9686,Novatek Ust-Luga Refinery,59.712451,28.434846,6.24,125.00,Ust-Luga,2013-01-01,2014-12-31
+9686,Novatek Ust-Luga Refinery,59.712451,28.434846,7.10,140.00,Ust-Luga,2015-01-01,
+9687,Novoshakhtinsk Refinery,47.832288,39.856328,2.90,50.20,Novoshakhtinsk,2009-01-01,2017-07-31
+9687,Novoshakhtinsk Refinery,47.832288,39.856328,6.00,100.40,Novoshakhtinsk,2017-08-01,
+9688,TAIF Refinery,55.600926,51.95871,8.26,167.50,Nizhnekamsk,1979-01-01,
+9689,TANECO Refinery,55.576343,51.916237,7.00,140.60,Nizhnekamsk,2011-01-01,2019-01-31
+9689,TANECO Refinery,55.576343,51.916237,14.00,281.10,Nizhnekamsk,2019-02-01,
+9690,Yaysky Refinery,56.123765,86.142317,3.00,60.00,Kemerovo,2013-01-01,2018-12-31
+9690,Yaysky Refinery,56.123765,86.142317,6.00,120.40,Kemerovo,2019-01-01,
+9692,Urai Refinery,60.080828,64.695646,0.10,2.01,Urai,1995-01-01,
+9693,Kogalym Refinery,62.334052,74.481258,0.35,7.03,Kogalym,1997-01-01,
+9694,Yanbu Refinery (Saudi Aramco),23.968557,38.250467,11.50,235.00,"Yanbu
+  Al-Sinaiyah",1983-01-01,2010-12-31
+9694,Yanbu Refinery (Saudi Aramco),23.968557,38.250467,11.75,240.00,"Yanbu
+  Al-Sinaiyah",2011-01-01,2014-12-31
+9694,Yanbu Refinery (Saudi Aramco),23.968557,38.250467,12.00,245.00,"Yanbu
+  Al-Sinaiyah",2015-01-01,2018-03-31
+9694,Yanbu Refinery (Saudi Aramco),23.968557,38.250467,12.25,250.00,"Yanbu
+  Al-Sinaiyah",2018-04-01,
+9695,Jubail SATORP Refinery,26.953433,49.499968,19.70,400.00,Al-Jubail,2014-07-01,
+9696,Sasolburg NATREF Refinery,-26.799361,27.842769,4.93,105.00,Sasolburg,1971-01-01,2015-12-31
+9696,Sasolburg NATREF Refinery,-26.799361,27.842769,5.15,110.00,Sasolburg,2016-01-01,
+9697,Gothenburg Refinery,57.709381,11.826142,0.60,13.00,Gothenburg,1967-01-01,
+9698,Sri Racha Refinery,13.096123,100.889912,8.73,177.00,Chon Buri,1971-01-01,
+9700,Fang Refinery,19.847076,99.214331,0.12,2.50,Chang Mai,1900-01-01,
+9701,Khersonv Refinery,46.671415,32.56961,1.50,30.00,Kherson,1938-01-01,2005-12-31
+9702,Wilmington Refinery,33.779167,-118.232586,4.19,85.00,Wilmington,1969-01-01,
+9703,Galena Park Refinery,29.728492,-95.229969,4.14,100.00,Galena Park,2015-06-01,
+9704,Corpus Christi Refinery,27.817957,-97.50328,2.28,50.00,Corpus Christi,2015-02-01,
+9705,Saint Rose Refinery,29.943593,-90.330443,2.75,56.00,Saint Rose,1900-01-01,2011-12-31
+9705,Saint Rose Refinery,29.943593,-90.330443,2.25,46.00,Saint Rose,2012-01-01,2017-12-31
+9706,Corpus Christi (MMP),27.806833,-97.438941,,,Corpus Christi,1900-01-01,
+9707,Houston Refinery,29.75234,-95.122841,1.23,27.50,Houston,2015-07-01,
+9708,Prudhoe Bay Refinery(Phillips 66),70.306822,-148.73131,0.74,15.00,Prudhoe Bay,1981-01-01,
+9709,Wilmington Asphalt Plant Refinery,33.776586,-118.231043,0.31,6.30,Wilmington,1980-01-01,
+9710,Atmore Refinery,31.180943,-87.440022,0.20,4.10,Atmore,1998-01-01,
+9711,Fergana Refinery,40.446148,71.794354,5.32,108.00,Fergana,1958-01-01,
+9712,Alty Arik Refinery,40.432418,71.511111,5.00,102.00,Alty Arik,1906-01-01,
+9713,Bukhara Refinery,39.499734,64.703401,2.50,50.20,Bukhara,1997-01-01,
+9714,San Roque Refinery,9.266838,-64.717255,0.26,5.20,Santa Anna,1952-01-01,
+9715,Petro Monagas (Cerro Negro) Refinery,8.837801,-63.111242,,,Barcelona,2001-01-01,
+9716,Petro Piar (Ameriven) Refinery,10.22023,-64.6205,9.37,190.00,Barcelona,2003-01-01,2012-12-31
+9716,Petro Piar (Ameriven) Refinery,10.22023,-64.6205,7.35,145.80,Barcelona,2013-01-01,2013-12-31
+9716,Petro Piar (Ameriven) Refinery,10.22023,-64.6205,9.37,190.00,Barcelona,2014-01-01,
+9718,Marib Refinery,15.569029,45.798533,0.50,10.00,Marib,1986-01-01,
+9719,Kasak Refinery,36.457658,42.67167,0.49,10.00,Mosul,1982-01-01,
+9720,Daxie Refinery,29.9384892,121.9539875,7.89,160.00,Ningbo,2001-01-01,
+9731,Mumbai Refinery,19.01701,72.89412,12.00,242.00,Mumbai,1955-01-01,
+10786,Melaka Refinery Psr-1,2.2586,102.1373,5.00,104.00,Melaka,1994-01-01,2013-12-31
+10786,Melaka Refinery Psr-1,2.2586,102.1373,6.50,130.00,Melaka,2014-01-01,2016-12-31
+10786,Melaka Refinery Psr-1,2.2586,102.1373,6.00,115.00,Melaka,2017-01-01,
+13312,Nghi Son Refinery,19.356072,105.779235,10.00,200.00,,2018-02-01,
+14611,SOCAR STAR Refinery,38.789919,26.92265476,10.79,220.00,Aliaga,2019-07-01,
+15945,La Libertad Refinery,16.767486,-90.131714,0.25,5.00,El Peten,2010-01-01,
+15952,Tyulgan refinery,52.350342,56.143848,,0.70,Tyulgan,2020-01-01,
+15953,Samara Petroneft refinery,53.080157,49.911389,1.50,30.00,Ufa,2014-01-01,2018-12-31
+15953,Samara Petroneft refinery,53.080157,49.911389,8.00,160.00,Ufa,2019-01-01,
+15954,Kardymovo refinery,54.884047,32.454007,,0.65,"Kolguyev
+  Island",2001-01-01,
+15955,Ufimsky refinery,54.8764,56.11912,7.50,150.60,Ufa,1938-01-01,2017-12-31
+15955,Ufimsky refinery,54.8764,56.11912,6.50,132.56,Ufa,2018-01-01,
+15956,Slavyansk refinery (NPZ UBK),55.612787,86.145564,3.00,60.25,Slavyansk-na-Kubani,2013-01-01,
+15957,Kochenevsky refinery,55.010866,82.239299,0.50,12.00,Kochenyovo,2007-01-01,2017-12-31
+15958,Krasnoleninsk refinery,61.010856,68.983891,0.20,5.50,Khanty-Mansiysk,1998-01-01,
+15959,Kondinsky refinery,57.084254,65.636561,0.10,2.00,Tyumen,2008-01-01,
+15960,Alexandrovsky refinery,44.714217,42.997577,,1.20,Aleksandrovskoye,2001-01-01,
+15961,Komi (Ukhta) refinery,63.576694,53.72241,2.50,50.00,Komi,2007-01-01,
+15962,Tomsk Refining AB refinery,59.172892,76.237544,0.50,12.00,Tomsk,2008-01-01,2013-12-31
+15962,Tomsk Refining AB refinery,59.172892,76.237544,1.00,20.00,Tomsk,2014-01-01,
+15963,Shakhty refinery,47.71441,40.236521,,0.65,Shakhty,2002-01-01,
+15964,Gukovo refinery,48.039313,39.9164,,0.65,Gukovo,1995-01-01,
+15965,Novy Urengoy refinery,66.088983,76.639013,,1.00,"Novy
+  Urengoy",2005-01-01,
+15966,Petrosakh refinery,46.939534,142.734978,0.46,4.20,Pervomaysk,1994-01-01,
+15967,Strezhevoy refinery,60.837894,77.125895,0.30,7.00,Strezhevoy ,1999-01-01,
+15968,Elkhovsky refinery,55.684239,52.468415,0.50,8.84,Elkhovsky,1995-01-01,
+15969,Volkhov refinery,59.912091,32.362265,0.50,10.00,Volkhov,2011-01-01,
+15970,Kolguyev Island refinery,68.782005,49.302375,,1.20,"Kolguyev
+  Island",1985-01-01,
+15977,Qinhuangdao Yuandong Refinery,39.863517,119.221163,,14.06,Qinhuangdao,2001-01-01,
+15978,Dongyou Asphalt Refinery,21.770929,108.588861,,20.00,Qinzhou,2006-01-01,
+15979,Hainan condensate Refinery,19.96033,110.0433,,6.03,Chengmai,1998-01-01,
+15980,Qinhuangdao Asphalt Refinery,39.991059,119.636598,,104.00,Zibo,2005-01-01,
+15981,Lianfu Refinery,33.196459,120.754533,,24.00,Tianjin,1980-01-01,
+15982,Anbang (Penglai) Refinery,37.778083,120.621286,3.50,70.30,Yantai,2011-01-01,
+15983,Zhanjiang II Refinery,21.143232,110.377725,,16.07,Zhanjiang,2001-01-01,
+15984,Jinhai Hongye Refinery,32.181878,119.289229,,7.03,Xinmin,1986-01-01,
+15985,Cat Lai Refinery,10.760608,106.785301,,7.00,Ho Chi Minh,1988-01-01,
+15986,Muroran Refinery,42.361166,140.952596,9.00,175.00,Muroran,1956-01-01,2013-12-31
+15987,Platon Gas Oil (Tema II) Refinery,5.671964,0.000309,0.10,2.50,Tema,2014-01-01,
+15988,Sillamae Refinery,59.403242,27.742262,3.00,60.00,,2019-01-25,
+15989,Tarragona II Refinery,41.105301,1.214371,,28.00,Tarragona,1965-01-01,2010-12-31
+15989,Tarragona II Refinery,41.105301,1.214371,,27.70,Tarragona,2011-01-01,2012-12-31
+15989,Tarragona II Refinery,41.105301,1.214371,,29.00,Tarragona,2013-01-01,2014-12-31
+15989,Tarragona II Refinery,41.105301,1.214371,,27.71,Tarragona,2015-01-01,2016-12-31
+15989,Tarragona II Refinery,41.105301,1.214371,,34.00,Tarragona,2017-01-01,
+15990,Eastham Refinery,53.311778,-2.942779,,20.00,Ellesmere Port,1966-01-01,2010-12-31
+15990,Eastham Refinery,53.311778,-2.942779,,18.00,Ellesmere Port,2011-01-01,
+15991,H&R Olwerke Schindler GmbH Refinery,53.513603,9.953708,1.00,17.00,Hamburg,1920-01-01,
+15992,Milford Haven Refinery,51.73894,-5.062576,,135.00,Milford Haven,1973-01-01,2012-12-31
+15993,Abadan II Refinery,30.361402,48.26516,9.00,180.00,Abadan,2011-01-01,
+15994,Laffan II Refinery,25.883624,51.560237,,166.00,Laffan,2016-02-01,
+15995,Bosicor Oil Refinery (Mouza Kund II),24.917593,66.705339,,50.00,Mouza Kund,2014-01-01,2014-12-31
+15995,Bosicor Oil Refinery (Mouza Kund II),24.917593,66.705339,,120.00,Mouza Kund,2015-01-01,
+15996,Bandar Abbas II Refinery,27.151095,56.052018,6.00,120.00,"Bandar
+  Abbas",2017-01-01,2018-01-31
+15996,Bandar Abbas II Refinery,27.151095,56.052018,12.00,240.00,"Bandar
+  Abbas",2018-02-01,2019-04-30
+15996,Bandar Abbas II Refinery,27.151095,56.052018,25.00,450.00,"Bandar
+  Abbas",2019-05-01,
+15997,ExxonMobil Singapore Chemical Plant (Jurong Island III),1.26796,103.693404,,100.00,Singapore,2014-01-01,
+15998,Khorramshahr Refinery,30.381204,48.186232,0.35,8.00,Khorramshahr,2015-01-01,
+15999,Pengerang Integrated Petroleum Complex (PIPC),1.359843,104.170475,,300.00,Pengerang,2019-03-01,
+16000,Fujairah II Refinery,25.182369,56.353999,,10.00,Fujairah,2019-01-01,
+16001,Lake Charles II Refinery,30.183525,-93.32371,,,,,
+16002,Long Beach Refinery,33.774372,-118.210457,,,,,
+16003,Port Reading Refinery,40.559608,-74.240364,,,,,
+16004,Coryton Refinery,51.51287,0.520958,,172.00,Stanford-le-Hope,1953-01-01,2010-12-31
+16005,Daesan II Refinery,36.989444,126.343001,,158.00,Seosan,2014-01-01,2016-12-31
+16005,Daesan II Refinery,36.989444,126.343001,,186.00,Seosan,2017-01-01,
+16006,Ogbele Refinery,4.724225,7.060367,,1.00,Ogbele,2010-01-01,2018-12-31
+16006,Ogbele Refinery,4.724225,7.060367,,11.00,Ogbele,2019-01-01,
+16037,Chengda Refinery,37.370538,118.02877,5.00,100.00,Binzhou,2010-01-01,
+16038,Chang Qing Refinery,34.360761,108.768105,,100.00,Chang Qing,1992-01-01,
+16039,Jingbo Refinery,37.740753,117.634314,,42.00,Zibo,1992-01-01,
+16040,Kangda Refinery,23.403499,116.564285,,28.00,Zhenjiang,2004-01-01,
+16041,Binhua Refinery,37.395122,117.991088,5.00,100.00,Binzhou,2006-01-01,2020-07-09
+16042,Hejian Refinery,38.444053,116.146173,,2.00,Hejian,1975-01-01,
+16043,Jinan Changcheng Refinery,36.72995,117.16899,,12.05,Guangzhou,2002-01-01,
+16044,Lanxing I Refinery,36.724182,117.17919,,263.20,Anning,2017-02-01,
+16045,Yongxin Refinery,37.411507,117.989501,,20.00,Binzhou,2004-01-01,
+16046,Beizhen Deying Refinery,41.314358,122.360212,,10.00,Jinzhou,2004-01-01,
+16047,Wusheng Refinery,35.335399,115.187291,3.00,60.00,Heze,1900-01-01,
+16048,Binzhou Refinery,37.481104,118.012111,2.50,50.00,Binzhou,2010-01-01,2018-07-31
+16048,Binzhou Refinery,37.481104,118.012111,5.00,100.00,Binzhou,2018-08-01,2020-10-31
+16049,Xinhai Refinery,35.091432,119.281272,,60.20,Lianyungang,2007-01-01,
+16050,Huaxiang Refinery,36.304245,116.018041,,6.00,Weifang,2009-01-01,
+16051,Luzhou Asphalt Refinery,28.889034,105.53415,,12.00,Yinchuan,2001-01-01,
+16052,Guangyuanfa Asphalt Refinery,36.895711,117.450049,,16.00,JiNULL,2003-01-01,
+16053,Nanchong Refinery,30.624691,106.062188,,7.03,Mudanjiang,1978-01-01,
+16054,Nanyang Refinery,23.353428,116.366175,,38.00,Yinchuan,1997-01-01,
+16055,Beifang Asphalt Refinery,41.177203,121.991833,,15.00,Panjin,1973-01-01,2010-12-31
+16055,Beifang Asphalt Refinery,41.177203,121.991833,,25.00,Panjin,2011-01-01,2011-12-31
+16055,Beifang Asphalt Refinery,41.177203,121.991833,,20.00,Panjin,2012-01-01,2013-12-31
+16055,Beifang Asphalt Refinery,41.177203,121.991833,,25.00,Panjin,2014-01-01,
+16056,Tahe Refinery,41.71602,83.047678,,100.00,Kuche,1980-01-01,
+16057,Channelview II Refinery,29.81897,-95.124343,1.50,35.00,,2019-01-01,
+16058,Kant Refinery,42.903714,74.827657,,,Kant,1900-01-01,
+16059,Oxnard Refinery,34.196158,-119.125665,,,,,
+16060,Tawke Refinery,36.864541,42.89621,0.15,3.50,Tawke,2009-01-01,
+16061,Azadegan I Refinery,32.679707,51.866575,2.50,50.00,Azadegan,2019-01-01,
+16062,Sharjah Refinery,25.306235,55.626921,,3.60,Sharjah,2008-01-01,
+16063,Xinyue Refinery,37.740753,117.634314,,20.08,Binzhou,2005-01-01,
+16064,Kunming Refinery,25.00226,102.73657,,2.41,Jieyang,2006-01-01,
+16065,Huayou Refinery,41.159632,122.990749,,120.00,Dongying,1986-01-01,2017-02-28
+16065,Huayou Refinery,41.159632,122.990749,,140.00,Dongying,2017-03-01,2018-07-31
+16065,Huayou Refinery,41.159632,122.990749,,180.00,Dongying,2018-08-01,
+16066,Bluestar Tianjin Refinery,38.930606,117.717921,,26.00,Tianjin,1969-01-01,
+16067,Shouguanglianmeng Refinery,37.202419,118.8453,,26.00,Shouguang,1998-01-01,
+16068,Lanxing II Refinery,38.951896,117.720756,5.00,100.00,JiNULL,1980-01-01,
+16069,Hongrun Refinery,36.721184,119.166858,,30.10,Huhehot,1992-01-01,2011-12-31
+16069,Hongrun Refinery,36.721184,119.166858,,100.00,Huhehot,2012-01-01,
+16070,Haihua Refinery,37.14275,118.985831,,28.10,Weifang,1980-01-01,
+16071,Huarong Refinery,36.575175,118.882367,,46.00,Dongying,1996-01-01,2017-06-30
+16071,Huarong Refinery,36.575175,118.882367,,84.00,Dongying,2017-07-01,
+16072,Taizhou Refinery,28.334479,121.612591,,52.20,Taizhou,1970-01-01,
+16073,Jingfa Asphalt Refinery,41.974427,122.81889,,46.00,Binzhou,1998-01-01,2014-12-31
+16073,Jingfa Asphalt Refinery,41.974427,122.81889,,70.30,Binzhou,2015-01-01,
+16074,Yanan Refinery,36.658962,109.880978,,160.00,YaNULL,1988-01-01,2020-08-31
+16074,Yanan Refinery,36.658962,109.880978,,140.00,YaNULL,2020-09-01,
+16075,Yongping Refinery,36.553947,110.057053,,90.40,YaNULL,1953-01-01,
+16076,Yanbian Refinery,42.775096,129.438623,2.20,50.00,Tumen,1989-01-01,
+16077,Yangzhou Refinery,32.419437,119.527773,,6.00,Yangzhou,2003-01-01,
+16078,Ningdong Refinery,38.168884,106.605416,,12.50,Nanyang,2001-01-01,
+16079,Taipinghe Asphalt Refinery,41.194967,121.98202,,3.00,Panjin,1987-01-01,
+16080,Mudanjiang Refinery,44.620341,129.630951,,2.00,Dongying,2006-01-01,
+16081,Taxinan Refinery,38.17497,77.281146,,10.00,Poskam,1980-01-01,
+16082,Zhongyuan Refinery,35.747903,114.965254,,26.00,Puyang ,1996-01-01,2010-12-31
+16082,Zhongyuan Refinery,35.747903,114.965254,,24.00,Puyang ,2011-01-01,
+16083,Beili Refinery,35.77274,114.96756,,6.03,Puyang,1979-01-01,
+16084,Xingda Asphalt Refinery,41.208647,122.048494,,10.00,Panjin,1973-01-01,
+16085,Qingyang Refinery,35.651019,107.627776,,36.10,Huaian,1958-01-01,
+16086,Qihua Refinery,47.151863,123.901574,,10.00,Suining,1958-01-01,2012-12-31
+16086,Qihua Refinery,47.151863,123.901574,,30.00,Suining,2013-01-01,
+16087,Haiyou Refinery,35.398981,118.782339,,70.30,Rizhao,2006-01-01,
+16088,Hongye Refinery,41.229718,122.01359,,64.00,Weifang,1997-01-01,2010-12-31
+16088,Hongye Refinery,41.229718,122.01359,,100.00,Weifang,2011-01-01,2014-12-31
+16088,Hongye Refinery,41.229718,122.01359,,115.00,Weifang,2015-01-01,2015-12-31
+16088,Hongye Refinery,41.229718,122.01359,,100.00,Weifang,2016-01-01,2017-06-01
+16088,Hongye Refinery,41.229718,122.01359,,140.00,Weifang,2017-06-02,
+16089,Shenyang Paraffin Refinery,41.787448,123.26207,,14.00,Shenyang,1980-01-01,
+16090,Shenyang Refinery,41.828615,124.058181,,14.06,Shenyang,1999-01-01,
+16091,Liaozhong Refinery,41.489989,122.816295,,4.00,Panjin,2003-01-01,
+16092,Jinao (Sihai) Refinery,30.463323,112.717791,,6.03,JiNULL,1972-01-01,2012-12-31
+16092,Jinao (Sihai) Refinery,30.463323,112.717791,,10.00,JiNULL,2013-01-01,
+16093,Songyuan Refinery,45.082529,124.853321,,10.00,Songyuan,1970-01-01,
+16094,Xinying Asphalt Refinery,30.590901,105.292123,,20.00,Suining,2003-01-01,2012-12-31
+16094,Xinying Asphalt Refinery,30.590901,105.292123,,40.00,Suining,2013-01-01,
+16095,Pengxi Refinery,30.580857,105.287523,,28.10,Guangzhou,2004-01-01,2018-09-30
+16095,Pengxi Refinery,30.580857,105.287523,,70.00,Guangzhou,2018-10-01,
+16096,Yuanfeng Asphalt Refinery,35.431664,118.82827,,6.02,Rizhao,2005-01-01,
+16097,Taizhou CNOOC Refinery,28.327873,121.604761,,60.00,Taizhou,2003-01-01,
+16098,Kubiki Refinery,37.806839,139.083875,0.25,4.72,Niigata,1963-01-01,2011-12-31
+16099,Ba Ria Refinery,10.458438,107.220091,,2.60,Ba Ria,2003-01-01,2015-12-31
+16099,Ba Ria Refinery,10.458438,107.220091,,5.40,Ba Ria,2016-01-01,
+16100,Harwich Refinery,51.943057,1.241448,,12.05,Harwich,1964-01-01,
+16101,Salzbergen Refinery,52.316923,7.351225,0.30,8.00,Salzbergen,1860-01-01,
+16102,Refi Pampa SA Refinery,-38.032128,-67.811633,0.15,3.10,,2017-01-01,
+16103,Nanliang Refinery,38.425143,106.116292,,26.08,Nanchong,1958-01-01,
+16104,Xingneng Asphalt Refinery,31.928323,120.100787,,12.00,Wuxi,2001-01-01,2011-12-31
+16104,Xingneng Asphalt Refinery,31.928323,120.100787,,26.00,Wuxi,2012-01-01,
+16105,Baota Petrochemical Refinery,38.192982,106.585128,2.20,50.00,Yinchuan,1997-01-01,
+16106,Ningxia Refinery,38.478403,106.064631,,100.00,Yinchuan,2005-01-01,
+16107,Yulin Refinery,22.572782,110.133667,,30.00,Yulin,1996-01-01,2012-12-31
+16107,Yulin Refinery,22.572782,110.133667,,70.30,Yulin,2013-01-01,
+16108,Shuangyi Refinery,38.728049,110.184401,,10.00,YaNULL,1998-01-01,
+16109,Tianyi Refinery,22.583756,113.513367,,30.10,Zhongshan,1997-01-01,
+16110,Zhejiang Zhoushan Refinery,30.307267,121.956227,12.50,250.00,Zhoushan,2019-06-01,
+16111,Qingyuan Refinery,36.784816,118.192628,,60.00,Qingyang,2010-01-01,2018-08-31
+16111,Qingyuan Refinery,36.784816,118.192628,,90.00,Qingyang,2018-09-01,
+16112,Lingzhou Refinery,38.246376,106.549875,,110.50,Dongying,1994-01-01,
+16113,Jincheng Refinery,37.053147,117.900239,0.50,6.03,Qianjiang,1997-01-01,2017-12-31
+16113,Jincheng Refinery,37.053147,117.900239,3.00,66.00,Qianjiang,2018-01-01,
+16114,Huifeng Refinery,36.898181,118.101326,,8.00,Anshan,1988-01-01,2011-12-31
+16114,Huifeng Refinery,36.898181,118.101326,,10.00,Anshan,2012-01-01,2014-12-31
+16114,Huifeng Refinery,36.898181,118.101326,,20.00,Anshan,2015-01-01,
+16115,Huikaifeng Refinery,37.422915,118.375941,,36.00,Zibo,1997-01-01,
+16116,Baota Zhuhai Refinery,21.988945,113.207172,,30.00,Zhuhai,2010-01-01,2016-03-31
+16116,Baota Zhuhai Refinery,21.988945,113.207172,,120.00,Zhuhai,2016-04-01,
+16117,Sungri Refinery,42.313159,130.349161,,42.00,Rason,1970-01-01,
+16118,Shebelinka Refinery,50.352,35.9999,,20.00,Andreevka,1960-01-01,
+16119,TWU Refinery,-7.143298,111.726583,1.00,18.00,Bojonegoro,2009-01-01,2018-12-31
+16120,Hongyuan Refinery,37.154091,117.84035,2.20,50.00,Panjin,2010-01-01,
+16121,Oro Negro Refinery,-17.963241,-62.964509,0.20,3.25,,2002-01-01,
+16122,Mongla Refinery,22.508012,89.588889,0.10,2.50,,2013-01-01,
+16123,Tursunzoda I Refinery,38.5302,68.2148,,2.00,Tursunzoda,2013-01-01,
+16124,Sungai Pakning Refinery,-2.97816,104.79944,2.50,50.00,Palembang,1957-01-01,
+16125,Konibodom II Refinery,40.29988,70.398931,,1.40,Konibodom,2016-01-01,
+16126,Golmud Refinery,41.714423,83.103929,,30.00,Golmud,1993-01-01,
+16127,Baldzhuvan  Refinery,37.854244,69.753212,,0.24,Kulob,1995-01-01,
+16128,Dongfang Refinery,37.211517,116.897803,,6.03,Dongying,1996-01-01,2011-12-31
+16128,Dongfang Refinery,37.211517,116.897803,,70.30,Dongying,2012-01-01,
+16129,Dongfang Hualong Refinery,37.097528,118.390133,,40.17,Dongfang,2014-01-01,
+16130,Hi-TECH Refinery,38.079894,118.898449,,70.00,Dezhou,1970-01-01,
+16131,Zhenghe Refinery,37.131738,118.425729,,60.00,Dongying,1975-01-01,2012-12-31
+16131,Zhenghe Refinery,37.131738,118.425729,,70.30,Dongying,2013-01-01,2013-12-31
+16131,Zhenghe Refinery,37.131738,118.425729,,100.00,Dongying,2014-01-01,
+16132,Dongying Shandong Shenchi Petrochemical Refinery,38.096994,118.879289,,30.00,Dongying,2001-01-01,2015-12-31
+16132,Dongying Shandong Shenchi Petrochemical Refinery,38.096994,118.879289,,100.00,Dongying,2016-01-01,2020-04-30
+16132,Dongying Shandong Shenchi Petrochemical Refinery,38.096994,118.879289,,130.00,Dongying,2020-05-01,
+16133,Hualian Refinery,41.286519,121.953847,,20.09,Guangzhou,1998-01-01,
+16134,Hi-Tech Ruilin Refinery,31.1526,121.439728,,70.30,Dongying,1988-01-01,
+16135,Yatong Dongying Petrochemical Refinery,38.086954,118.879539,,16.00,Dongying,2002-01-01,2010-12-31
+16135,Yatong Dongying Petrochemical Refinery,38.086954,118.879539,,56.00,Dongying,2011-01-01,
+16136,Qirun Refinery,37.272359,118.715244,,13.05,Qinhuangdao,1981-01-01,2016-12-31
+16136,Qirun Refinery,37.272359,118.715244,,60.00,Qinhuangdao,2017-01-01,
+16137,Shengkai Refinery,46.542696,125.084763,,6.03,Dongying,2004-01-01,
+16138,Wantong Refinery,37.476088,118.668182,,20.00,Dongying,1998-01-01,
+16139,Dongying CNOOC Refinery,38.077,118.863215,,30.00,Dongying,1989-01-01,
+16140,Shtar Refinery,37.419119,118.665445,,30.00,Dongying,1971-01-01,
+16141,Gaofu Refinery,22.983561,112.84803,,26.00,Foshan,1997-01-01,2012-12-31
+16141,Gaofu Refinery,22.983561,112.84803,,50.20,Foshan,2013-01-01,
+16142,Mingyuan Refinery,32.435688,119.892258,,12.00,Luzhou,2004-01-01,
+16143,Shengkai Asphalt Refinery,46.530102,125.088019,,4.00,Dongying,2005-01-01,
+16144,Dongying Dongming Refinery,35.265173,115.070427,,4.00,Dongying,2005-01-01,
+16145,Qinghai Refinery,41.716017,83.107866,,20.09,Qiqihar,1998-01-01,
+16146,Haishengda Refinery,23.049198,112.829034,,12.05,Foshan,2003-01-01,
+16147,Futeng Asphalt Refinery,23.228899,113.070987,,16.07,Foshan,2004-01-01,
+16148,Ruifeng Refinery,22.879625,112.917714,,12.00,Dongying,2006-01-01,2011-12-31
+16148,Ruifeng Refinery,22.879625,112.917714,,60.25,Dongying,2012-01-01,
+16149,Jiasheng Asphalt Refinery,22.957238,113.590471,,4.00,Zibo,1992-01-01,
+16150,Panlong Refinery,22.906602,113.504513,,20.00,Changchun,1972-01-01,
+16151,Huahong Refinery,22.636871,113.579055,,64.28,Zibo,1992-01-01,
+16152,Shengshi Refinery,35.21123,115.56187,,40.10,Heze,2007-01-01,2020-08-14
+16153,Dongming Refinery,35.304415,115.123117,,120.50,Heze,1989-01-01,2011-12-31
+16153,Dongming Refinery,35.304415,115.123117,,240.00,Heze,2012-01-01,
+16154,Yingchang Asphalt Refinery,22.804937,113.037536,,12.00,Heshan,2004-01-01,
+16155,Hohhot Refinery,40.695169,111.531457,,54.20,Dongying,2010-01-01,
+16156,Qingjiang Refinery,33.572469,118.997237,,27.00,Golmud,1996-01-01,2010-12-31
+16156,Qingjiang Refinery,33.572469,118.997237,,30.10,Golmud,2011-01-01,
+16157,Liaotong Refinery,41.013603,122.199045,,5.02,Yancheng,1992-01-01,
+16158,Dawa Refinery,41.014181,122.057973,,4.02,Panjin,1971-01-01,
+16159,Nong'an Refinery,43.758256,125.188652,,40.20,Yinchuan City ,2002-01-01,2010-12-31
+16159,Nong'an Refinery,43.758256,125.188652,,100.00,Yinchuan City ,2011-01-01,
+16160,Changyi Refinery,36.840321,119.356106,,60.25,Changyi,1988-01-01,2012-12-31
+16160,Changyi Refinery,36.840321,119.356106,,160.00,Changyi,2013-01-01,
+16161,Dalian III (Petrochemical) Refinery,39.5654,121.266701,,430.00,Dalian,2019-05-01,
+16162,Dandong Refinery,40.05044,124.325189,,4.00,Dandong,1987-01-01,
+16163,Bluestar Daqing Refinery,46.308829,124.692926,,44.10,Daqing,2005-01-01,
+16164,Daqing III (ChemChina) Refinery,46.52225,125.08556,,30.00,Daqing,1980-01-01,
+16165,Daqing Lianyi Refinery,46.327218,124.754875,,10.00,Daqing,1993-01-01,
+16166,Shandong Hengyuan Refinery,37.18769,116.845334,,20.09,Foshan,2003-01-01,2014-12-31
+16166,Shandong Hengyuan Refinery,37.18769,116.845334,,30.00,Foshan,2015-01-01,
+16167,Dongguan Yelian Refinery,22.9489,113.570361,,12.05,Dongguan,1980-01-01,
+16168,Huaxing Refinery,36.965945,118.548646,,24.10,Liaocheng,1979-01-01,2017-12-31
+16168,Huaxing Refinery,36.965945,118.548646,,76.00,Liaocheng,2018-01-01,
+16169,Lihuayi Refinery,37.534426,118.235596,,4.01,Shenyang,1970-01-01,2016-12-31
+16169,Lihuayi Refinery,37.534426,118.235596,,70.00,Shenyang,2017-01-01,
+16170,Rudaki Refinery,38.4368,68.7842,,1.70,Rudaki,2013-01-01,
+16171,Mbini Refinery,1.580877,9.610058,,20.00,Mbini,2017-01-01,
+16172,Petit Couronne Refinery,49.376286,1.02069,8.00,162.00,"Petit
+  Couronne",1929-01-01,2013-12-31
+16173,Berre Letang Refinery,43.494538,5.180837,5.00,105.00,"Berre
+  Letang",1929-01-01,2011-12-31
+16174,Mantova Refinery,45.149513,10.8227,2.50,52.50,"STRADA
+  CIPATA",1946-01-01,2013-12-31
+16175,Amara Refinery,31.872333,47.186803,1.50,30.00,Amarah,2010-01-01,
+16176,Sininya Baiji Refinery (Lanaz),36.135401,43.790775,1.00,20.00,Baiji,1979-01-01,
+16177,Dukan Refinery,35.87885,44.96682,1.00,20.00,Dukan,2016-01-01,
+16178,Karachaganak Refinery,51.455585,53.382597,,17.00,Karachaganak,1980-01-01,
+16179,Khanaqin Refinery,34.31935,45.4103,0.50,12.00,Khanaqin,1927-01-01,
+16180,Shahroud Refinery,36.406063,55.007115,0.50,9.10,Semnan,2015-01-01,2018-12-31
+16181,Tokmok Refinery,42.811818,75.314831,,8.00,Tokmok,2015-01-01,
+16182,Karatau Refinery,43.163967,70.439484,,0.48,Karatau,2005-01-01,
+16183,Zhanaozen Refinery,43.360747,52.825679,,0.30,Zhanaozen,2007-01-01,
+16184,Bentiu Refinery,9.252718,29.829968,,3.00,Bentiu,2019-01-01,
+16185,Qeshm Heavy Oil Refinery,26.908858,55.937909,1.75,35.00,"Qeshm
+  Island",2019-01-01,
+16186,Dhodak Refinery,30.818019,70.489338,,2.50,Dhodak,1994-01-01,2014-12-31
+16187,Jizan Refinery,17.286323,42.382579,,400.00,Jizan,2019-02-01,
+16188,Bakersfield III Refinery,35.395471,-119.046066,1.20,25.00,Bakersfield,1969-01-01,
+16318,Palau Muara Besar Refinery,5.000262,115.110421,8.20,165.00,Palau Muara,2019-11-01,
+16328,NWR Sturgeon Refinery,53.842666,-113.117189,5.00,105.80,,2017-01-01,
+16329,Zhanjiang Refinery Complex,21.055142,110.501984,10.00,200.00,Zhanjiang,2020-06-01,
+16330,Wilhelmshaven refinery,53.606775,8.082719,0.00,0.00,,2020-06-01,
+16331,Jazan Refinery,16.871521,42.564407,20.00,400.00,,2021-02-01,
