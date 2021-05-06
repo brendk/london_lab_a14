@@ -256,4 +256,3 @@ def main():
     owners_names = get_owners_names(owners_file)
     # Match Tweets with owners names
     match_tweets_owners(mycol, owners_names)
-    
