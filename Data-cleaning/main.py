@@ -180,10 +180,10 @@ events_keywords = ["fire", "outage", "turnarounds", "tar", "tars", "maintenance"
 def tweet_event_type(mycol, events_keywords):
     for event_name in tqdm(events_keywords):
         # Get ids of Tweets containing current event keyword
-        these_events = [i["event_type"] for i in mycol.find({"full_text": {"$regex": "\\b" + event_name["match"] + "\\b", "$options": "i"}}, {"_id": 1})]
+        these_tweets = [i["_id"] for i in mycol.find({"full_text": {"$regex": "\\b" + event_name + "\\b", "$options": "i"}}, {"_id": 1})]
         # Add current geo_name to matching Tweet's geo_tags field       
         if len(these_events) > 0:
-            mycol.update_many({"event_type": {"$in": these_events}}, {"$push": {"event_types": event_type}})
+            mycol.update_many({"_id": {"$in": these_tweets}}, {"$push": {"event_types": event_name}})
     return
         
     
@@ -192,7 +192,7 @@ def tweet_event_type(mycol, events_keywords):
 # Prepare MongoDb collection (add geo_tags key)
 def prep_col(mycol):
     mycol.update_many({}, {"$set": {"geo_tags": []}})
-
+    mycol.update_many({}, {"$set": {"event_types": []}})
 
 def main():
     # Connect to MongoDb collection
