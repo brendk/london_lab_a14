@@ -171,6 +171,23 @@ def geotag_tweets_cities(mycol, cities_names):
             mycol.update_many({"_id": {"$in": these_ids}}, {"$push": {"geo_tags": geo_name}})
     return
 
+# Extract event type from tweets
+events_keywords = ["fire", "outage", "turnarounds", "tar", "tars", "maintenance", "downtime", "cuts", "runreduction", "run_reduction", 
+               "reduction", "throughput", "explosion", "strike", "problems", "capacity", "capacityreduction", 
+               "capacity_reduction", "expansion", "capacityexpansion", "capacity_expansion", "newrefinery", "new", 
+               "inauguration", "commissioning", "down", "runcuts", "run_cuts", "shutdown", "attack", "blaze", "smoke"]
+
+def tweet_event_type(mycol, events_keywords):
+    for event_name in tqdm(events_keywords):
+        # Get ids of Tweets containing current event keyword
+        these_events = [i["event_type"] for i in mycol.find({"full_text": {"$regex": "\\b" + event_name["match"] + "\\b", "$options": "i"}}, {"_id": 1})]
+        # Add current geo_name to matching Tweet's geo_tags field       
+        if len(these_events) > 0:
+            mycol.update_many({"event_type": {"$in": these_events}}, {"$push": {"event_types": event_type}})
+    return
+        
+    
+
 
 # Prepare MongoDb collection (add geo_tags key)
 def prep_col(mycol):
@@ -192,3 +209,5 @@ def main():
     geotag_tweets_cities(mycol, cities_names)
     # Use Spacy to extract other locations (GPEs)
     geotag_tweets(mycol)
+    #extract event types
+    tweet_event_type
