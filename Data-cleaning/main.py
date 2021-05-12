@@ -10,6 +10,7 @@ import pandas as pd
 import numpy as np
 import warnings
 import re
+import time
 from tqdm import tqdm
 import spacy
 nlp = spacy.load("en_core_web_sm")
@@ -256,3 +257,65 @@ def main():
     owners_names = get_owners_names(owners_file)
     # Match Tweets with owners names
     match_tweets_owners(mycol, owners_names)
+    
+    
+main()
+
+#Get operating dates for a particular refinery from Excel file
+def match_operating_dates(asset_ids, refineries_df, tweet_date):
+    
+    tweet_ok = []
+    
+    for id in asset_ids:
+        
+        #get opening date from the refineries_df
+        #some refineries have 2+ dates since they changed capacity - we will get the earliest/latest date
+        open_date = min(refineries_df.loc[id,"FromDate"].values)
+        #finding the close dates
+        #take the max closing date
+        close_date = max(refineries_df.loc[id,"ToDate"].values)
+        #comparing opening and closing dates with tweet date
+        
+        if tweet_date >= open_date and tweet_date <= close_date:
+            tweet_ok.append(id)
+            
+    return tweet_ok
+    
+
+def get_prob(mycol):
+
+    #reading refineries_df
+    refineries_df = pd.read_csv(refineries_file)[["GeoAssetID", "FromDate", "ToDate"]].set_index("GeoAssetID")
+    #filling nas
+    refineries_df['ToDate'].fillna("2099-12-31", inplace = True)
+    refineries_df['FromDate'].fillna("1900-12-31", inplace = True)
+    #transforming date types
+    refineries_df['FromDate'] = pd.to_datetime(refineries_df['FromDate'],format = "%Y-%m-%d").dt.strftime("%m/%d/%Y")
+    refineries_df['ToDate'] = pd.to_datetime(refineries_df['ToDate'],format = "%Y-%m-%d").dt.strftime("%m/%d/%Y")
+    
+    #replace NaNs in todate with a fictional date in the very future
+    
+    
+    #removing geotags duplicates
+    #access geotag values and save it in a list
+    all_geo_tags = [i for i in mycol.find({"geo_tags": {"$not": { "$size": 0}}}, {"_id":1, "geo_tags" :1, "created_at": 1})]
+
+    #iterating through all geotags
+    for row in all_geo_tags:
+        #get tweet date
+        tweet_date = time.strftime("%m/%d/%Y",time.strptime(row["created_at"],"%a %b %d %X %z %Y"))
+        #transform geotags values into df
+        geotags_df = pd.DataFrame(row["geo_tags"])
+        #dropping duplicates
+        geotags_df.drop_duplicates(subset=["id","type"], inplace= True)
+        #subsetting for refinery name
+        refnames_df = geotags_df[geotags_df["type"] == "refname"]
+        #creating a list with only the refinery ids
+        ref_ids = refnames_df["id"].tolist()
+        
+        #get the operating dates from these ids
+        ok_ids = match_operating_dates(ref_ids, refineries_df, tweet_date)
+        
+        #WE STOPPED HERE!! WHAT TO DO AFTER WE HAVE THE OK IDS WITH TIME??
+
+        
