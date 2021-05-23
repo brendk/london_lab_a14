@@ -169,7 +169,7 @@ def geotag_tweets(mycol):
         these_locations = []
         # Use spacy on Tweet's text (replacing hashtags)
         these_locations.append([{"id": None, "initial": i.text, "match": i.text, "type": "GPE"} 
-                                for i in nlp(this_tweet["full_text"].replace("#", "")).ents if i.label_ == "GPE"])
+                                for i in nlp(this_tweet["full_text"].upper().replace("#", "")).ents if i.label_ == "GPE"])
         # Look into Tweet's hashtags, and try identify those who are locations written in a single word e.g. "WalnutCreek"
         if len(this_tweet["entities"]["hashtags"]) > 0:
             hashtags = [i["text"] for i in this_tweet["entities"]["hashtags"]]
@@ -181,10 +181,10 @@ def geotag_tweets(mycol):
                 new_word = " ".join(re.findall('[A-Z][^A-Z]*', hashtag))
                 # Check for GPEs
                 these_locations.append([{"id": None, "initial": hashtag, "match": i.text, "type": "GPE"} 
-                                        for i in nlp(new_word).ents if i.label_ == "GPE"])
+                                        for i in nlp(new_word.upper()).ents if i.label_ == "GPE"])
         # Only keep unique locations identified
         these_locations = pd.DataFrame([x for x1 in these_locations for x in x1]).drop_duplicates(
-            subset = ["initial", "match"]).to_dict(orient = "records")
+            subset = ["match"]).to_dict(orient = "records")
         for this_location in these_locations:
             mycol.update_one({"_id": this_tweet["_id"]}, {"$push": {"geo_tags": this_location}})
     return
@@ -268,6 +268,7 @@ def get_match_proba(mycol, refineries_file):
     for tweet in tqdm(match_tweets):
         tweet_date = pd.to_datetime(datetime.strptime(tweet["created_at"], "%a %b %d %H:%M:%S %z %Y").date())
         geo_tags = pd.DataFrame(tweet["geo_tags"]).drop_duplicates(subset = ["id", "type"])
+        geo_tags_types = geo_tags["type"].unique().tolist()
         # Do not use GPE
         geo_tags = geo_tags[geo_tags["type"].isin(["refname", "cityname"])]
         owner_tags = pd.DataFrame(tweet["owner_tags"]).drop_duplicates(subset = ["id", "type"])
@@ -283,7 +284,7 @@ def get_match_proba(mycol, refineries_file):
             continue
         # Otherwise look at city - keep only ids that appear twice (must match for refname + city)
         ref_ids.extend(geo_tags[geo_tags["type"] == "cityname"]["id"].astype(int).tolist())
-        ref_ids = list(set([r for r in ref_ids if ref_ids.count(r) == len(geo_tags["type"].unique())]))
+        ref_ids = list(set([r for r in ref_ids if ref_ids.count(r) == len([i for i in geo_tags_types if i in ["refname", "city"]])]))
         # Get list of refineries with selected ids and active at the time of the tweet
         refineries_match = refineries_df[refineries_df["GeoAssetID"].isin(ref_ids) & (refineries_df["FromDate"] <= tweet_date) & 
                                          (refineries_df["ToDate"] >= tweet_date)]
@@ -299,20 +300,26 @@ def get_match_proba(mycol, refineries_file):
             match_dict["confidence"] = 1.0 / len(match_dict)
             mycol.update_one({"_id": tweet["_id"]}, {"$set": {"ref_match": match_dict.to_dict(orient = "records")}})
             continue
+        # If no owner information and no match so far, look into GPEs
         elif len(refineries_match) == 0 and len(owner_tags) == 0:
             continue
-        # Otherwise look at owner - keep only ids that once more (must match for refname + city + owner)
-        ref_ids.extend(owner_tags[owner_tags["type"] == "ownername"]["id"].astype(int).tolist())
-        ref_ids = list(set([r for r in ref_ids if ref_ids.count(r) == len(geo_tags["type"].unique())]))
-        # Get list of refineries with selected ids and active at the time of the tweet
-        refineries_match = refineries_df[refineries_df["GeoAssetID"].isin(ref_ids) & (refineries_df["FromDate"] <= tweet_date) & 
-                                         (refineries_df["ToDate"] >= tweet_date)]
-        # If only 1 match then save to collection with proba = 100% and continue
-        if len(refineries_match) == 1:
-            match_dict = refineries_match[["GeoAssetID", "GeoAssetName"]].copy()
-            match_dict["confidence"] = 1.0
-            mycol.update_one({"_id": tweet["_id"]}, {"$set": {"ref_match": match_dict.to_dict(orient = "records")}})
-            continue
+        # If information on owner
+        if len(owner_tags) > 0:
+            # Otherwise look at owner - keep only ids that appear once more (must match for refname + city + owner)
+            ref_ids.extend(owner_tags[owner_tags["type"] == "ownername"]["id"].astype(int).tolist())
+            ref_ids = list(set([r for r in ref_ids if ref_ids.count(r) == len([i for i in geo_tags_types if i in ["refname", "city", "owner"]])]))
+            # Get list of refineries with selected ids and active at the time of the tweet
+            refineries_match = refineries_df[refineries_df["GeoAssetID"].isin(ref_ids) & (refineries_df["FromDate"] <= tweet_date) & 
+                                             (refineries_df["ToDate"] >= tweet_date)]
+            # If only 1 match then save to collection with proba = 100% and continue
+            if len(refineries_match) == 1:
+                match_dict = refineries_match[["GeoAssetID", "GeoAssetName"]].copy()
+                match_dict["confidence"] = 1.0
+                mycol.update_one({"_id": tweet["_id"]}, {"$set": {"ref_match": match_dict.to_dict(orient = "records")}})
+                continue
+        # If information on GPE
+        if "GPE" in geo_tags_types:
+            
         # Otherwise save all matchs in collection with proba = 1/n matchs
         elif len(refineries_match) > 1:
             match_dict = refineries_match[["GeoAssetID", "GeoAssetName"]].copy()
@@ -369,22 +376,35 @@ def match_tweets_event_type(mycol, events_keywords_h, events_keywords_t):
 
 def main():
     # Connect to MongoDb collection
+    print("Connect to MongoDb collection")
     mycol = createNetworkMongo(mongoDB_Host, mongoDB_Db, mongoDB_Col)
     # Prepare MongoDb collection (add geo_tags key)
+    print("Prepare MongoDb collection (add geo_tags key)")
     prep_col(mycol)
     # Get refineries names from merged file 
+    print("Get refineries names from merged file")
     geo_names_r = get_geo_names_refineries(refineries_file)
     # Match Tweets with refineries names
+    print("Match Tweets with refineries names")
     geotag_tweets_refineries(mycol, geo_names_r)
     # Get cities names from merged file 
+    print("Get cities names from merged file")
     cities_names = get_geo_names_cities(refineries_file)
     # Match Tweets with cities names
+    print("Match Tweets with cities names")
     geotag_tweets_cities(mycol, cities_names)
     # Use Spacy to extract other locations (GPEs)
+    print("Use Spacy to extract other locations (GPEs)")
     geotag_tweets(mycol)
     # Get owners names
+    print("Get owners names")
     owners_names = get_owners_names(owners_file)
     # Match Tweets with owners names
+    print("Match Tweets with owners names")
     match_tweets_owners(mycol, owners_names)
+    # Get probabilities of match for refineries
+    print("Get probabilities of match for refineries")
+    get_match_proba(mycol, refineries_file)
     # Extract event types from tweets
+    print("Extract event types from tweets")
     match_tweets_event_type(mycol, events_keywords_h, events_keywords_t)

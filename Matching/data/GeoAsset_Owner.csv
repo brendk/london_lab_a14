@@ -36,6 +36,45 @@ GeoAssetID,OwnerCompanyID,Percentage,CompanyName,Alias
 5034,1436,0.62,Aramco Trading Company,FALSE
 5070,1436,0.3333,Aramco Trading Company,FALSE
 5075,1436,1,Aramco Trading Company,FALSE
+9694,1436,1,SATORP,TRUE
+9695,1436,0.63,SATORP,TRUE
+5230,1436,0.5,SATORP,TRUE
+15999,1436,0.5,SATORP,TRUE
+16187,1436,1,SATORP,TRUE
+5058,1436,1,SATORP,TRUE
+5041,1436,1,SATORP,TRUE
+5039,1436,0.37,SATORP,TRUE
+5036,1436,0.5,SATORP,TRUE
+5033,1436,0.5,SATORP,TRUE
+5034,1436,0.62,SATORP,TRUE
+5070,1436,0.3333,SATORP,TRUE
+5075,1436,1,SATORP,TRUE
+9694,1436,1,Saudi Aramco,TRUE
+9695,1436,0.63,Saudi Aramco,TRUE
+5230,1436,0.5,Saudi Aramco,TRUE
+15999,1436,0.5,Saudi Aramco,TRUE
+16187,1436,1,Saudi Aramco,TRUE
+5058,1436,1,Saudi Aramco,TRUE
+5041,1436,1,Saudi Aramco,TRUE
+5039,1436,0.37,Saudi Aramco,TRUE
+5036,1436,0.5,Saudi Aramco,TRUE
+5033,1436,0.5,Saudi Aramco,TRUE
+5034,1436,0.62,Saudi Aramco,TRUE
+5070,1436,0.3333,Saudi Aramco,TRUE
+5075,1436,1,Saudi Aramco,TRUE
+9694,1436,1,Saudi Aramco Total Refining and Petrochemical Company,TRUE
+9695,1436,0.63,Saudi Aramco Total Refining and Petrochemical Company,TRUE
+5230,1436,0.5,Saudi Aramco Total Refining and Petrochemical Company,TRUE
+15999,1436,0.5,Saudi Aramco Total Refining and Petrochemical Company,TRUE
+16187,1436,1,Saudi Aramco Total Refining and Petrochemical Company,TRUE
+5058,1436,1,Saudi Aramco Total Refining and Petrochemical Company,TRUE
+5041,1436,1,Saudi Aramco Total Refining and Petrochemical Company,TRUE
+5039,1436,0.37,Saudi Aramco Total Refining and Petrochemical Company,TRUE
+5036,1436,0.5,Saudi Aramco Total Refining and Petrochemical Company,TRUE
+5033,1436,0.5,Saudi Aramco Total Refining and Petrochemical Company,TRUE
+5034,1436,0.62,Saudi Aramco Total Refining and Petrochemical Company,TRUE
+5070,1436,0.3333,Saudi Aramco Total Refining and Petrochemical Company,TRUE
+5075,1436,1,Saudi Aramco Total Refining and Petrochemical Company,TRUE
 9616,2412,0.85,ARMO,FALSE
 5118,127,1,Attock Refinery,FALSE
 4794,139,1,Axeon SP,FALSE

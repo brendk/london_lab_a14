@@ -1,0 +1,1165 @@
+id,initial,match,type
+4623,Honolulu,Honolulu,cityname
+4624,San Lorenzo,SanLorenzo,cityname
+4624,San Lorenzo,San Lorenzo,cityname
+4625,Ewa Beach,EwaBeach,cityname
+4625,Ewa Beach,Ewa Beach,cityname
+4626,Kenai,Kenai,cityname
+4627,Prudhoe Bay,PrudhoeBay,cityname
+4627,Prudhoe Bay,Prudhoe Bay,cityname
+4629,North Pole,NorthPole,cityname
+4629,North Pole,North Pole,cityname
+4630,Valdez,Valdez,cityname
+4631,Burnaby,Burnaby,cityname
+4632,Ferndale,Ferndale,cityname
+4633,Prince George,PrinceGeorge,cityname
+4633,Prince George,Prince George,cityname
+4634,Ferndale,Ferndale,cityname
+4635,Anacortes,Anacortes,cityname
+4636,Anacortes,Anacortes,cityname
+4637,Richmond,Richmond,cityname
+4638,Tacoma,Tacoma,cityname
+4639,Rodeo,Rodeo,cityname
+4640,Benicia,Benicia,cityname
+4641,Martinez,Martinez,cityname
+4642,Martinez,Martinez,cityname
+4643,Santa Maria,SantaMaria,cityname
+4643,Santa Maria,Santa Maria,cityname
+4644,Bakersfield,Bakersfield,cityname
+4645,Bakersfield,Bakersfield,cityname
+4646,El Segundo,ElSegundo,cityname
+4646,El Segundo,El Segundo,cityname
+4647,Torrance,Torrance,cityname
+4648,Wilmington,Wilmington,cityname
+4649,Carson,Carson,cityname
+4651,Wilmington,Wilmington,cityname
+4652,South Gate,SouthGate,cityname
+4652,South Gate,South Gate,cityname
+4653,Paramount,Paramount,cityname
+4654,Ely,Ely,cityname
+4655,Edmonton,Edmonton,cityname
+4656,Edmonton,Edmonton,cityname
+4657,Scotford,Scotford,cityname
+4658,Salt Lake City,SaltLakeCity,cityname
+4658,Salt Lake City,SaltLake,cityname
+4658,Salt Lake City,Salt Lake City,cityname
+4659,North Salt Lake,NorthSaltLake,cityname
+4659,North Salt Lake,NorthSalt,cityname
+4659,North Salt Lake,North Salt Lake,cityname
+4660,Woods Cross,WoodsCross,cityname
+4660,Woods Cross,Woods Cross,cityname
+4661,Salt Lake City,SaltLakeCity,cityname
+4661,Salt Lake City,SaltLake,cityname
+4661,Salt Lake City,Salt Lake City,cityname
+4662,Woods Cross,WoodsCross,cityname
+4662,Woods Cross,Woods Cross,cityname
+4663,Great Falls,GreatFalls,cityname
+4663,Great Falls,Great Falls,cityname
+4664,Evanston,Evanston,cityname
+4665,Lloydminster,Lloydminster,cityname
+4666,Laurel,Laurel,cityname
+4667,Billings,Billings,cityname
+4668,Billings,Billings,cityname
+4669,Gallup,Gallup,cityname
+4670,Evansville,Evansville,cityname
+4671,El Paso,ElPaso,cityname
+4671,El Paso,El Paso,cityname
+4673,Evansville,Evansville,cityname
+4674,Douglas,Douglas,cityname
+4675,Denver,Denver,cityname
+4677,Cheyenne,Cheyenne,cityname
+4678,Regina,Regina,cityname
+4679,Artesia,Artesia,cityname
+4680,New Castle,NewCastle,cityname
+4680,New Castle,New Castle,cityname
+4681,Dickinson,Dickinson,cityname
+4682,Sunray,Sunray,cityname
+4683,Big Spring,BigSpring,cityname
+4683,Big Spring,Big Spring,cityname
+4684,Borger,Borger,cityname
+4685,Salamanca,Salamanca,cityname
+4686,Mandan,Mandan,cityname
+4687,Cadereyta,Cadereyta,cityname
+4688,Tula Hidalgo,TulaHidalgo,cityname
+4688,Tula Hidalgo,Tula Hidalgo,cityname
+4689,San Antonio,SanAntonio,cityname
+4689,San Antonio,San Antonio,cityname
+4690,Three Rivers,ThreeRivers,cityname
+4690,Three Rivers,Three Rivers,cityname
+4691,Nixon,Nixon,cityname
+4692,Mcpherson,Mcpherson,cityname
+4693,Corpus Christi,CorpusChristi,cityname
+4693,Corpus Christi,Corpus Christi,cityname
+4694,Corpus Christi,CorpusChristi,cityname
+4694,Corpus Christi,Corpus Christi,cityname
+4695,Corpus Christi,CorpusChristi,cityname
+4695,Corpus Christi,Corpus Christi,cityname
+4697,Corpus Christi,CorpusChristi,cityname
+4697,Corpus Christi,Corpus Christi,cityname
+4699,Wynnewood,Wynnewood,cityname
+4700,Ardmore,Ardmore,cityname
+4701,Ponca City,PoncaCity,cityname
+4701,Ponca City,Ponca City,cityname
+4702,El Dorado,ElDorado,cityname
+4702,El Dorado,El Dorado,cityname
+4704,Tulsa,Tulsa,cityname
+4705,Sweeny,Sweeny,cityname
+4706,Coffeyville,Coffeyville,cityname
+4707,Tyler,Tyler,cityname
+4708,Houston,Houston,cityname
+4709,Houston,Houston,cityname
+4710,Pasadena,Pasadena,cityname
+4712,Deer Park,DeerPark,cityname
+4712,Deer Park,Deer Park,cityname
+4714,Baytown,Baytown,cityname
+4715,Galveston Bay,GalvestonBay,cityname
+4715,Galveston Bay,Galveston Bay,cityname
+4716,Texas City,TexasCity,cityname
+4716,Texas City,Texas City,cityname
+4717,Texas City,TexasCity,cityname
+4717,Texas City,Texas City,cityname
+4718,Beaumont,Beaumont,cityname
+4719,Port Arthur,PortArthur,cityname
+4719,Port Arthur,Port Arthur,cityname
+4720,Port Arthur,PortArthur,cityname
+4720,Port Arthur,Port Arthur,cityname
+4721,Willemstad,Willemstad,cityname
+4722,Port Arthur,PortArthur,cityname
+4722,Port Arthur,Port Arthur,cityname
+4723,Shreveport,Shreveport,cityname
+4724,Princeton,Princeton,cityname
+4725,Cotton Valley,CottonValley,cityname
+4725,Cotton Valley,Cotton Valley,cityname
+4726,Lake Charles,LakeCharles,cityname
+4726,Lake Charles,Lake Charles,cityname
+4727,Lake Charles,LakeCharles,cityname
+4727,Lake Charles,Lake Charles,cityname
+4728,Westlake,Westlake,cityname
+4729,Pine Blend,PineBlend,cityname
+4729,Pine Blend,Pine Blend,cityname
+4730,Fort de France,FortdeFrance,cityname
+4730,Fort de France,Fortde,cityname
+4730,Fort de France,Fort de France,cityname
+4731,Saint Paul,SaintPaul,cityname
+4731,Saint Paul,Saint Paul,cityname
+4732,Smackover,Smackover,cityname
+4733,El Dorado,ElDorado,cityname
+4733,El Dorado,El Dorado,cityname
+4734,Superior,Superior,cityname
+4735,Krotz Springs,KrotzSprings,cityname
+4735,Krotz Springs,Krotz Springs,cityname
+4736,Port Allen,PortAllen,cityname
+4736,Port Allen,Port Allen,cityname
+4737,Baton Rouge,BatonRouge,cityname
+4737,Baton Rouge,Baton Rouge,cityname
+4738,Vicksburg,Vicksburg,cityname
+4739,Convent,Convent,cityname
+4740,Garyville,Garyville,cityname
+4741,Norco,Norco,cityname
+4742,Norco,Norco,cityname
+4743,Wood River,WoodRiver,cityname
+4743,Wood River,Wood River,cityname
+4744,Memphis,Memphis,cityname
+4745,Belle Chasse,BelleChasse,cityname
+4745,Belle Chasse,Belle Chasse,cityname
+4746,Chalmette,Chalmette,cityname
+4747,Meraux,Meraux,cityname
+4748,Acajutla,Acajutla,cityname
+4749,Sandersville,Sandersville,cityname
+4750,Pascagoula,Pascagoula,cityname
+4751,Joliet,Joliet,cityname
+4752,Saraland,Saraland,cityname
+4753,Lemont,Lemont,cityname
+4755,Mount Vernon,MountVernon,cityname
+4755,Mount Vernon,Mount Vernon,cityname
+4756,Robinson,Robinson,cityname
+4757,Tuscaloosa,Tuscaloosa,cityname
+4758,Whiting,Whiting,cityname
+4759,Managua,Managua,cityname
+4760,Somerset,Somerset,cityname
+4761,Lima,Lima,cityname
+4762,Toledo,Toledo,cityname
+4763,Toledo,Toledo,cityname
+4764,Detroit,Detroit,cityname
+4765,Catlettsburg,Catlettsburg,cityname
+4766,St. Clair,St.Clair,cityname
+4766,St. Clair,St. Clair,cityname
+4767,Sarnia,Sarnia,cityname
+4768,Sarnia,Sarnia,cityname
+4769,Havana,Havana,cityname
+4770,Canton,Canton,cityname
+4771,Talara,Talara,cityname
+4773,Savannah,Savannah,cityname
+4776,Santa Elena,SantaElena,cityname
+4776,Santa Elena,Santa Elena,cityname
+4777,Newell,Newell,cityname
+4778,Nanticoke,Nanticoke,cityname
+4779,Esmeraldas,Esmeraldas,cityname
+4780,Mississauga,Mississauga,cityname
+4781,Warren,Warren,cityname
+4782,El Milagro,ElMilagro,cityname
+4782,El Milagro,El Milagro,cityname
+4783,Bradford,Bradford,cityname
+4784,Lima,Lima,cityname
+4785,Lima,Lima,cityname
+4787,Kingston,Kingston,cityname
+4788,Shushufindi,Shushufindi,cityname
+4789,Yorktown,Yorktown,cityname
+4790,Delaware City,DelawareCity,cityname
+4790,Delaware City,Delaware City,cityname
+4791,Marcus Hook,MarcusHook,cityname
+4791,Marcus Hook,Marcus Hook,cityname
+4792,Trainer,Trainer,cityname
+4793,Paulsboro,Paulsboro,cityname
+4794,Paulsboro,Paulsboro,cityname
+4795,Minatitlan,Minatitlan,cityname
+4796,Philadelphia,Philadelphia,cityname
+4797,Eagle Point,EaglePoint,cityname
+4797,Eagle Point,Eagle Point,cityname
+4798,Pucallpa,Pucallpa,cityname
+4799,Perth Amboy,PerthAmboy,cityname
+4799,Perth Amboy,Perth Amboy,cityname
+4800,Linden,Linden,cityname
+4801,Santander,Santander,cityname
+4802,Montreal,Montreal,cityname
+4803,Apiay,Apiay,cityname
+4804,Iquito,Iquito,cityname
+4805,Concepcion,Concepcion,cityname
+4806,N. de Santander,N.deSantander,cityname
+4806,N. de Santander,N.de,cityname
+4806,N. de Santander,N. de Santander,cityname
+4807,Bajo Grande,BajoGrande,cityname
+4807,Bajo Grande,Bajo Grande,cityname
+4809,Concon,Concon,cityname
+4810,Levis,Levis,cityname
+4811,Cartagena,Cartagena,cityname
+4812,Punta Arenas,PuntaArenas,cityname
+4812,Punta Arenas,Punta Arenas,cityname
+4813,San Nicolas,SanNicolas,cityname
+4813,San Nicolas,San Nicolas,cityname
+4814,Neuquen,Neuquen,cityname
+4815,Mendoza,Mendoza,cityname
+4816,Cochabamba,Cochabamba,cityname
+4817,Saint John,SaintJohn,cityname
+4817,Saint John,Saint John,cityname
+4819,Santa Cruz de la Sierra,Santa Cruz de la Sierra,cityname
+4820,Orinoco belt,Orinocobelt,cityname
+4820,Orinoco belt,Orinoco belt,cityname
+4821,Puerto de la Cruz,Puerto de la Cruz,cityname
+4822,Barcelona,Barcelona,cityname
+4823,St. Croix,St.Croix,cityname
+4823,St. Croix,St. Croix,cityname
+4824,Campo Duran,CampoDuran,cityname
+4824,Campo Duran,Campo Duran,cityname
+4825,Dartmouth,Dartmouth,cityname
+4826,Santa Cruz de la Sierra,Santa Cruz de la Sierra,cityname
+4828,Bahia Blanca,BahiaBlanca,cityname
+4828,Bahia Blanca,Bahia Blanca,cityname
+4830,Manaus,Manaus,cityname
+4832,Villa Elisa,VillaElisa,cityname
+4832,Villa Elisa,Villa Elisa,cityname
+4833,Montevideo,Montevideo,cityname
+4834,Tout Lui Faut,ToutLuiFaut,cityname
+4834,Tout Lui Faut,ToutLui,cityname
+4834,Tout Lui Faut,Tout Lui Faut,cityname
+4835,Come By Chance,ComeByChance,cityname
+4835,Come By Chance,ComeBy,cityname
+4835,Come By Chance,Come By Chance,cityname
+4836,Pelotas,Pelotas,cityname
+4837,Canoas,Canoas,cityname
+4838,Santiago,Santiago,cityname
+4839,Araucaria,Araucaria,cityname
+4840,Paulinia,Paulinia,cityname
+4841,Maua,Maua,cityname
+4842,Cubatao,Cubatao,cityname
+4843,Sao Jose dos Campos,Sao Jose dos Campos,cityname
+4844,Betim,Betim,cityname
+4845,Duque de Caxias,DuquedeCaxias,cityname
+4845,Duque de Caxias,Duquede,cityname
+4845,Duque de Caxias,Duque de Caxias,cityname
+4846,Rio de Janeiro,RiodeJaneiro,cityname
+4846,Rio de Janeiro,Riode,cityname
+4846,Rio de Janeiro,Rio de Janeiro,cityname
+4847,Sao Francisco do Conde,Sao Francisco do Conde,cityname
+4848,Fortaleza,Fortaleza,cityname
+4849,Ipojuca,Ipojuca,cityname
+4850,Dakar,Dakar,cityname
+4852,Tenerife,Tenerife,cityname
+4854,Sines,Sines,cityname
+4855,Porto,Porto,cityname
+4857,La Coruna,LaCoruna,cityname
+4857,La Coruna,La Coruna,cityname
+4859,Cork,Cork,cityname
+4861,Mohammedia,Mohammedia,cityname
+4862,Huelva,Huelva,cityname
+4863,"Palos de
+  la Frontera","Palos de
+  la Frontera",cityname
+4864,Gibraltar San Roque,GibraltarSanRoque,cityname
+4864,Gibraltar San Roque,GibraltarSan,cityname
+4864,Gibraltar San Roque,Gibraltar San Roque,cityname
+4865,Pembroke,Pembroke,cityname
+4866,Puertollano,Puertollano,cityname
+4867,Abidjan,Abidjan,cityname
+4868,Grangemouth,Grangemouth,cityname
+4869,Muskiz,Muskiz,cityname
+4870,Dundee,Dundee,cityname
+4871,Stanlow,Stanlow,cityname
+4872,Donges,Donges,cityname
+4873,Fawley,Fawley,cityname
+4874,Murcia,Murcia,cityname
+4875,Arzew,Arzew,cityname
+4876,Lindsey,Lindsey,cityname
+4877,Humber,Humber,cityname
+4878,Castellon,Castellon,cityname
+4880,Tema,Tema,cityname
+4881,Gonfreville l’Orcher,Gonfrevillel’Orcher,cityname
+4881,Gonfreville l’Orcher,Gonfreville l’Orcher,cityname
+4882,Port Jerome,PortJerome,cityname
+4882,Port Jerome,Port Jerome,cityname
+4883,Tarragona,Tarragona,cityname
+4885,Dunkirk,Dunkirk,cityname
+4886,Grandpuits,Grandpuits,cityname
+4887,Alger,Alger,cityname
+4889,Vlissingen,Vlissingen,cityname
+4890,Rotterdam,Rotterdam,cityname
+4891,Rotterdam,Rotterdam,cityname
+4892,Rotterdam,Rotterdam,cityname
+4893,Scheldelaan,Scheldelaan,cityname
+4895,Rotterdam,Rotterdam,cityname
+4896,Antwerp,Antwerp,cityname
+4897,Antwerp,Antwerp,cityname
+4898,Rotterdam,Rotterdam,cityname
+4899,Feyzin,Feyzin,cityname
+4900,Fos sur Mer,FossurMer,cityname
+4900,Fos sur Mer,Fossur,cityname
+4900,Fos sur Mer,Fos sur Mer,cityname
+4901,Lavera,Lavera,cityname
+4902,Salina Cruz,SalinaCruz,cityname
+4902,Salina Cruz,Salina Cruz,cityname
+4903,La Mede,LaMede,cityname
+4903,La Mede,La Mede,cityname
+4904,Warri    ,Warri    ,cityname
+4905,Hassi,Hassi,cityname
+4906,Collombey,Collombey,cityname
+4907,Skikda,Skikda,cityname
+4908,Cologne,Cologne,cityname
+4909,Cressier,Cressier,cityname
+4910,Buenos Aires,BuenosAires,cityname
+4910,Buenos Aires,Buenos Aires,cityname
+4911,Gelsenkirchen,Gelsenkirchen,cityname
+4912,Port Hartcourt,PortHartcourt,cityname
+4912,Port Hartcourt,Port Hartcourt,cityname
+4913,Lingen,Lingen,cityname
+4914,Kaduna,Kaduna,cityname
+4915,Karlsruhe,Karlsruhe,cityname
+4916,Port Gentil,PortGentil,cityname
+4916,Port Gentil,Port Gentil,cityname
+4917,Zinder,Zinder,cityname
+4918,Trecate,Trecate,cityname
+4919,Sannazzaro,Sannazzaro,cityname
+4920,Busalla,Busalla,cityname
+4921,Sarroch,Sarroch,cityname
+4922,Heide,Heide,cityname
+4923,Limbe,Limbe,cityname
+4925,Fredericia,Fredericia,cityname
+4926,Bizerte,Bizerte,cityname
+4927,Hamburg,Hamburg,cityname
+4929,Hamburg,Hamburg,cityname
+4930,Livorno,Livorno,cityname
+4931,Slagen,Slagen,cityname
+4932,Kalundborg,Kalundborg,cityname
+4933,Brofjorden Lysekil,BrofjordenLysekil,cityname
+4933,Brofjorden Lysekil,Brofjorden Lysekil,cityname
+4934,Cardon,Cardon,cityname
+4935,Kösching,Kösching,cityname
+4937,Gothenburg,Gothenburg,cityname
+4938,Pointe Noire,PointeNoire,cityname
+4938,Pointe Noire,Pointe Noire,cityname
+4940,Gothenburg,Gothenburg,cityname
+4942,Spergau,Spergau,cityname
+4943,Ravenna,Ravenna,cityname
+4944,Porto Marghera,PortoMarghera,cityname
+4944,Porto Marghera,Porto Marghera,cityname
+4945,Rome,Rome,cityname
+4946,Zawiya             ,Zawiya             ,cityname
+4947,Burghausen,Burghausen,cityname
+4948,Luanda,Luanda,cityname
+4949,Falconara,Falconara,cityname
+4951,Zaluzi,Zaluzi,cityname
+4952,Schwedt,Schwedt,cityname
+4953,Gela,Gela,cityname
+4954,"Kralupy
+  nad Vltavou","Kralupy
+  nad Vltavou",cityname
+4955,Rijeka,Rijeka,cityname
+4956,Augusta,Augusta,cityname
+4959,Priolo,Priolo,cityname
+4960,Sicily,Sicily,cityname
+4961,Milazzo,Milazzo,cityname
+4962,Pardubice,Pardubice,cityname
+4963,Sisak,Sisak,cityname
+4964,Schwechat,Schwechat,cityname
+4965,Bratislava,Bratislava,cityname
+4966,Taranto,Taranto,cityname
+4967,Nynashamn,Nynashamn,cityname
+4969,Cape Town,CapeTown,cityname
+4969,Cape Town,Cape Town,cityname
+4970,Ras Lanuf         ,Ras Lanuf         ,cityname
+4971,Gdansk,Gdansk,cityname
+4972,Szazhalombatta,Szazhalombatta,cityname
+4974,Trzebinia,Trzebinia,cityname
+4975,Marsa El-Brega    ,MarsaElBrega,cityname
+4975,Marsa El-Brega    ,MarsaEl,cityname
+4975,Marsa El-Brega    ,Marsa El Brega,cityname
+4975,Marsa El-Brega    ,Marsa El-Brega    ,cityname
+4976,Plock,Plock,cityname
+4977,Novi Sad,NoviSad,cityname
+4977,Novi Sad,Novi Sad,cityname
+4978,Pancevo,Pancevo,cityname
+4979,Mazeikiai,Mazeikiai,cityname
+4980,Sarir             ,Sarir             ,cityname
+4981,Skopje,Skopje,cityname
+4982,Jedlicze,Jedlicze,cityname
+4983,Naantali,Naantali,cityname
+4985,Thessaloniki,Thessaloniki,cityname
+4986,Corinth,Corinth,cityname
+4987,Drogobych,Drogobych,cityname
+4988,Elefsis,Elefsis,cityname
+4989,Aspropyrgos,Aspropyrgos,cityname
+4990,Tobruk            ,Tobruk            ,cityname
+4991,Nadvornaja,Nadvornaja,cityname
+4992,Ploiesti,Ploiesti,cityname
+4993,Porvoo,Porvoo,cityname
+4994,Ploiesti,Ploiesti,cityname
+4995,Ploiesti,Ploiesti,cityname
+4997,Haina,Haina,cityname
+4998,Onesti,Onesti,cityname
+4999,Izmir,Izmir,cityname
+5000,Burgas,Burgas,cityname
+5001,Ciudad Madero,CiudadMadero,cityname
+5001,Ciudad Madero,Ciudad Madero,cityname
+5002,Novopolotsk,Novopolotsk,cityname
+5003,Navodari,Navodari,cityname
+5004,Ndola,Ndola,cityname
+5005,Mozyr,Mozyr,cityname
+5007,Izmit,Izmit,cityname
+5008,Asyut,Asyut,cityname
+5009,Alexandria,Alexandria,cityname
+5010,El Obeid,ElObeid,cityname
+5010,El Obeid,El Obeid,cityname
+5011,Odessa,Odessa,cityname
+5012,Tanta,Tanta,cityname
+5013,Durban,Durban,cityname
+5014,Durban,Durban,cityname
+5015,Mostorod,Mostorod,cityname
+5016,Kirishi,Kirishi,cityname
+5017,Khartoum,Khartoum,cityname
+5018,El Suez,ElSuez,cityname
+5018,El Suez,El Suez,cityname
+5019,El Suez,ElSuez,cityname
+5019,El Suez,El Suez,cityname
+5020,El Gily,ElGily,cityname
+5020,El Gily,El Gily,cityname
+5021,Wadi Feran,Wadi Feran,cityname
+5022,Kremenchug,Kremenchug,cityname
+5023,Kirikkale,Kirikkale,cityname
+5025,Ashdod,Ashdod,cityname
+5026,Haifa,Haifa,cityname
+5027,Banias,Banias,cityname
+5028,Zarqa,Zarqa,cityname
+5029,Homs,Homs,cityname
+5030,Pointe-a-Pierre,PointeaPierre,cityname
+5030,Pointe-a-Pierre,Pointea,cityname
+5030,Pointe-a-Pierre,Pointe a Pierre,cityname
+5030,Pointe-a-Pierre,Pointe-a-Pierre,cityname
+5031,Port Sudan,PortSudan,cityname
+5031,Port Sudan,Port Sudan,cityname
+5032,Moscow,Moscow,cityname
+5033,"Yanbu
+  Al-Sinaiyah",YanbuAlSinaiyah,cityname
+5033,"Yanbu
+  Al-Sinaiyah",YanbuAl,cityname
+5033,"Yanbu
+  Al-Sinaiyah",Yanbu Al Sinaiyah,cityname
+5033,"Yanbu
+  Al-Sinaiyah",YanbuAl-Sinaiyah,cityname
+5033,"Yanbu
+  Al-Sinaiyah",Yanbu,cityname
+5033,"Yanbu
+  Al-Sinaiyah","Yanbu
+  Al-Sinaiyah",cityname
+5034,"Yanbu
+  Al-Sinaiyah",YanbuAlSinaiyah,cityname
+5034,"Yanbu
+  Al-Sinaiyah",YanbuAl,cityname
+5034,"Yanbu
+  Al-Sinaiyah",Yanbu Al Sinaiyah,cityname
+5034,"Yanbu
+  Al-Sinaiyah",YanbuAl-Sinaiyah,cityname
+5034,"Yanbu
+  Al-Sinaiyah",Yanbu,cityname
+5034,"Yanbu
+  Al-Sinaiyah","Yanbu
+  Al-Sinaiyah",cityname
+5035,Lisichansk,Lisichansk,cityname
+5037,Krasnodar,Krasnodar,cityname
+5038,Krasnodar,Krasnodar,cityname
+5039,Rabigh,Rabigh,cityname
+5040,Tuapse,Tuapse,cityname
+5041,Jeddah,Jeddah,cityname
+5042,Mombasa,Mombasa,cityname
+5044,Ryazan,Ryazan,cityname
+5045,Yaroslavl,Yaroslavl,cityname
+5046,Batman,Batman,cityname
+5047,Anbar,Anbar,cityname
+5049,Muftiah,Muftiah,cityname
+5050,Nizhni Novgorod,NizhniNovgorod,cityname
+5050,Nizhni Novgorod,Nizhni Novgorod,cityname
+5051,Kirkuk,Kirkuk,cityname
+5052,Dora,Dora,cityname
+5053,Volgograd,Volgograd,cityname
+5054,Little Aden,LittleAden,cityname
+5054,Little Aden,Little Aden,cityname
+5055,Samawah,Samawah,cityname
+5056,Saratov,Saratov,cityname
+5057,Tabriz            ,Tabriz            ,cityname
+5058,Riyadh,Riyadh,cityname
+5059,Kermanshah,Kermanshah,cityname
+5061,Basrah,Basrah,cityname
+5062,Astrakhan,Astrakhan,cityname
+5063,Mina Al Ahmadi,MinaAlAhmadi,cityname
+5063,Mina Al Ahmadi,MinaAl,cityname
+5063,Mina Al Ahmadi,Mina Al Ahmadi,cityname
+5064,Mina Abdulla,MinaAbdulla,cityname
+5064,Mina Abdulla,Mina Abdulla,cityname
+5065,Shuaiba,Shuaiba,cityname
+5066,Abadan,Abadan,cityname
+5067,Samara,Samara,cityname
+5069,Arak              ,Arak              ,cityname
+5070,"Madinat
+  Al-Jubail Al- Sinaiyah ",Madinat Al Jubail Al Sinaiyah,cityname
+5070,"Madinat
+  Al-Jubail Al- Sinaiyah ","Madinat
+  Al-Jubail Al- Sinaiyah ",cityname
+5071,Samara,Samara,cityname
+5072,Baku,Baku,cityname
+5073,Baku,Baku,cityname
+5074,Samara,Samara,cityname
+5075,Ras Tanura,RasTanura,cityname
+5075,Ras Tanura,Ras Tanura,cityname
+5076,Sitra,Sitra,cityname
+5077,Tehran            ,Tehran            ,cityname
+5078,Isfahan,Isfahan,cityname
+5079,Mesaieed,Mesaieed,cityname
+5081,Ras Laffan,RasLaffan,cityname
+5081,Ras Laffan,Ras Laffan,cityname
+5082,Atyrau,Atyrau,cityname
+5084,Shiraz            ,Shiraz            ,cityname
+5085,Ruwais,Ruwais,cityname
+5086,Turkmenbashi,Turkmenbashi,cityname
+5087,"Lavan
+  Island",LavanIsland,cityname
+5087,"Lavan
+  Island",Lavan,cityname
+5087,"Lavan
+  Island","Lavan
+  Island",cityname
+5088,Puerto Cabello,PuertoCabello,cityname
+5088,Puerto Cabello,Puerto Cabello,cityname
+5089,Ukhta,Ukhta,cityname
+5090,"Abu
+  Dhabi",AbuDhabi,cityname
+5090,"Abu
+  Dhabi",Abu,cityname
+5090,"Abu
+  Dhabi","Abu
+  Dhabi",cityname
+5092,Sharjah,Sharjah,cityname
+5093,Salavat,Salavat,cityname
+5094,Bandar Abbas,BandarAbbas,cityname
+5094,Bandar Abbas,Bandar Abbas,cityname
+5095,Ufa,Ufa,cityname
+5096,Ufa,Ufa,cityname
+5097,Ufa,Ufa,cityname
+5098,Perm,Perm,cityname
+5099,Fujairah,Fujairah,cityname
+5100,Sohar,Sohar,cityname
+5101,Mina Al Fahal,MinaAlFahal,cityname
+5101,Mina Al Fahal,MinaAl,cityname
+5101,Mina Al Fahal,Mina Al Fahal,cityname
+5102,Orsk,Orsk,cityname
+5103,Seydi,Seydi,cityname
+5104,Mouza Kund,MouzaKund,cityname
+5104,Mouza Kund,Mouza Kund,cityname
+5105,Campana,Campana,cityname
+5106,Tyumen,Tyumen,cityname
+5107,Mouza Kund,MouzaKund,cityname
+5107,Mouza Kund,Mouza Kund,cityname
+5108,Karachi,Karachi,cityname
+5109,Karachi,Karachi,cityname
+5111,Shymkent,Shymkent,cityname
+5112,Vadinar,Vadinar,cityname
+5113,Jamnagar,Jamnagar,cityname
+5114,Mahmoodkot,Mahmoodkot,cityname
+5115,Mumbai,Mumbai,cityname
+5116,Amuay-Punto Fijo,AmuayPuntoFijo,cityname
+5116,Amuay-Punto Fijo,AmuayPunto,cityname
+5116,Amuay-Punto Fijo,Amuay Punto Fijo,cityname
+5116,Amuay-Punto Fijo,Amuay-PuntoFijo,cityname
+5116,Amuay-Punto Fijo,Amuay-Punto Fijo,cityname
+5117,Tyumen,Tyumen,cityname
+5118,Morgah,Morgah,cityname
+5119,Vadodara,Vadodara,cityname
+5120,Omsk,Omsk,cityname
+5121,Cienfuegos,Cienfuegos,cityname
+5122,Mangalore,Mangalore,cityname
+5123,Bathinda,Bathinda,cityname
+5124,Nizhnevartovsk,Nizhnevartovsk,cityname
+5125,Panipat,Panipat,cityname
+5126,Pavlodar,Pavlodar,cityname
+5127,Mathura,Mathura,cityname
+5128,Bina,Bina,cityname
+5130,Cauvery Basin,CauveryBasin,cityname
+5130,Cauvery Basin,Cauvery Basin,cityname
+5131,Sapugaskanda,Sapugaskanda,cityname
+5132,Kochi,Kochi,cityname
+5134,Manali,Manali,cityname
+5135,Puerto Limon,PuertoLimon,cityname
+5135,Puerto Limon,Puerto Limon,cityname
+5136,Tatipaka,Tatipaka,cityname
+5137,Visakh,Visakh,cityname
+5138,Dushanzi,Dushanzi,cityname
+5139,Karamay,Karamay,cityname
+5140,Komsomolsk-on-Amur,KomsomolskonAmur,cityname
+5140,Komsomolsk-on-Amur,Komsomolskon,cityname
+5140,Komsomolsk-on-Amur,Komsomolsk on Amur,cityname
+5140,Komsomolsk-on-Amur,Komsomolsk-on-Amur,cityname
+5142,Barauni,Barauni,cityname
+5143,Paradip,Paradip,cityname
+5144,Urumqi,Urumqi,cityname
+5145,Haldia,Haldia,cityname
+5146,Achinsk,Achinsk,cityname
+5147,Bongaigaon,Bongaigaon,cityname
+5148,Guwahati,Guwahati,cityname
+5149,Chittagong,Chittagong,cityname
+5150,Numaligarh,Numaligarh,cityname
+5151,Chauk,Chauk,cityname
+5152,Thanpayarkan,Thanpayarkan,cityname
+5153,Digboi,Digboi,cityname
+5156,Bangkok,Bangkok,cityname
+5157,Chon Buri,ChonBuri,cityname
+5157,Chon Buri,Chon Buri,cityname
+5159,"Map Ta
+  Phut","Map Ta
+  Phut",cityname
+5160,Rayong,Rayong,cityname
+5162,Rayong,Rayong,cityname
+5163,Dumai,Dumai,cityname
+5164,Port Dickson,PortDickson,cityname
+5164,Port Dickson,Port Dickson,cityname
+5165,Port Dickson,PortDickson,cityname
+5165,Port Dickson,Port Dickson,cityname
+5166,Melaka,Melaka,cityname
+5167,Kertih,Kertih,cityname
+5168,Lanzhou,Lanzhou,cityname
+5169,Jurong,Jurong,cityname
+5170,Pulau Merlimau,PulauMerlimau,cityname
+5170,Pulau Merlimau,Pulau Merlimau,cityname
+5171,Pulau Bukom,PulauBukom,cityname
+5171,Pulau Bukom,Pulau Bukom,cityname
+5172,Angarsk,Angarsk,cityname
+5173,Plaju,Plaju,cityname
+5175,Balongan,Balongan,cityname
+5176,Qinzhou,Qinzhou,cityname
+5177,Quang Ngai,QuangNgai,cityname
+5177,Quang Ngai,Quang Ngai,cityname
+5178,Cilacap,Cilacap,cityname
+5179,Beihai,Beihai,cityname
+5180,Yangpu,Yangpu,cityname
+5182,Hainan,Hainan,cityname
+5183,Maoming,Maoming,cityname
+5185,Tuban,Tuban,cityname
+5186,Jingmen,Jingmen,cityname
+5187,Yueyang,Yueyang,cityname
+5188,Guangzhou,Guangzhou,cityname
+5190,Wuhan,Wuhan,cityname
+5191,Huizhou,Huizhou,cityname
+5192,Kwinana,Kwinana,cityname
+5193,Jiujiang,Jiujiang,cityname
+5194,Zhanjiang Dongxing,ZhanjiangDongxing,cityname
+5194,Zhanjiang Dongxing,Zhanjiang Dongxing,cityname
+5195,Balikpapan,Balikpapan,cityname
+5196,Cangzhou,Cangzhou,cityname
+5197,Anqing,Anqing,cityname
+5198,Jinan,Jinan,cityname
+5200,Tianjin,Tianjin,cityname
+5201,Zibo,Zibo,cityname
+5203,Nanjing Jinling,NanjingJinling,cityname
+5203,Nanjing Jinling,Nanjing Jinling,cityname
+5205,Mailiao,Mailiao,cityname
+5207,Kaohsiung,Kaohsiung,cityname
+5208,Dalin,Dalin,cityname
+5209,Qingdao,Qingdao,cityname
+5210,Bataan,Bataan,cityname
+5211,Jinxi,Jinxi,cityname
+5213,Tabangao,Tabangao,cityname
+5214,Jinzhou,Jinzhou,cityname
+5215,Taoyuan,Taoyuan,cityname
+5216,Shanghai Gaoqiao,ShanghaiGaoqiao,cityname
+5216,Shanghai Gaoqiao,Shanghai Gaoqiao,cityname
+5217,Fujian,Fujian,cityname
+5218,"Zhenhai, Ningbo",Zhenhai,cityname
+5218,"Zhenhai, Ningbo",Ningbo,cityname
+5218,"Zhenhai, Ningbo",ZhenhaiNingbo,cityname
+5218,"Zhenhai, Ningbo","Zhenhai, Ningbo",cityname
+5219,Dalian,Dalian,cityname
+5220,Dalian,Dalian,cityname
+5222,Fushun,Fushun,cityname
+5223,Daqing,Daqing,cityname
+5224,Daesan,Daesan,cityname
+5225,Jilin,Jilin,cityname
+5226,Incheon,Incheon,cityname
+5227,Yeosu,Yeosu,cityname
+5228,Nishihara,Nishihara,cityname
+5229,Ulsan,Ulsan,cityname
+5230,Onsan,Onsan,cityname
+5232,Buenos Aires,BuenosAires,cityname
+5232,Buenos Aires,Buenos Aires,cityname
+5233,Kasim,Kasim,cityname
+5234,Yamaguchi,Yamaguchi,cityname
+5235,Oita,Oita,cityname
+5236,Tokuyama,Tokuyama,cityname
+5237,Marifu,Marifu,cityname
+5238,Shikoku,Shikoku,cityname
+5239,Mizushima,Mizushima,cityname
+5240,Sakaide,Sakaide,cityname
+5241,Khabarovsk,Khabarovsk,cityname
+5242,Wakayama,Wakayama,cityname
+5243,Osaka,Osaka,cityname
+5244,Sakai,Sakai,cityname
+5245,Sakai,Sakai,cityname
+5246,Yokkaichi,Yokkaichi,cityname
+5247,Yokkaichi,Yokkaichi,cityname
+5248,Aichi,Aichi,cityname
+5250,Negishi,Negishi,cityname
+5251,Keihin,Keihin,cityname
+5252,Kawasaki,Kawasaki,cityname
+5253,Sodegaura,Sodegaura,cityname
+5254,Chiba,Chiba,cityname
+5255,Chiba,Chiba,cityname
+5256,Chiba,Chiba,cityname
+5257,Kashima,Kashima,cityname
+5258,Sendai,Sendai,cityname
+5259,Hokkaido,Hokkaido,cityname
+5260,Geelong,Geelong,cityname
+5261,Altona,Altona,cityname
+5262,Port Moresby,PortMoresby,cityname
+5262,Port Moresby,Port Moresby,cityname
+5263,Kurnell,Kurnell,cityname
+5264,Bulwer Island,BulwerIsland,cityname
+5264,Bulwer Island,Bulwer Island,cityname
+5265,Brisbane,Brisbane,cityname
+5266,Marsden Point,MarsdenPoint,cityname
+5266,Marsden Point,Marsden Point,cityname
+7222,"Nanjing, Yangzi",Nanjing,cityname
+7222,"Nanjing, Yangzi",Yangzi,cityname
+7222,"Nanjing, Yangzi",NanjingYangzi,cityname
+7222,"Nanjing, Yangzi","Nanjing, Yangzi",cityname
+7246,Jebel Ali,JebelAli,cityname
+7246,Jebel Ali,Jebel Ali,cityname
+9612,Heiratan,Heiratan,cityname
+9613,Heiratan,Heiratan,cityname
+9614,Ballsh,Ballsh,cityname
+9616,Fier,Fier,cityname
+9617,Skikda,Skikda,cityname
+9622,Adrar,Adrar,cityname
+9623,Avellaneda,Avellaneda,cityname
+9625,Clyde,Clyde,cityname
+9626,Eromanga,Eromanga,cityname
+9627,Antwerp,Antwerp,cityname
+9628,Brod,Brod,cityname
+9629,Camacari,Camacari,cityname
+9630,Guamare,Guamare,cityname
+9631,Itupeva,Itupeva,cityname
+9632,Seria,Seria,cityname
+9633,Moose Jaw,MooseJaw,cityname
+9633,Moose Jaw,Moose Jaw,cityname
+9634,N Djamena,NDjamena,cityname
+9634,N Djamena,N Djamena,cityname
+9635,Daqing,Daqing,cityname
+9636,Harbin,Harbin,cityname
+9637,Panjin,Panjin,cityname
+9638,Liaoyang,Liaoyang,cityname
+9639,Xianyang,Xianyang,cityname
+9640,Xian,Xian,cityname
+9641,Yumen,Yumen,cityname
+9642,Beijing Yanshan,BeijingYanshan,cityname
+9642,Beijing Yanshan,Beijing Yanshan,cityname
+9643,Dagang,Dagang,cityname
+9644,Renqiu,Renqiu,cityname
+9645,Shijiazhuang,Shijiazhuang,cityname
+9646,Qingdao,Qingdao,cityname
+9647,Shanghai Jinshan,ShanghaiJinshan,cityname
+9647,Shanghai Jinshan,Shanghai Jinshan,cityname
+9648,Luoyang,Luoyang,cityname
+9649,Yueyang,Yueyang,cityname
+9650,Quanzhou,Quanzhou,cityname
+9651,Pengzhou,Pengzhou,cityname
+9652,Yingkou,Yingkou,cityname
+9653,Rizhao,Rizhao,cityname
+9654,Qingdao,Qingdao,cityname
+9655,Binzhou,Binzhou,cityname
+9656,Dongying,Dongying,cityname
+9657,Cabaiguan,Cabaiguan,cityname
+9658,Bonao,Bonao,cityname
+9659,Alexandria,Alexandria,cityname
+9660,Alexandria,Alexandria,cityname
+9663,Wesseling,Wesseling,cityname
+9664,Vohburg,Vohburg,cityname
+9667,Jamnagar,Jamnagar,cityname
+9668,Baiji,Baiji,cityname
+9669,Najaf,Najaf,cityname
+9670,Nasiria,Nasiria,cityname
+9671,Diwaniyah,Diwaniyah,cityname
+9672,Qayarah,Qayarah,cityname
+9673,Erbil,Erbil,cityname
+9674,Bazian Sulaymaniyah,BazianSulaymaniyah,cityname
+9674,Bazian Sulaymaniyah,Bazian Sulaymaniyah,cityname
+9675,Aktobe,Aktobe,cityname
+9676,Jalalabad,Jalalabad,cityname
+9677,Kara-Balta,KaraBalta,cityname
+9677,Kara-Balta,Kara Balta,cityname
+9677,Kara-Balta,Kara-Balta,cityname
+9678,Kemaman,Kemaman,cityname
+9679,Thanlyin,Thanlyin,cityname
+9681,Pihyon County,PihyonCounty,cityname
+9681,Pihyon County,Pihyon County,cityname
+9682,Mongstad,Mongstad,cityname
+9683,Campina,Campina,cityname
+9684,Krasnodar,Krasnodar,cityname
+9685,Mari El,MariEl,cityname
+9685,Mari El,Mari El,cityname
+9686,Ust-Luga,UstLuga,cityname
+9686,Ust-Luga,Ust Luga,cityname
+9686,Ust-Luga,Ust-Luga,cityname
+9687,Novoshakhtinsk,Novoshakhtinsk,cityname
+9688,Nizhnekamsk,Nizhnekamsk,cityname
+9689,Nizhnekamsk,Nizhnekamsk,cityname
+9690,Kemerovo,Kemerovo,cityname
+9692,Urai,Urai,cityname
+9693,Kogalym,Kogalym,cityname
+9694,"Yanbu
+  Al-Sinaiyah",YanbuAlSinaiyah,cityname
+9694,"Yanbu
+  Al-Sinaiyah",YanbuAl,cityname
+9694,"Yanbu
+  Al-Sinaiyah",Yanbu Al Sinaiyah,cityname
+9694,"Yanbu
+  Al-Sinaiyah",YanbuAl-Sinaiyah,cityname
+9694,"Yanbu
+  Al-Sinaiyah",Yanbu,cityname
+9694,"Yanbu
+  Al-Sinaiyah","Yanbu
+  Al-Sinaiyah",cityname
+9695,Al-Jubail,AlJubail,cityname
+9695,Al-Jubail,Al Jubail,cityname
+9695,Al-Jubail,Al-Jubail,cityname
+9696,Sasolburg,Sasolburg,cityname
+9697,Gothenburg,Gothenburg,cityname
+9698,Chon Buri,ChonBuri,cityname
+9698,Chon Buri,Chon Buri,cityname
+9700,Chang Mai,ChangMai,cityname
+9700,Chang Mai,Chang Mai,cityname
+9701,Kherson,Kherson,cityname
+9702,Wilmington,Wilmington,cityname
+9703,Galena Park,GalenaPark,cityname
+9703,Galena Park,Galena Park,cityname
+9704,Corpus Christi,CorpusChristi,cityname
+9704,Corpus Christi,Corpus Christi,cityname
+9705,Saint Rose,SaintRose,cityname
+9705,Saint Rose,Saint Rose,cityname
+9706,Corpus Christi,CorpusChristi,cityname
+9706,Corpus Christi,Corpus Christi,cityname
+9707,Houston,Houston,cityname
+9708,Prudhoe Bay,PrudhoeBay,cityname
+9708,Prudhoe Bay,Prudhoe Bay,cityname
+9709,Wilmington,Wilmington,cityname
+9710,Atmore,Atmore,cityname
+9711,Fergana,Fergana,cityname
+9712,Alty Arik,AltyArik,cityname
+9712,Alty Arik,Alty Arik,cityname
+9713,Bukhara,Bukhara,cityname
+9714,Santa Anna,SantaAnna,cityname
+9714,Santa Anna,Santa Anna,cityname
+9715,Barcelona,Barcelona,cityname
+9716,Barcelona,Barcelona,cityname
+9718,Marib,Marib,cityname
+9719,Mosul,Mosul,cityname
+9720,Ningbo,Ningbo,cityname
+9731,Mumbai,Mumbai,cityname
+10786,Melaka,Melaka,cityname
+14611,Aliaga,Aliaga,cityname
+15945,El Peten,ElPeten,cityname
+15945,El Peten,El Peten,cityname
+15952,Tyulgan,Tyulgan,cityname
+15953,Ufa,Ufa,cityname
+15954,"Kolguyev
+  Island",KolguyevIsland,cityname
+15954,"Kolguyev
+  Island",Kolguyev,cityname
+15954,"Kolguyev
+  Island","Kolguyev
+  Island",cityname
+15955,Ufa,Ufa,cityname
+15956,Slavyansk-na-Kubani,SlavyansknaKubani,cityname
+15956,Slavyansk-na-Kubani,Slavyanskna,cityname
+15956,Slavyansk-na-Kubani,Slavyansk na Kubani,cityname
+15956,Slavyansk-na-Kubani,Slavyansk-na-Kubani,cityname
+15957,Kochenyovo,Kochenyovo,cityname
+15958,Khanty-Mansiysk,KhantyMansiysk,cityname
+15958,Khanty-Mansiysk,Khanty Mansiysk,cityname
+15958,Khanty-Mansiysk,Khanty-Mansiysk,cityname
+15959,Tyumen,Tyumen,cityname
+15960,Aleksandrovskoye,Aleksandrovskoye,cityname
+15961,Komi,Komi,cityname
+15962,Tomsk,Tomsk,cityname
+15963,Shakhty,Shakhty,cityname
+15964,Gukovo,Gukovo,cityname
+15965,"Novy
+  Urengoy",NovyUrengoy,cityname
+15965,"Novy
+  Urengoy",Novy,cityname
+15965,"Novy
+  Urengoy","Novy
+  Urengoy",cityname
+15966,Pervomaysk,Pervomaysk,cityname
+15967,Strezhevoy ,Strezhevoy,cityname
+15967,Strezhevoy ,Strezhevoy ,cityname
+15968,Elkhovsky,Elkhovsky,cityname
+15969,Volkhov,Volkhov,cityname
+15970,"Kolguyev
+  Island",KolguyevIsland,cityname
+15970,"Kolguyev
+  Island",Kolguyev,cityname
+15970,"Kolguyev
+  Island","Kolguyev
+  Island",cityname
+15977,Qinhuangdao,Qinhuangdao,cityname
+15978,Qinzhou,Qinzhou,cityname
+15979,Chengmai,Chengmai,cityname
+15980,Zibo,Zibo,cityname
+15981,Tianjin,Tianjin,cityname
+15982,Yantai,Yantai,cityname
+15983,Zhanjiang,Zhanjiang,cityname
+15984,Xinmin,Xinmin,cityname
+15985,Ho Chi Minh,HoChiMinh,cityname
+15985,Ho Chi Minh,HoChi,cityname
+15985,Ho Chi Minh,Ho Chi Minh,cityname
+15986,Muroran,Muroran,cityname
+15987,Tema,Tema,cityname
+15989,Tarragona,Tarragona,cityname
+15990,Ellesmere Port,EllesmerePort,cityname
+15990,Ellesmere Port,Ellesmere Port,cityname
+15991,Hamburg,Hamburg,cityname
+15992,Milford Haven,MilfordHaven,cityname
+15992,Milford Haven,Milford Haven,cityname
+15993,Abadan,Abadan,cityname
+15994,Laffan,Laffan,cityname
+15995,Mouza Kund,MouzaKund,cityname
+15995,Mouza Kund,Mouza Kund,cityname
+15996,"Bandar
+  Abbas",BandarAbbas,cityname
+15996,"Bandar
+  Abbas",Bandar,cityname
+15996,"Bandar
+  Abbas","Bandar
+  Abbas",cityname
+15997,Singapore,Singapore,cityname
+15998,Khorramshahr,Khorramshahr,cityname
+15999,Pengerang,Pengerang,cityname
+16000,Fujairah,Fujairah,cityname
+16004,Stanford-le-Hope,StanfordleHope,cityname
+16004,Stanford-le-Hope,Stanfordle,cityname
+16004,Stanford-le-Hope,Stanford le Hope,cityname
+16004,Stanford-le-Hope,Stanford-le-Hope,cityname
+16005,Seosan,Seosan,cityname
+16006,Ogbele,Ogbele,cityname
+16037,Binzhou,Binzhou,cityname
+16038,Chang Qing,ChangQing,cityname
+16038,Chang Qing,Chang Qing,cityname
+16039,Zibo,Zibo,cityname
+16040,Zhenjiang,Zhenjiang,cityname
+16041,Binzhou,Binzhou,cityname
+16042,Hejian,Hejian,cityname
+16043,Guangzhou,Guangzhou,cityname
+16044,Anning,Anning,cityname
+16045,Binzhou,Binzhou,cityname
+16046,Jinzhou,Jinzhou,cityname
+16047,Heze,Heze,cityname
+16048,Binzhou,Binzhou,cityname
+16049,Lianyungang,Lianyungang,cityname
+16050,Weifang,Weifang,cityname
+16051,Yinchuan,Yinchuan,cityname
+16052,JiNULL,JiNULL,cityname
+16053,Mudanjiang,Mudanjiang,cityname
+16054,Yinchuan,Yinchuan,cityname
+16055,Panjin,Panjin,cityname
+16056,Kuche,Kuche,cityname
+16058,Kant,Kant,cityname
+16060,Tawke,Tawke,cityname
+16061,Azadegan,Azadegan,cityname
+16062,Sharjah,Sharjah,cityname
+16063,Binzhou,Binzhou,cityname
+16064,Jieyang,Jieyang,cityname
+16065,Dongying,Dongying,cityname
+16066,Tianjin,Tianjin,cityname
+16067,Shouguang,Shouguang,cityname
+16068,JiNULL,JiNULL,cityname
+16069,Huhehot,Huhehot,cityname
+16070,Weifang,Weifang,cityname
+16071,Dongying,Dongying,cityname
+16072,Taizhou,Taizhou,cityname
+16073,Binzhou,Binzhou,cityname
+16074,YaNULL,YaNULL,cityname
+16075,YaNULL,YaNULL,cityname
+16076,Tumen,Tumen,cityname
+16077,Yangzhou,Yangzhou,cityname
+16078,Nanyang,Nanyang,cityname
+16079,Panjin,Panjin,cityname
+16080,Dongying,Dongying,cityname
+16081,Poskam,Poskam,cityname
+16082,Puyang ,Puyang,cityname
+16082,Puyang ,Puyang ,cityname
+16083,Puyang,Puyang,cityname
+16084,Panjin,Panjin,cityname
+16085,Huaian,Huaian,cityname
+16086,Suining,Suining,cityname
+16087,Rizhao,Rizhao,cityname
+16088,Weifang,Weifang,cityname
+16089,Shenyang,Shenyang,cityname
+16090,Shenyang,Shenyang,cityname
+16091,Panjin,Panjin,cityname
+16092,JiNULL,JiNULL,cityname
+16093,Songyuan,Songyuan,cityname
+16094,Suining,Suining,cityname
+16095,Guangzhou,Guangzhou,cityname
+16096,Rizhao,Rizhao,cityname
+16097,Taizhou,Taizhou,cityname
+16098,Niigata,Niigata,cityname
+16099,Ba Ria,BaRia,cityname
+16099,Ba Ria,Ba Ria,cityname
+16100,Harwich,Harwich,cityname
+16101,Salzbergen,Salzbergen,cityname
+16103,Nanchong,Nanchong,cityname
+16104,Wuxi,Wuxi,cityname
+16105,Yinchuan,Yinchuan,cityname
+16106,Yinchuan,Yinchuan,cityname
+16107,Yulin,Yulin,cityname
+16108,YaNULL,YaNULL,cityname
+16109,Zhongshan,Zhongshan,cityname
+16110,Zhoushan,Zhoushan,cityname
+16111,Qingyang,Qingyang,cityname
+16112,Dongying,Dongying,cityname
+16113,Qianjiang,Qianjiang,cityname
+16114,Anshan,Anshan,cityname
+16115,Zibo,Zibo,cityname
+16116,Zhuhai,Zhuhai,cityname
+16117,Rason,Rason,cityname
+16118,Andreevka,Andreevka,cityname
+16119,Bojonegoro,Bojonegoro,cityname
+16120,Panjin,Panjin,cityname
+16123,Tursunzoda,Tursunzoda,cityname
+16124,Palembang,Palembang,cityname
+16125,Konibodom,Konibodom,cityname
+16126,Golmud,Golmud,cityname
+16127,Kulob,Kulob,cityname
+16128,Dongying,Dongying,cityname
+16129,Dongfang,Dongfang,cityname
+16130,Dezhou,Dezhou,cityname
+16131,Dongying,Dongying,cityname
+16132,Dongying,Dongying,cityname
+16133,Guangzhou,Guangzhou,cityname
+16134,Dongying,Dongying,cityname
+16135,Dongying,Dongying,cityname
+16136,Qinhuangdao,Qinhuangdao,cityname
+16137,Dongying,Dongying,cityname
+16138,Dongying,Dongying,cityname
+16139,Dongying,Dongying,cityname
+16140,Dongying,Dongying,cityname
+16141,Foshan,Foshan,cityname
+16142,Luzhou,Luzhou,cityname
+16143,Dongying,Dongying,cityname
+16144,Dongying,Dongying,cityname
+16145,Qiqihar,Qiqihar,cityname
+16146,Foshan,Foshan,cityname
+16147,Foshan,Foshan,cityname
+16148,Dongying,Dongying,cityname
+16149,Zibo,Zibo,cityname
+16150,Changchun,Changchun,cityname
+16151,Zibo,Zibo,cityname
+16152,Heze,Heze,cityname
+16153,Heze,Heze,cityname
+16154,Heshan,Heshan,cityname
+16155,Dongying,Dongying,cityname
+16156,Golmud,Golmud,cityname
+16157,Yancheng,Yancheng,cityname
+16158,Panjin,Panjin,cityname
+16159,Yinchuan City ,YinchuanCity,cityname
+16159,Yinchuan City ,Yinchuan City ,cityname
+16160,Changyi,Changyi,cityname
+16161,Dalian,Dalian,cityname
+16162,Dandong,Dandong,cityname
+16163,Daqing,Daqing,cityname
+16164,Daqing,Daqing,cityname
+16165,Daqing,Daqing,cityname
+16166,Foshan,Foshan,cityname
+16167,Dongguan,Dongguan,cityname
+16168,Liaocheng,Liaocheng,cityname
+16169,Shenyang,Shenyang,cityname
+16170,Rudaki,Rudaki,cityname
+16171,Mbini,Mbini,cityname
+16172,"Petit
+  Couronne",PetitCouronne,cityname
+16172,"Petit
+  Couronne",Petit,cityname
+16172,"Petit
+  Couronne","Petit
+  Couronne",cityname
+16173,"Berre
+  Letang",BerreLetang,cityname
+16173,"Berre
+  Letang",Berre,cityname
+16173,"Berre
+  Letang","Berre
+  Letang",cityname
+16174,"STRADA
+  CIPATA",STRADACIPATA,cityname
+16174,"STRADA
+  CIPATA",STRADA,cityname
+16174,"STRADA
+  CIPATA","STRADA
+  CIPATA",cityname
+16175,Amarah,Amarah,cityname
+16176,Baiji,Baiji,cityname
+16177,Dukan,Dukan,cityname
+16178,Karachaganak,Karachaganak,cityname
+16179,Khanaqin,Khanaqin,cityname
+16180,Semnan,Semnan,cityname
+16181,Tokmok,Tokmok,cityname
+16182,Karatau,Karatau,cityname
+16183,Zhanaozen,Zhanaozen,cityname
+16184,Bentiu,Bentiu,cityname
+16185,"Qeshm
+  Island",QeshmIsland,cityname
+16185,"Qeshm
+  Island",Qeshm,cityname
+16185,"Qeshm
+  Island","Qeshm
+  Island",cityname
+16186,Dhodak,Dhodak,cityname
+16187,Jizan,Jizan,cityname
+16188,Bakersfield,Bakersfield,cityname
+16318,Palau Muara,PalauMuara,cityname
+16318,Palau Muara,Palau Muara,cityname
+16329,Zhanjiang,Zhanjiang,cityname
