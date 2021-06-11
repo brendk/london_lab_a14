@@ -1,0 +1,94 @@
+{
+    "databases_params": {
+        "mongoDB_Host": "127.0.0.1",
+        "mongoDB_Db": "iLox",
+        "mongoDB_Col_Tweets": "Tweets",
+        "mongoDB_Col_Headlines": "Headlines",
+        "mongoDB_Col_Merged": "Tweets_Headlines",
+        "mongoDB_Col_GPEs": "GPEs",
+        "mongoDB_Col_Refineries": "Refineries"
+    },
+    "logging": {
+        "log_file": "iLox_log_%s.log",
+        "redirect_stdout": false,
+        "redirect_stderr": false,
+        "show_pb": true
+    },
+    "tweets_scraping": {
+        "run": false,
+        "webdriver_path": "chromedrivers/chromedriver_win32_91.exe",
+        "is_headless": false,
+        "no_gui": true,
+        "max_pages": 50,
+        "max_retry_page": 3,
+        "max_retry_scroll": 3,
+        "no_replies": true,
+        "hashtag_mode": true,
+        "keywords_mode": true,
+        "id_keywords": [
+            "refining", "refinery", "refinery plant", "refineries"
+        ],
+        "events_keywords_hashtag": [
+            "fire", "outage", "turnarounds", "tar", "tars", "maintenance",
+            "downtime", "cuts", "runreduction", "run_reduction",
+            "reduction", "throughput", "explosion", "strike", "problems",
+            "capacity", "capacityreduction", "capacity_reduction", "expansion",
+            "capacityexpansion", "capacity_expansion", "newrefinery", "new",
+            "inauguration", "commissioning", "down", "runcuts", "run_cuts",
+            "shutdown", "attack", "blaze", "smoke", "cut"
+        ],
+        "events_keywords_text": [
+            "fire", "outage", "turnarounds", "tar", "tars", "maintenance", "downtime",
+            "cuts", "run reduction", "reduction", "throughput", "explosion", "strike",
+            "problems", "capacity", "capacity reduction", "expansion", "capacity expansion",
+            "new", "inauguration", "commissioning", "down", "run cuts", "shutdown",
+            "attack", "blaze", "smoke", "cut"
+        ]
+    },
+    "data_preparation": {
+        "run": false,
+        "refineries_file": "data/GeoAssets_Table.csv",
+        "owners_file": "data/GeoAsset_Owner.csv",
+        "geo_names_refineries": "data/geo_names_refineries.csv",
+        "geo_names_cities": "data/geo_names_cities.csv",
+        "ref_owners_names": "data/owners_names.csv",
+        "nominatim_user_agent": "z#7xRKtSX86S$zRUG2h2",
+        "update_refs": []
+    },
+    "refineries_matching": {
+        "global": {
+            "norps_gpes_file": "data/NORPs_to_GPEs.csv",
+            "nominatim_max_attempts": 10,
+            "nominatim_wait_error": 5,
+            "nominatim_wait": 0.5
+        },
+        "tweets_matching": {
+            "run": false,
+            "start": null,
+            "nlp_models": [
+                "en_core_web_sm", "en_core_web_md", "en_core_web_lg"
+            ]
+        },
+        "headlines_matching": {
+            "run": false,
+            "start": null,
+            "nlp_models": [
+                "en_core_web_sm", "en_core_web_md", "en_core_web_lg"
+            ]
+        }
+    },
+    "events_matching": {
+        "run": false,
+        "start": null
+    },
+    "clustering": {
+        "run": false,
+        "start": null,
+		"events_corr_mat": "data/events_corr_mat.csv",
+        "time_threshold_days": 7,
+        "no_split_days": 2,
+        "events_corr_threshold": 0.4,
+		"events_subsplit": true,
+		"events_subsplit_min_size": 50
+    }
+}
