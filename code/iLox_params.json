@@ -83,7 +83,6 @@
     },
     "clustering": {
         "run": false,
-        "start": null,
 	"events_corr_mat": "data/events_corr_mat.csv",
         "time_threshold_days": 7,
         "no_split_days": 2,
